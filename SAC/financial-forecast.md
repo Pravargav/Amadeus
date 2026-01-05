@@ -129,18 +129,11 @@ These views allow the same report to be analyzed at **different organizational l
 
 ---
 
-## Summary
 
-- **Overview** → High-level snapshot 
-- **Version Comparison** → Scenario and plan comparison 
-- **vs Actuals PY & BUD** → Performance benchmarking 
-- **Accuracy** → Forecast reliability 
-
-- **Corporate** → Company-wide 
-- **BU** → Business unit level 
-- **Function** → Department level 
 
 This structure ensures **clear, consistent, and multi-level financial reporting** in SAP Analytics Cloud. 
+
+
 
 # Planning Section – Financial Forecast (SAP Analytics Cloud)
 
@@ -294,11 +287,6 @@ Plans **cash inflows and outflows**.
 
 ---
 
-## Summary
 
-The Planning section enables FP&A teams to:
-- Build an end-to-end financial forecast
-- Plan profitability, costs, investments, and cash
-- Align operational and financial planning
 
 It serves as the **foundation for simulation and reporting** in SAP Analytics Cloud. 
