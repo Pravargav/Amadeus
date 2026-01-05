@@ -3,29 +3,29 @@
 
 i:-
 
-simple present- simple past
+**simple present**- simple past
 
-present continuos - past continuos
+**present continuos** - past continuos
 
-present perfect - past perfect
+**present perfect** - past perfect
 
-present perfect continouos - past perfect continuos
+**present perfect continouos** - past perfect continuos
 
 ii:-
 
-will - would(past form of will)
+**will** - would(past form of will)
 
-shall - should(past form of shall)
+**shall** - should(past form of shall)
 
-may - might(past form of may)
+**may** - might(past form of may)
 
-can - could(past form of can)
+**can** - could(past form of can)
 
 iii:-
 
-simple past - past perfect( past form of simple past/ past of past is past perfect)
+**simple past** - past perfect( past form of simple past/ past of past is past perfect)
 
-past continuos - past perfect continous( past form of past continuous/ past of past continous is past perfect continous).
+**past continuos** - past perfect continous( past form of past continuous/ past of past continous is past perfect continous).
 
 ---------------------------------------
 
