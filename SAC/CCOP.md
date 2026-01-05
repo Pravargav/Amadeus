@@ -94,7 +94,7 @@ Procurement wants to know:
 
 ---
 
-## 3️⃣ Why Both Views Exist in SAC
+##  Why Both Views Exist in SAC
 
 | Aspect | Planning by Account | Planning by Commodity |
 |------|-------------------|----------------------|
@@ -112,7 +112,7 @@ Procurement wants to know:
 
 ---
 
-## 4️⃣ Simple Example
+##  Simple Example
 
 ### Buying laptops for employees
 
