@@ -63,7 +63,7 @@ Purchase Type is **not the same as Account**, but it **maps to Finance accounts*
 
 ---
 
-## 3️⃣ Procurement View vs Finance (Account) View
+##  Procurement View vs Finance (Account) View
 
 | Aspect | Procurement View | Finance / Account View |
 |------|-----------------|------------------------|
@@ -75,7 +75,7 @@ Purchase Type is **not the same as Account**, but it **maps to Finance accounts*
 
 ---
 
-## 4️⃣ Real-Life Example
+##  Real-Life Example
 
 ### Buying cloud services
 
@@ -94,7 +94,7 @@ Purchase Type is **not the same as Account**, but it **maps to Finance accounts*
 
 ---
 
-## 5️⃣ Why SAP SAC Uses Purchase Type
+##  Why SAP SAC Uses Purchase Type
 
 Purchase Type helps to:
 - Standardize planning across teams
@@ -105,7 +105,7 @@ Purchase Type helps to:
 
 ---
 
-## 6️⃣ One-Line Summary
+##  One-Line Summary
 
 - **Procurement View** = *Planning by what you buy*
 - **Purchase Type** = *How that purchase is financially classified* 
