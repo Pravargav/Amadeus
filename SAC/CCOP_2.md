@@ -63,7 +63,7 @@ Purchase Type is **not the same as Account**, but it **maps to Finance accounts*
 
 ---
 
-##  Procurement View vs Finance (Account) View
+##  Procurement View vs Finance / Account View
 
 | Aspect | Procurement View | Finance / Account View |
 |------|-----------------|------------------------|
