@@ -29,7 +29,7 @@ iii:-
 
 ---------------------------------------
 
-## 🔹 What is Reported Speech?
+### 🔹 What is Reported Speech?
 
 **Reported (Indirect) Speech** is used to report what someone said **without using quotation marks**.
 
@@ -39,7 +39,7 @@ iii:-
 
 ---
 
-## 🔁 Common Rules (Apply to all types)
+### 🔁 Common Rules (Apply to all types)
 
 ### 1️⃣ Change of Pronouns
 
@@ -79,7 +79,7 @@ iii:-
 
 ---
 
-## 1️⃣ Assertive (Declarative) Sentences
+### 1️⃣ Assertive (Declarative) Sentences
 
 ### 🔹 Definition
 Sentences that **state facts or give information**.
@@ -102,7 +102,7 @@ Sentences that **state facts or give information**.
 
 ---
 
-## 2️⃣ Imperative Sentences (Order / Request / Advice / Warning)
+### 2️⃣ Imperative Sentences (Order / Request / Advice / Warning)
 
 ### 🔹 Definition
 Sentences that **command, request, advise, or warn**.
@@ -133,7 +133,7 @@ Sentences that **command, request, advise, or warn**.
 
 ---
 
-## 3️⃣ Interrogative Sentences (Questions)
+### 3️⃣ Interrogative Sentences (Questions)
 
 ### 🔹 Definition
 Sentences that **ask questions**.
@@ -164,7 +164,7 @@ Use the same **wh-word** (what, when, where, why, how)
 
 ---
 
-## 4️⃣ Exclamatory Sentences
+### 4️⃣ Exclamatory Sentences
 
 ### 🔹 Definition
 Sentences showing **emotion, joy, sorrow, surprise**, etc.
@@ -191,7 +191,7 @@ Sentences showing **emotion, joy, sorrow, surprise**, etc.
 
 ---
 
-## ⚠️ Common Mistakes to Avoid
+### ⚠️ Common Mistakes to Avoid
 
 ❌ Using question form in reported speech 
 ❌ Forgetting object after **told** 
@@ -200,7 +200,7 @@ Sentences showing **emotion, joy, sorrow, surprise**, etc.
 
 ---
 
-## 📝 Quick Summary Table
+### 📝 Quick Summary Table
 
 | Sentence Type | Connector / Form |
 |--------------|----------------|
