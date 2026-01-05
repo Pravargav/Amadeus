@@ -1,5 +1,5 @@
 
-## Note: All indirect speech in past tense so while using indirect speech use past tense
+## ⚠️Note: All indirect speech in past tense so while using indirect speech use past tense
 
 i:-
 
