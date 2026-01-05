@@ -7,3 +7,7 @@
 -> FIAC finance actuals
 
 -> SNC secure network communications
+
+-> BIT billing item type
+
+-> CIT consumption item type
