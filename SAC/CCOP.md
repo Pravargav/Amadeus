@@ -100,7 +100,7 @@ Procurement wants to know:
 |------|-------------------|----------------------|
 | Driven by | Finance (GL view) | Procurement view |
 | Focus | Cost type | Purchase type |
-| Labour costs | Included | ❌ Not included |
+| Labour costs | Included |  Not included |
 | Non-Labour | Included | Included |
 | CapEx | Included | Included |
 
