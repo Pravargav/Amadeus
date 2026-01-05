@@ -11,3 +11,5 @@
 -> BIT billing item type
 
 -> CIT consumption item type
+
+-> ZBIAR - BI aggregated record
