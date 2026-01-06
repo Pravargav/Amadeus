@@ -1,5 +1,5 @@
 
-# English Grammar: Infinitive and Helping Verbs
+## English Grammar: Infinitive and Helping Verbs
 
 When you use **"to"** as part of an infinitive verb form, it is always followed by the **base form of the verb (V1)**.
 
