@@ -1,5 +1,5 @@
 
-## English Grammar: Infinitive and Helping Verbs
+## Note : Infinitive and Helping Verbs
 
 When you use **"to"** as part of an infinitive verb form, it is always followed by the **base form of the verb (V1)**.
 
@@ -28,20 +28,4 @@ When you use **"to"** as part of an infinitive verb form, it is always followed 
 
 ---
 
-## ⚠️ Common Mistakes
 
-❌ *Is she went to school?*
-
-✅ *Did she go to school?*
-
-✅ *Is she going to school?*
-
----
-
-❌ *Was he went home?* 
-
-✅ *Did he go home?* 
-
-✅ *Was he going home?*
-
----
