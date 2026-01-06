@@ -5,24 +5,6 @@ When you use **"to"** as part of an infinitive verb form, it is always followed 
 
 ---
 
-## ⚠️ Common Mistakes
-
-❌ *Is she went to school?*
-
-✅ *Did she go to school?*
-
-✅ *Is she going to school?*
-
----
-
-❌ *Was he went home?* 
-
-✅ *Did he go home?* 
-
-✅ *Was he going home?*
-
----
-
 ## 📝 Quick Tip
 
 - **IS / WAS** → used with *adjectives*, *nouns*, or *–ing verbs*
@@ -50,3 +32,21 @@ When you use **"to"** as part of an infinitive verb form, it is always followed 
 
 - **Helping verbs (do/does/did)** → main verb = **V1**  
 - **Main verb (do/did)** → normal tense rules
+
+## ⚠️ Common Mistakes
+
+❌ *Is she went to school?*
+
+✅ *Did she go to school?*
+
+✅ *Is she going to school?*
+
+---
+
+❌ *Was he went home?* 
+
+✅ *Did he go home?* 
+
+✅ *Was he going home?*
+
+---
