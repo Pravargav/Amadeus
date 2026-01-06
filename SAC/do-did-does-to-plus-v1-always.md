@@ -28,11 +28,6 @@ When you use **"to"** as part of an infinitive verb form, it is always followed 
 
 ---
 
-### ✅ Summary
-
-- **Helping verbs (do/does/did)** → main verb = **V1**  
-- **Main verb (do/did)** → normal tense rules
-
 ## ⚠️ Common Mistakes
 
 ❌ *Is she went to school?*
