@@ -13,6 +13,8 @@ When you use **"to"** as part of an infinitive verb form, it is always followed 
 
 ✅ *Is she going to school?*
 
+---
+
 ❌ *Was he went home?* 
 
 ✅ *Did he go home?* 
