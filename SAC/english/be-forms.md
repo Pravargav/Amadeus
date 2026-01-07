@@ -1,13 +1,13 @@
 ### Be Forms List -
 
-*Present*: am, is, are
+*Present*: am, is, are(v1)
 
-*Past*: was, were
+*Past*: was, were(v2)
 
 *Future*: will be, shall be
 
-*Base*: be
+*Base*: be(v1)
 
-*Present Participle:* being
+*Present Participle:* being(v4)
 
-*Past Participle:* been
+*Past Participle:* been(v3)
