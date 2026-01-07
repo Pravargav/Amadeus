@@ -10,7 +10,7 @@
 
 *Present Participle:* being(v4)
 
-### Base be usage - raw v1 form -
+### Base be(v1) usage - 
 
 *Future*: will be, shall be
 
