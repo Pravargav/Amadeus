@@ -27,7 +27,7 @@ Auxiliary (be-form / has been / will be etc.)
 
 1️⃣ Do / Does / Did Questions (Simple Tenses)
 
-*Note*: Do / Does/ Did always succeded by v1 so used only in simple present/past type questions
+**Note** : *Do / Does/ Did always succeded by v1 so used only in simple present/past type questions.*
 
 🔸 Present Simple
 
