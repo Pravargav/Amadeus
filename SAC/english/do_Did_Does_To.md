@@ -5,9 +5,10 @@ When you use **"to"** as part of an infinitive verb form, it is always followed 
 
 
 
-### -> Quick Tip
+## -> Quick Tip
 
 - **IS / WAS** → used with *adjectives*, *nouns*, or *–ing verbs*
+  
 - **DO / DID** → used with *base verb (V1)*
 
 
