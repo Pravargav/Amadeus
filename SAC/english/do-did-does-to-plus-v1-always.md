@@ -27,5 +27,30 @@ When you use **"to"** as part of an infinitive verb form, it is always followed 
  Here **do/did** itself is the main verb, so the rule of V1 after it does not apply.
 
 ---
+**Note** : *Do / Does/ Did always succeded by v1 so used only in simple present/past type questions.*
 
+🔸 Present Simple
+
+
+Do/Does → is / are
+
+Main verb → V3
+
+
+🔸 Past Simple
+
+Did → was / were
+
+###### 📌 Example ######
+Active:
+
+> Does he write a letter?
+
+
+
+Passive:
+
+> Is a letter written by him?
+
+---
 
