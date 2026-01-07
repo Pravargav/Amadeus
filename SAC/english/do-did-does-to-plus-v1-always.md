@@ -45,11 +45,9 @@ Did → was / were
 
 ###### 📌 Examples ######
 Active:
-
 > Does he write a letter?
 
 Passive:
-
 > Is a letter written by him?
 
 
