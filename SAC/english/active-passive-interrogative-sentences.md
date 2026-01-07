@@ -1,7 +1,7 @@
 
 ---
 
-🔹 General Structures
+### 🔹 General Structures
 
 ✅ Active Interrogative
 
