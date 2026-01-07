@@ -64,7 +64,6 @@ Main verb → V3
 
 
 
----
 
 🔸 Past Simple
 
@@ -112,7 +111,6 @@ add being + V3
 
 
 
----
 
 🔸 Past Continuous
 
@@ -148,7 +146,7 @@ Passive:
 
 
 
----
+
 
 🔸 Past Perfect
 
