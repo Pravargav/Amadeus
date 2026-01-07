@@ -14,6 +14,4 @@
 
 *Future*: will be, shall be
 
-*Modal*: may be, can be
 
-*To*: to be
