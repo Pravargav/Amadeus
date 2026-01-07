@@ -10,17 +10,6 @@
 
 🔸 Present Simple
 
-Active:
-
-> Does he write a letter?
-
-
-
-Passive:
-
-> Is a letter written by him?
-
-
 
 📌 Rule:
 
@@ -38,7 +27,16 @@ Main verb → V3
 
 Did → was / were
 
+###### Example ######
+Active:
 
+> Does he write a letter?
+
+
+
+Passive:
+
+> Is a letter written by him?
 
 ---
 
