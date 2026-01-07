@@ -1,18 +1,3 @@
----
-
-🔹 Interrogative Sentences (Active ↔ Passive)
-
-An interrogative sentence asks a question.
-
-
----
-
-✅ Key Rule (Very Important)
-
-👉 The tense does NOT change
-👉 Only the subject–object positions change
-👉 Passive = be-form + V3
-
 
 ---
 
