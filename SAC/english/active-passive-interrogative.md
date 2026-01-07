@@ -6,32 +6,7 @@
 
 1️⃣ Do / Does / Did Questions (Simple Tenses)
 
-**Note** : *Do / Does/ Did always succeded by v1 so used only in simple present/past type questions.*
-
-🔸 Present Simple
-
-
-Do/Does → is / are
-
-Main verb → V3
-
-
-🔸 Past Simple
-
-Did → was / were
-
-###### 📌 Example ######
-Active:
-
-> Does he write a letter?
-
-
-
-Passive:
-
-> Is a letter written by him?
-
----
+,
 
 2️⃣ Starting with Is / Am / Are Questions (Continuous Tenses)
 ,
