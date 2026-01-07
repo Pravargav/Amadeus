@@ -1,11 +1,11 @@
 
-## Note : Infinitive and Helping Verbs
+## Note1 : Infinitive and Helping Verbs
 
 When you use **"to"** as part of an infinitive verb form, it is always followed by the **base form of the verb (V1)**.
 
 
 
-##  Quick Tip
+## Note2 : usage of is/was/do/did
 
 - **IS / WAS** → used with *adjectives*, *nouns*, or *–ing verbs*
   
