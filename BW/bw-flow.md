@@ -1,6 +1,6 @@
 🧩 SAP BW Flow (sap_bw_flow.md)
 
-```Mermaid
+```html
 flowchart TD
     A[Source System<br/>(ECC / S4 / Flat File)] --> B[InfoObjects<br/>(Characteristics & Key Figures)]
     B --> C[ADSO<br/>(Inbound / Active / Change Log)]
@@ -10,7 +10,7 @@ flowchart TD
     
 🧩 Node.js Flow (nodejs_flow.md)
 
-```Mermaid
+```html
 flowchart TD
     A[API / Source System<br/>(REST / File / Event)] --> B[Schema Fields<br/>(Model / DTO)]
     B --> C[Database Collection<br/>(MongoDB / SQL)]
