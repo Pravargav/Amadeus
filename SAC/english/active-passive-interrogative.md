@@ -11,23 +11,16 @@
 🔸 Present Simple
 
 
-📌 Rule:
-
 Do/Does → is / are
 
 Main verb → V3
 
 
-
-
 🔸 Past Simple
-
-
-📌 Rule:
 
 Did → was / were
 
-###### Example ######
+###### 📌 Example ######
 Active:
 
 > Does he write a letter?
