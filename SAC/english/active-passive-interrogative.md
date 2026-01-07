@@ -74,104 +74,18 @@ Did → was / were
 
 ---
 
-2️⃣ Is / Am / Are Questions (Continuous Tenses)
-
-🔸 Present Continuous
-
-Active:
-
-> Is he writing a letter?
-
-
-
-Passive:
-
-> Is a letter being written by him?
-
-
-
-📌 Rule:
-
-is/am/are → same
-
-add being + V3
-
-
-
-
-🔸 Past Continuous
-
-Active:
-
-> Was she painting a picture?
-
-
-
-Passive:
-
-> Was a picture being painted by her?
-
-
+2️⃣ Starting with Is / Am / Are Questions (Continuous Tenses)
 
 
 ---
 
-3️⃣ Has / Have / Had Questions (Perfect Tenses)
-
-🔸 Present Perfect
-
-Active:
-
-> Has he completed the work?
-
-
-
-Passive:
-
-> Has the work been completed by him?
-
-
-
-
-
-
-🔸 Past Perfect
-
-Active:
-
-> Had they finished the project?
-
-
-
-Passive:
-
-> Had the project been finished by them?
-
-
+3️⃣ Starting with Has / Have / Had Questions (Perfect Tenses)
 
 
 ---
 
-4️⃣ Modal Verbs (can, will, must, should, etc.)
-
-🔸 Modal Interrogative
-
-Active:
-
-> Can you solve this problem?
+4️⃣ Qns starting with Modal Verbs (can, will, must, should, etc.)
 
 
 
-Passive:
 
-> Can this problem be solved by you?
-
-
-
-📌 Rule:
-
-Modal + be + V3
-
-
-
----
