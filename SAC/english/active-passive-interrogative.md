@@ -33,17 +33,6 @@ Main verb → V3
 
 🔸 Past Simple
 
-Active:
-
-> Did she paint a picture?
-
-
-
-Passive:
-
-> Was a picture painted by her?
-
-
 
 📌 Rule:
 
