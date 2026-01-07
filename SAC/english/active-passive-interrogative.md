@@ -1,8 +1,8 @@
 
 
-🔹 Type-wise Explanation
+🔹 Type-wise Explanation:-
 
----
+
 
 1️⃣ Do / Does / Did Questions (Simple Tenses)
 ,
