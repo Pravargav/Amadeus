@@ -75,14 +75,10 @@ Did → was / were
 ---
 
 2️⃣ Starting with Is / Am / Are Questions (Continuous Tenses)
-
-
----
+,
 
 3️⃣ Starting with Has / Have / Had Questions (Perfect Tenses)
-
-
----
+,
 
 4️⃣ Qns starting with Modal Verbs (can, will, must, should, etc.)
 
