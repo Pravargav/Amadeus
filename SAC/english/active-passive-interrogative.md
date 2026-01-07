@@ -1,27 +1,6 @@
 
----
-
-### 🔹 General Structures
-
-✅ Active Interrogative
-
-Auxiliary (Do / Does / Did / Is / Was / Are / Has / Will etc.)
-+ Subject
-+ Verb
-+ Object ?
-
-✅ Passive Interrogative
-
-Auxiliary (be-form / has been / will be etc.)
-+ Object (now subject)
-+ V3
-+ by + Subject ?
-
-
----
 
 🔹 Type-wise Explanation
-
 
 ---
 
