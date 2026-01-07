@@ -40,8 +40,8 @@ Passive:
 
 #### 📌 Examples ####
 
-- **I do my homework every day.** (V1)  
-- **He did his job well.** (V2)  
+- *I do my homework every day.* (V1)  
+- *He did his job well.* (V2)  
 
  Here **do/did** itself is the main verb, so the rule of V1 after it does not apply.
 
