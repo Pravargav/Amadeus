@@ -16,7 +16,7 @@ When you use **"to"** as part of an infinitive verb form, it is always followed 
 
 
 
-## Do / Does / Did Questions (Simple Tenses)
+## do / does / did Questions (Simple Tenses)
 
 **Note** : *Do / Does/ Did always succeded by v1 so used only in simple present/past type questions.*
 
@@ -31,7 +31,7 @@ Passive:
 -> Is a letter written by him?
 
 
-##  DO and DID are used with V1 (base form of the verb) — but with one small exception:
+##  do and did are used with V1 (base form of the verb) — but with one small exception:
 
 - When **DO / DOES / DID** are **helping verbs**, the main verb is always **V1**.
 - When **DO / DID** are used as **main verbs**, then **V1 / V2** is used normally.
