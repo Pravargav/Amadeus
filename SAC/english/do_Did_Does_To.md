@@ -31,7 +31,8 @@ Passive:
 -> Is a letter written by him?
 
 
-##  do and did are used with V1 (base form of the verb) — but with one small exception:
+##  do and did are used with V1 (base form of the verb) — 
+*-but with one small exception:-*
 
 - When **DO / DOES / DID** are **helping verbs**, the main verb is always **V1**.
 - When **DO / DID** are used as **main verbs**, then **V1 / V2** is used normally.
