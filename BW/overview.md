@@ -1,6 +1,6 @@
 -> SOM - means sales order management later name changed to subscription order managerment
 
--> SOM - contains - DSO, master data, transaction data folders in eclipse
+-> SOM - contains - DSO, master data, transaction data, composite provider folders in eclipse
 
 -> SAP ECC is old form of ERP of SAP S/4 HANA but s/4 hana only support hana database but ECC support all databases import like oracle,google etc..
 
@@ -28,4 +28,9 @@
 
    BW HANA is DataWareHouse for OLAP
 
-              
+-> In process chains we use DTP from one system to another , one model to another etc. we notice these in coupa chain headings where all flow chart steps are each type of DTP(Data Transfer Process).
+
+-> The eclipse tool we use is a BW ETL process where we map fields and transfer necessary data
+
+
+
