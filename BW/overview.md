@@ -24,5 +24,8 @@
 
    data warehouse  - OLAP - complex analytical processing
 
-->
+-> S/4 HANA is an ERP for OLTP 
+
+   BW HANA is DataWareHouse for OLAP
+
               
