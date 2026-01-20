@@ -105,19 +105,7 @@ Every **Monday at 9 AM**
 
 ---
 
-## 6️⃣ Public Story vs Private Story
-
-### 🟢 Public Story
-- Visible to other users
-- Shared reporting asset
-
-### 🔵 Private Story
-- Only visible to creator
-- Draft or personal analysis
-
----
-
-## 7️⃣ Other “Public” Terms That Confuse People
+## 6️⃣ Other “Public” Terms That Confuse People
 
 ### 🔹 Public Dimension
 - Shared **master data**
