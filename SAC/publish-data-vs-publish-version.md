@@ -80,44 +80,7 @@ In **SAP Analytics Cloud (SAC)**, **“Publish Data”** and **“Publish Story�
 
 ---
 
-## 🧠 Ultra-Simple Memory Trick
 
-> **Publish Data = Numbers move**
-> **Publish Story = Screen moves**
-
----
-
-## 🔄 SAP BW Analogy
-
-| SAC             | SAP BW                  |
-| --------------- | ----------------------- |
-| Private Version | Local data (simulation) |
-| Publish Data    | Activate / Update cube  |
-| Publish Story   | Transport report        |
-
----
-
-## ❗ Common Mistakes (Interview Traps)
-
-❌ *Publishing a story updates data*
-✅ **Wrong** – only sharing UI
-
-❌ *Publish Data makes story public*
-✅ **Wrong** – data only
-
----
-
-## 🎯 One-Line Interview Answer
-
-> **“Publish Data commits planning data from private to public version, while Publish Story only shares the dashboard layout without affecting data.”**
-
----
-
-## ✅ Key Takeaway
-
-* **Publish Data = Commit planning numbers**
-* **Publish Story = Share dashboard design**
-* **They operate at different levels and never overlap**
 
 # Publish Data in SAC – Does It Change Actuals?
 
@@ -187,43 +150,4 @@ Public Forecast
 Private Version → Actuals
 ```
 
----
 
-## ⚠️ Rare Exception (Not Common in Projects)
-
-Actuals **can be changed only if ALL are true**:
-
-* Actuals is a **write-enabled planning version**
-* Model is **not connected** to BW / S/4
-* User has **write permissions**
-* Business explicitly allows manual actuals entry
-
-📌 **In 99% of real projects → Actuals are read-only**
-
----
-
-## 🎯 Interview-Ready Answer
-
-> **“No, publishing data in SAC does not change the Actuals version. It only commits data from a private planning version to its corresponding public version. Actuals remain unchanged and read-only.”**
-
----
-
-## 🧠 One-Line Memory Rule
-
-> **Publish Data = Commit plan data, not historical actuals**
-
----
-
-## 🔄 Quick Comparison
-
-| Concept         | Meaning                     |
-| --------------- | --------------------------- |
-| Private Version | Personal draft / simulation |
-| Public Version  | Shared planning data        |
-| Publish Data    | Commit draft → shared       |
-| Actuals         | Historical, protected data  |
-
----
-
-✅ **Key Takeaway:**
-Publishing data affects **planning versions only**, never **Actuals**.
