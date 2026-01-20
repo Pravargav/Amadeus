@@ -93,13 +93,4 @@ Instead of forecasting only until December, it **adds an extra month every perio
 - Large companies and **modern finance teams** use **monthly rolling forecasts**
 - Provides **real-time forward visibility**
 
----
 
-## 🧠 One-Line Summary (Exam Friendly)
-
-| Term | Frequency (Majority) | Purpose |
-|----|----------------------|---------|
-| Budget | Yearly | Set fixed targets |
-| Planning | Yearly (reviewed quarterly) | Define execution strategy |
-| Forecast | Monthly | Predict year-end outcome |
-| Rolling Forecast | Monthly | Always look 12+ months ahead |
