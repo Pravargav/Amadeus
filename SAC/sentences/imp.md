@@ -5,3 +5,5 @@
 -> Did he go to the office?
 
 -> Let me know if there are any issues
+
+-> Hi Rakesh, I forgot to mention earlier — Monday is a holiday.
