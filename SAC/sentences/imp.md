@@ -7,3 +7,11 @@
 -> Let me know if there are any issues
 
 -> Hi Rakesh, I forgot to mention earlier — Monday is a holiday.
+
+-> Is he returned ❌
+
+-> 1️⃣ Has he returned? ✅(Present perfect)
+
+-> 2️⃣ Does he return? ✅ (Simple present)
+
+-> 3️⃣ Did he return? ✅ (Simple past)
