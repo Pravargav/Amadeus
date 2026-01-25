@@ -10,8 +10,8 @@
 
 -> Is he returned ❌
 
--> 1️⃣ Has he returned? ✅(Present perfect)
+-> Does he returned? ✅(Present perfect)
 
--> 2️⃣ Does he return? ✅ (Simple present)
+-> Does he return? ✅ (Simple present)
 
--> 3️⃣ Did he return? ✅ (Simple past)
+-> Did he return? (Siiiiimple past)
