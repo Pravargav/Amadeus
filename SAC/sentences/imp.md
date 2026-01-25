@@ -10,7 +10,7 @@
 
 -> Is he returned ❌
 
--> Does he returned? (Present perfect)
+-> Has he returned? (Present perfect)
 
 -> Does he return? (Simple present)
 
