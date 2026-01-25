@@ -8,7 +8,9 @@
 
 -> Hi Rakesh, I forgot to mention earlier — Monday is a holiday.
 
--> Is he returned ❌
+-> Is he returned?❌
+
+-> He is returned.❌
 
 -> Has he returned? (Present perfect)
 
