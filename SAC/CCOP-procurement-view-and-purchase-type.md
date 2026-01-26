@@ -91,16 +91,5 @@ Purchase Type is **not the same as Account**, but it **maps to Finance accounts*
 
 ➡ Same spend, **two different lenses**
 
----
 
-##  Why SAP SAC Uses Purchase Type
-
-Purchase Type helps to:
-- Standardize planning across teams
-- Separate **OpEx vs CapEx**
-- Enable approval workflows
-- Support reporting and variance analysis
-- Map procurement planning to finance accounts automatically
-
-\
 
