@@ -22,4 +22,4 @@
 
 -> He asked why I logged in to the client system.❌
 
--> Spoon some curry onto the plate.
+-> Put/Spoon some curry onto the plate.
