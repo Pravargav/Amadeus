@@ -107,11 +107,6 @@ It allows FP&A teams to build a **complete financial forecast** across P&L, Bala
 ### Purpose
 Plans **revenue, cost of sales, and margin**.
 
-### What Is Planned
-- Revenue
-- Cost of Goods Sold (COGS)
-- Gross margin %
-
 ### Why It Is Used
 - Core profitability planning
 - Assess margin impact of volume and pricing changes
@@ -122,11 +117,6 @@ Plans **revenue, cost of sales, and margin**.
 
 ### Purpose
 Plans **operating expenses and headcount**.
-
-### What Is Planned
-- Fixed operating costs
-- Salaries and benefits
-- Full-Time Equivalents (FTEs)
 
 ### Why It Is Used
 - Workforce and cost control
@@ -154,11 +144,6 @@ Plans which costs are **capitalized instead of expensed**.
 ### Purpose
 Plans **investments in long-term assets**.
 
-### What Is Planned
-- New assets
-- Infrastructure investments
-- IT and operational CapEx
-
 ### Why It Is Used
 - Control investment spending
 - Support long-term growth planning
@@ -169,10 +154,6 @@ Plans **investments in long-term assets**.
 
 ### Purpose
 Plans depreciation and amortization of **existing assets**.
-
-### What Is Planned
-- Asset depreciation schedules
-- Amortization expenses
 
 ### Why It Is Used
 - Reflects asset consumption
@@ -185,9 +166,6 @@ Plans depreciation and amortization of **existing assets**.
 ### Purpose
 Calculates depreciation for **newly planned CapEx**.
 
-### What Is Planned
-- Depreciation impact of new investments
-
 ### Why It Is Used
 - Automatically derives future expenses
 - Ensures accurate long-term forecasting
@@ -199,10 +177,6 @@ Calculates depreciation for **newly planned CapEx**.
 ### Purpose
 Plans **strategic and transformation initiatives**.
 
-### What Is Planned
-- New business initiatives
-- Growth projects
-- Cost-saving programs
 
 ### Why It Is Used
 - Evaluate business cases
@@ -220,10 +194,6 @@ Plans financial items **below EBIT**.
 - Taxes
 - One-off or exceptional items
 
-### Why It Is Used
-- Complete P&L forecasting
-- Understand net result impact
-
 ---
 
 ## 9️⃣ Cash Flow
@@ -236,15 +206,4 @@ Plans **cash inflows and outflows**.
 - Investing cash flow
 - Financing cash flow
 
-### Key Concept
-- Uses **Liquidity Items** to classify cash movements
 
-### Why It Is Used
-- Ensure liquidity availability
-- Support cash flow forecasting and risk management
-
----
-
-
-
-It serves as the **foundation for simulation and reporting** in SAP Analytics Cloud. 
