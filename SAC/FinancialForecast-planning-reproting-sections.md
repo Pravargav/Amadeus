@@ -62,7 +62,6 @@ Measures **forecast quality**.
 
 These views allow the same report to be analyzed at **different organizational levels**.
 
----
 
 ###  Corporate View
 
