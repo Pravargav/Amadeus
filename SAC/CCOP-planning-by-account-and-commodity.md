@@ -29,17 +29,6 @@ This view is mainly used by **Finance teams** for **budgeting, cost control, and
 
 ---
 
-### 🔹 CBS (Cost Breakdown Structure)
-- A **grouping structure** to categorize costs
-- Used to:
-  - Track costs at a higher level
-  - Compare **Actual vs Plan**
-- Examples:
-  - IT costs
-  - HR costs
-  - Travel costs
-
----
 
 ### 🔹 Non-Labour
 - Costs **not related to people**
@@ -126,11 +115,5 @@ Procurement wants to know:
 
 ---
 
-## 🔑 Key Takeaways
 
-- **Account-based planning** = *What type of cost?*
-- **Commodity-based planning** = *What are we buying?*
-- SAC supports both to satisfy **Finance and Procurement** needs
-
----
 
