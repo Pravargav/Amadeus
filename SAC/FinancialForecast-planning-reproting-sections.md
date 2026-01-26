@@ -100,7 +100,7 @@ It allows FP&A teams to build a **complete financial forecast** across P&L, Bala
 
 > Note: Supportive planning reports such as **CCOP vs BPOP** and **Sanity Checks** are excluded.
 
----
+
 
 ## 1️⃣ Gross Margin
 
