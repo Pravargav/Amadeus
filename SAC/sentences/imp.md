@@ -23,3 +23,7 @@
 -> He asked why I logged in to the client system.❌
 
 -> Put/Spoon some curry onto the plate.
+
+-> Why are you moving all over the place.
+
+-> It's very embarassing.
