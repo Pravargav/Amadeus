@@ -8,11 +8,8 @@ In **SAP SAC / Enterprise Planning**, these are **business views**, not technica
 
 The **Procurement View** looks at planning data **from a purchasing perspective**, rather than a finance perspective.
 
-### Focus Areas
-- What is being bought
-- From whom (vendor)
-- In what quantity
-- For what purpose
+
+
 
 Procurement teams think in terms of **materials, services, and assets**, not GL accounts.
 
@@ -21,13 +18,15 @@ Procurement teams think in terms of **materials, services, and assets**, not GL 
 - How much budget is required?
 - Is the spend **OpEx or CapEx**?
 - Which vendor or category does it belong to?
+- Quantity of the goods or services we are buying?
+- For what purpose we are buying?
 
 ### Typical Dimensions in Procurement View
 - Commodity
 - Vendor
 - Category
 - Purchase Type
-- Cost Center / Project
+- Project 
 
 ---
 
