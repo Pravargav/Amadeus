@@ -70,46 +70,21 @@ These views allow the same report to be analyzed at **different organizational l
 - Entire company
 - Consolidated financial data
 
-### Used By
-- Corporate FP&A
-- Senior management
 
-### Purpose
-- Company-wide performance
-- Strategic decision-making
-- External reporting alignment
-
----
 
 ## 6️⃣ Business Unit (BU) View
 
 ### Scope
 - Individual business units or divisions
 
-### Used By
-- BU FP&A teams
-- BU leadership
 
-### Purpose
-- BU-level performance tracking
-- Accountability and ownership
-- Identify strong and weak business units
-
----
 
 ## 7️⃣ Function View
 
 ### Scope
 - Functional departments (HR, IT, Finance, Sales, etc.)
 
-### Used By
-- Functional controllers
-- Cost center owners
 
-### Purpose
-- Cost control
-- Functional efficiency analysis
-- Department-level budgeting and monitoring
 
 ---
 
