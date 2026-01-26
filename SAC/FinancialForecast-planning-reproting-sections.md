@@ -58,30 +58,30 @@ Measures **forecast quality**.
 
 ---
 
-### Reporting Views – Corporate vs Business Unit vs Function
+## Reporting Views – Corporate vs Business Unit vs Function
 
 These views allow the same report to be analyzed at **different organizational levels**.
 
 ---
 
-## 5️⃣ Corporate View
+###  Corporate View
 
-### Scope
+#### Scope
 - Entire company
 - Consolidated financial data
 
 
 
-## 6️⃣ Business Unit (BU) View
+###  Business Unit (BU) View
 
-### Scope
+#### Scope
 - Individual business units or divisions
 
 
 
-## 7️⃣ Function View
+###  Function View
 
-### Scope
+#### Scope
 - Functional departments (HR, IT, Finance, Sales, etc.)
 
 
