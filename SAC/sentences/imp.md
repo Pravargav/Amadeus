@@ -28,8 +28,10 @@
 
 -> It's very embarassing.
 
--> Are you done with bathing? (sounds a bit unnatural) 
+-> Are you done with bathing? (sounds a bit unnatural) ❌
 
 -> Are you done bathing?
 
--> Have you finished bathing? (more natural)     ch)
+-> Have you finished bathing? (more natural)
+
+-> Are you done with your bath? 
