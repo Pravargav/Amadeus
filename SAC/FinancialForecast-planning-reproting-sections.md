@@ -58,7 +58,7 @@ Measures **forecast quality**.
 
 ---
 
-## Reporting Views – Corporate vs Business Unit vs Function
+## 5️⃣ Reporting Views – Corporate vs Business Unit vs Function
 
 These views allow the same report to be analyzed at **different organizational levels**.
 
