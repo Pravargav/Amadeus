@@ -103,10 +103,5 @@ Purchase Type helps to:
 - Support reporting and variance analysis
 - Map procurement planning to finance accounts automatically
 
----
-
-##  One-Line Summary
-
-- **Procurement View** = *Planning by what you buy*
-- **Purchase Type** = *How that purchase is financially classified* 
+\
 
