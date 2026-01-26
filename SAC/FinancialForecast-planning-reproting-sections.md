@@ -15,10 +15,6 @@ Provides a **high-level snapshot** of financial performance.
 - Revenue, costs, margin, EBITDA, cash flow (high level)
 - Aggregated view for quick decision-making
 
-### Why It Is Used
-- Executive and management overview
-- First screen to assess overall performance
-- Identify major deviations at a glance
 
 ---
 
@@ -32,10 +28,6 @@ Compares **multiple planning versions** side by side.
 - Forecast V1 vs Forecast V2
 - Best Case vs Worst Case
 
-### Why It Is Used
-- Understand impact of planning changes
-- Analyze scenario differences
-- Support management discussions and approvals
 
 ---
 
@@ -50,10 +42,6 @@ Compares the current forecast or plan against:
 - Historical performance (PY)
 - Original budget (BUD)
 
-### Why It Is Used
-- Track performance trends
-- Identify growth or decline
-- Measure variance against commitments
 
 ---
 
@@ -67,10 +55,6 @@ Measures **forecast quality**.
 - Accuracy percentages
 - Variance analysis
 
-### Why It Is Used
-- Improve planning reliability
-- Assess FP&A forecast effectiveness
-- Identify areas needing better assumptions
 
 ---
 
