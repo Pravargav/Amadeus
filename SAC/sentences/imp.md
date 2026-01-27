@@ -1,6 +1,6 @@
 -> I missed checking this week’s shift details earlier.
 
--> It looks like your tickets haven’t been updated yet. Could you please check once?
+-> It looks like your tickets haven’t been updated yet. Could you please check once?(passive form of present perfect tense)
 
 -> Did he go to the office?
 
@@ -36,9 +36,9 @@
 
 -> Are you done with your bath? 
 
--> How long have you been in a relationship?
+-> How long have you been in a relationship?(past perfect continuos-even though no -ing form)
 
--> How long have you been married?
+-> How long have you been married?(past perfect continuos-even though no -ing form)
 
 -> What’s there for breakfast?❌
 
