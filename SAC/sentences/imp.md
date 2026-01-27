@@ -51,3 +51,7 @@
 -> Whom he is calling?❌
 
 -> Whom is he calling?
+
+-> The meeting lasts a long time.
+
+-> The meeting lasts long.❌
