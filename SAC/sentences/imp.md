@@ -35,3 +35,5 @@
 -> Have you finished bathing? (more natural)
 
 -> Are you done with your bath? 
+
+->How long have you been in a relationship
