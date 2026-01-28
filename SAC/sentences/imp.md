@@ -62,6 +62,6 @@
 
 -> Which of your requests were approved? 
 
--> Which of your requests got approved? 
+-> Which of your requests got approved? ❌
 
 -> Which of your requests have been approved?(passive voice)
