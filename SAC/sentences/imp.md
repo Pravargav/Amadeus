@@ -57,3 +57,7 @@
 -> The meeting lasts long.❌
 
 -> I have been getting the same issue every time/whenver I try to log in for a week.
+
+-> May I know the scheduled time for the meeting?
+
+-> What time is the meeting scheduled?
