@@ -58,6 +58,5 @@
 
 -> I have been getting the same issue every time/whenver I try to log in for a week.
 
--> May I know the scheduled time for the meeting?
+-> What is the scheduled time for the meeting?( Here scheduled is adjective not verb)
 
--> What time is the meeting scheduled?
