@@ -60,3 +60,5 @@
 
 -> What is the scheduled time for the meeting?( Here scheduled is adjective not verb)
 
+-> What time is the meeting scheduled for?
+
