@@ -1,1 +1,1 @@
--> Don't use 'got' in any of the conversations.
+-> Don't use 'got' in any of the conversations with arya.
