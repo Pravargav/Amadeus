@@ -60,4 +60,8 @@
 
 -> What is the scheduled time for the meeting?( Here scheduled is adjective not verb)
 
+-> Which of your requests were approved? 
+
+-> Which of your requests got approved? 
+
 
