@@ -73,3 +73,4 @@
 -> The kitchen is *upstairs*.(location)
 
 -> He ran up the stairs to his bedroom.(direction)
+
