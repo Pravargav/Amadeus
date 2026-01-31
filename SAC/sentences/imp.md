@@ -65,3 +65,11 @@
 -> Which of your requests got approved? ❌
 
 -> Which of your requests have been approved?(passive voice)
+
+-> How would you even manage a trip without me around?
+
+-> Without me, how exactly were you planning to go on that trip?
+
+-> Tell me, how were you supposed to pull off that trip *without my presence*/*in my absence*?
+
+
