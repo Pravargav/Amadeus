@@ -70,4 +70,6 @@
 
 -> *Lacking me/Excluding me* in the plan, how would you have taken that trip?
 
+-> The kitchen is *upstairs*.(location)
 
+-> 
