@@ -66,7 +66,7 @@
 
 -> Which of your requests have been approved?(passive voice)
 
--> Devoid of my company, would that trip even be possible for you?( means in presence/absence)
+-> *Devoid of* my company, would that trip even be possible for you?( means in presence/absence)
 
 -> *Lacking me/Excluding me* in the plan, how would you have taken that trip?
 
