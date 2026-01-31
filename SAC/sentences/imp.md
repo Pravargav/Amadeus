@@ -72,4 +72,4 @@
 
 -> The kitchen is *upstairs*.(location)
 
--> 
+-> droom his bedroom 
