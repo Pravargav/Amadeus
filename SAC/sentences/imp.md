@@ -74,3 +74,4 @@
 
 -> He ran up the stairs to his bedroom.(direction)
 
+-> I’m going upstairs to hang the washed clothes/laundry.
