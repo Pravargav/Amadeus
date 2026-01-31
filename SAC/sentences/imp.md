@@ -66,10 +66,8 @@
 
 -> Which of your requests have been approved?(passive voice)
 
--> How would you even manage a trip without me around?
+-> Devoid of my company, would that trip even be possible for you?( means in presence/absence)
 
--> Without me, how exactly were you planning to go on that trip?
-
--> Tell me, how were you supposed to pull off that trip *without my presence*/*in my absence*?
+-> *Lacking me/Excluding me* in the plan, how would you have taken that trip?
 
 
