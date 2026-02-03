@@ -81,3 +81,8 @@
 -> I tripped her off the bike.(Intentional,so don't use sentence most of the time though it is a correct sentence.)
 
 -> You look so upset/disappointed.
+
+-> She accepted the offer with reluctance, unsure if it was the right decision.
+
+-> I could'nt talk to her because of my shyness/inhibition.
+
