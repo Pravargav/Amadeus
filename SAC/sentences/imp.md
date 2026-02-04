@@ -86,3 +86,6 @@
 
 -> I could'nt talk to her because of my shyness/inhibition.
 
+-> Are you the only person who came to the office?
+
+-> Were you the only person who came to the office?” (use this if you’re talking about earlier today)
