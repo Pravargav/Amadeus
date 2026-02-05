@@ -95,3 +95,5 @@
 -> I'm not convinced.
 
 -> The website won't open/is'nt loading.
+
+-> I am not making false allegations against her.
