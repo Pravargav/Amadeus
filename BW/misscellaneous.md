@@ -15,3 +15,5 @@
 -> ZBIAR - BI aggregated record
 
 -> /SSA/BWT - ss-amadeus/bw-toolset
+
+-> PBW, EBW, TBW - three types of control-M Jobs
