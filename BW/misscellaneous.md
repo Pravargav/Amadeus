@@ -13,3 +13,5 @@
 -> CIT consumption item type
 
 -> ZBIAR - BI aggregated record
+
+-> /SSA/BWT - ss-amadeus/bw-toolset
