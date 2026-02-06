@@ -99,3 +99,5 @@
 -> I am not making false allegations against her.
 
 -> You violated/infringed the rules.
+
+-> While walking, I came across/encountered Suresh.
