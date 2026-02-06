@@ -97,3 +97,5 @@
 -> The website won't open/is'nt loading.
 
 -> I am not making false allegations against her.
+
+-> You violated/infringed the rules.
