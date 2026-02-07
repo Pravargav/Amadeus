@@ -101,3 +101,5 @@
 -> You violated/infringed the rules.
 
 -> While walking, I came across/encountered Suresh.
+
+-> He is a vintage actor from the golden era.
