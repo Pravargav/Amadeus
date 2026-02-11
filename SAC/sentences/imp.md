@@ -113,3 +113,5 @@
 -> It is the time when students prepare for their final exams.
 
 -> He withdrew the case due to prestige concerns.
+
+-> Wait until the power comes back.
