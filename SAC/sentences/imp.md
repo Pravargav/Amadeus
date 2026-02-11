@@ -109,3 +109,5 @@
 -> You are the one who gave the suggestion.
 
 -> Despite his lack of experience, he performed very well.
+
+-> It is the time when students prepare for their final exams.
