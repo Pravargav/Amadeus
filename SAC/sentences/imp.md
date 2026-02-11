@@ -111,3 +111,5 @@
 -> Despite his lack of experience, he performed very well.
 
 -> It is the time when students prepare for their final exams.
+
+-> He withdrew the case due to prestige concerns.
