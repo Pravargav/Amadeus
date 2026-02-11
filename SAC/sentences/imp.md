@@ -107,3 +107,5 @@
 -> I am on the afternoon shift.
 
 -> You are the one who gave the suggestion.
+
+-> Despite his lack of experience, he performed very well.
