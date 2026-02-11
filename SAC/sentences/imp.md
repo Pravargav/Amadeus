@@ -114,4 +114,4 @@
 
 -> He withdrew the case due to prestige concerns.
 
--> Wait until the power comes back.
+-> Let’s wait until the power is back.
