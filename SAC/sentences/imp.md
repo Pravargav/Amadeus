@@ -115,3 +115,5 @@
 -> He withdrew the case due to prestige concerns.
 
 -> Let’s wait until the power is back.
+
+-> Praveen reassigned the ticket to himself.
