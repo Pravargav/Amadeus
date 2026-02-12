@@ -92,7 +92,7 @@
 
 -> I dropped my phone from the building.
 
--> I'm not convinced/self-obsessed.
+-> I'm not convinced/self-obsessed/frightened.
 
 -> The website won't open/is'nt loading.
 
