@@ -117,3 +117,5 @@
 -> Let’s wait until the power is back.
 
 -> Praveen reassigned the ticket to himself.
+
+-> Could you pass the bag.
