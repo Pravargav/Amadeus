@@ -119,3 +119,5 @@
 -> Praveen reassigned the ticket to himself.
 
 -> Could you pass the bag.
+
+-> She accepted the award on behalf of the entire team.
