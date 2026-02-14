@@ -125,3 +125,5 @@
 -> The pooris and idlis are mostly cleared out/eaten up/served out by this hour.
 
 -> There is slight sole separation/detachment.
+
+-> Keep looking straight ahead while walking.
