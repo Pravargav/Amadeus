@@ -121,3 +121,5 @@
 -> Could you pass the bag.
 
 -> She accepted the award on behalf of the entire team.
+
+-> The pooris and idlis are mostly cleared out/eaten up/served out by this hour.
