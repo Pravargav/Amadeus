@@ -128,4 +128,4 @@
 
 -> Keep looking straight ahead while walking.
 
--> That will not work as you intend.
+-> That will not work as you intend/wish.
