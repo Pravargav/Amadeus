@@ -127,3 +127,5 @@
 -> There is slight sole separation/detachment.
 
 -> Keep looking straight ahead while walking.
+
+-> That will not work as you intend.
