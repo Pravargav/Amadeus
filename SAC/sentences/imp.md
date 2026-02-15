@@ -129,3 +129,7 @@
 -> Keep looking straight ahead while walking.
 
 -> That will not work as you intend/wish.
+
+-> Are your legs hurting/aching/in pain.
+
+-> Are your legs paining.❌
