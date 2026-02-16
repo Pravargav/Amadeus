@@ -133,3 +133,5 @@
 -> Are your legs hurting/aching/in pain.
 
 -> Are your legs paining.❌
+
+-> I overcame my disabilities.
