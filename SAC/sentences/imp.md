@@ -143,3 +143,7 @@
 -> A crossroads is a place where two roads cross each other.
 
 -> Room 402 is the adjacent/next/neighbouring room to mine.
+
+-> One should always believe in oneself to achieve success.
+
+-> He keeps laying the blame on others instead of accepting his own mistakes.
