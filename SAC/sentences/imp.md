@@ -141,3 +141,5 @@
 -> A four way is a place where two roads cross each other, allowing traffic to move in four directions.
 
 -> A crossroads is a place where two roads cross each other.
+
+-> Room 402 is the adjacent/next/neighbouring room to mine.
