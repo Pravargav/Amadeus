@@ -147,3 +147,5 @@
 -> One should always believe in oneself to achieve success.
 
 -> He keeps laying the blame on others instead of accepting his own mistakes.
+
+-> How do I seem to you?
