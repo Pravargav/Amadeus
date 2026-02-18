@@ -139,3 +139,5 @@
 -> A T-junction is a place where one road ends and meets another road, forming the shape of the letter T.
 
 -> A cross junction is a place where two roads cross each other, allowing traffic to move in four directions.
+
+-> A crossroads is a place where two roads cross each other.
