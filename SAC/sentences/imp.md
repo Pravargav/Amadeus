@@ -178,4 +178,6 @@ a-(I didn’t do anything more than solve the problem.✅)
 
 b-(I was the person who solved it.❌)
 
+-> She is my sister only.❌
 
+-> She is my own sister.✅
