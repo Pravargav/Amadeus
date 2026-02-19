@@ -149,3 +149,11 @@
 -> He keeps laying the blame on others instead of accepting his own mistakes.
 
 -> How do I seem to you?
+
+-> What do i look like to you?
+
+-> Listening to the news is over for today.(passive voice)
+
+-> I’ve finished listening to the news for today.(active voice)
+
+
