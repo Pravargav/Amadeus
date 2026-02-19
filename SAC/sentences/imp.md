@@ -183,3 +183,7 @@ b-(I was the person who solved it.❌)
 -> She is my own sister.✅
 
 -> Generally, how many errors are we supposed to get in a day?
+
+-> Everyone is like that only — they’re greedy.❌
+
+-> Everyone has the same greed.✅
