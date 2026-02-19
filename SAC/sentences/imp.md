@@ -162,3 +162,9 @@
 -> Did you have/eat breakfast?
 
 -> There are 200 students in my class alone/ only in my class.
+
+-> I only helped him.(I did nothing more than help him.) ✅
+
+-> I helped only him.(I didn’t help anyone else.)✅
+
+-> 
