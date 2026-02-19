@@ -181,3 +181,5 @@ b-(I was the person who solved it.❌)
 -> She is my sister only.❌
 
 -> She is my own sister.✅
+
+-> Generally, how many errors are we supposed to get in a day?
