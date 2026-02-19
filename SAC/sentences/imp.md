@@ -160,3 +160,5 @@
 -> Have you had/eaten breakfast?
 
 -> Did you have/eat breakfast?
+
+-> There are 200 students in my class alone/ only in my class.
