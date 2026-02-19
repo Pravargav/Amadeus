@@ -167,4 +167,5 @@
 
 -> I helped only him.(I didn’t help anyone else.) ✅
 
--> 
+-> You only tell me.
+(Indian meaning: You yourself tell me.) ❌
