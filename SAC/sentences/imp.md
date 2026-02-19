@@ -169,3 +169,5 @@
 
 -> You only tell me.
 (Indian meaning: You yourself tell me.) ❌
+
+-> You are the one who should tell me. ✅
