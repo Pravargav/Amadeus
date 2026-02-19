@@ -187,3 +187,5 @@ b-(I was the person who solved it.❌)
 -> Everyone is like that only — they’re greedy.❌
 
 -> Everyone has the same greed.✅
+
+-> Everyone has the same kind/amount of greed.✅
