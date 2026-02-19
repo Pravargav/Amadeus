@@ -159,4 +159,4 @@
 
 -> Have you had/eaten breakfast?
 
--> Did you eat/have breakfast?
+-> Did you have/eat breakfast?
