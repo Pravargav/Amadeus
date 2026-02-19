@@ -171,3 +171,9 @@
 (Indian meaning: You yourself tell me.) ❌
 
 -> You are the one who should tell me. ✅
+
+-> I only solved the problem.
+a-(I didn’t do anything more than solve the problem.✅)
+b-(I was the person who solved it.❌)
+
+
