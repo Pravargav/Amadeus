@@ -163,32 +163,32 @@
 
 -> There are 200 students in my class alone/ only in my class.
 
--> I only helped him.(I did nothing more than help him.) ✅
+-> I only helped him.(I did nothing more than help him.) 
 
--> I helped only him.(I didn’t help anyone else.) ✅
+-> I helped only him.(I didn’t help anyone else.) 
 
 -> You only tell me.
 (Indian meaning: You yourself tell me.) ❌
 
--> You are the one who should tell me. ✅
+-> You are the one who should tell me. 
 
 -> I only solved the problem.
 
-a-(I didn’t do anything more than solve the problem.✅)
+a-(I didn’t do anything more than solve the problem.)
 
 b-(I was the person who solved it.❌)
 
 -> She is my sister only.❌
 
--> She is my own sister.✅
+-> She is my own sister.
 
 -> Generally, how many errors are we supposed to get in a day?
 
 -> Everyone is like that only — they’re greedy.❌
 
--> Everyone has the same greed.✅
+-> Everyone has the same greed.
 
--> Everyone has the same kind/amount of greed.✅
+-> Everyone has the same kind/amount of greed.
 
 
 -> We together decided to take leave for 4 consecutive days in a week.
