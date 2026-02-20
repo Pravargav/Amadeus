@@ -195,3 +195,5 @@ b-(I was the person who solved it.❌)
 -> We together decided to take leave for 4 consecutive days in a week.
 
 -> I skidded across the ground and scraped my skin. The outer layer peeled off, leaving a raw wound.
+
+-> I was trying to persuade/convince her.
