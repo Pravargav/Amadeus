@@ -191,4 +191,4 @@ b-(I was the person who solved it.❌)
 -> Everyone has the same kind/amount of greed.✅
 
 
-
+-> We together decided to take leave for 4 consecutive days in a week.
