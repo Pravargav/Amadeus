@@ -190,3 +190,5 @@ b-(I was the person who solved it.❌)
 
 -> Everyone has the same kind/amount of greed.✅
 
+
+
