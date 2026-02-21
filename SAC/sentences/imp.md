@@ -202,3 +202,5 @@ b-(I was the person who solved it.❌)
 -> I a court case there are three entities suspect,witness and accused.
 
 -> I stopped at the very first step/right at the beginning.
+
+-> She adjusted the blanket to set it right on the bed.
