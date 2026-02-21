@@ -200,3 +200,5 @@ b-(I was the person who solved it.❌)
 -> I was trying to persuade/convince her to stay at home after witnessing a series bus accidents.
 
 -> I a court case there are three entities suspect,witness and accused.
+
+-> I stopped at the very first step/right at the beginning.
