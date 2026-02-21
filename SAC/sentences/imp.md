@@ -198,3 +198,5 @@ b-(I was the person who solved it.❌)
 -> I skidded across the ground and scraped my skin. The outer layer peeled off, leaving a raw wound.
 
 -> I was trying to persuade/convince her to stay at home after witnessing a series bus accidents.
+
+-> I a court case there are three entities suspect,witness and accused.
