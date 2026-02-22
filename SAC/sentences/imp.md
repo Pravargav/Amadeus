@@ -1,4 +1,4 @@
-
+They even burst crackers on the road.
 
 -> I missed checking this week’s shift details earlier.
 
@@ -223,4 +223,4 @@ b-(I was the person who solved it.❌)
 
 -> He completed the project himself without anyone’s help.
 
--> 
+-> They even burst crackers on the road.
