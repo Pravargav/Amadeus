@@ -207,6 +207,6 @@ b-(I was the person who solved it.❌)
 
 -> The journey itself feels good.
 
--> The building is quite vast.
+-> The building is quite vast/extensive/grand.
 
 -> waiting at the ayyapanagar arch.
