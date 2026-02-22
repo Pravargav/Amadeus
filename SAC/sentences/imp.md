@@ -1,5 +1,11 @@
 
 
+-> The journey itself is enjoyable/
+The movie itself was very interesting.(To emphasize something)
+
+-> The door closed by itself/
+The machine stopped by itself.(To show something happens automatically without any human intervention)
+
 -> I missed checking this week’s shift details earlier.
 
 -> It looks like your tickets haven’t been updated yet. Could you please check once?(passive form of present perfect tense)
@@ -228,10 +234,5 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> They burst crackers even on the road. Emphasis on the place (the road was an unexpected place).
 
--> The journey itself is enjoyable/
-The movie itself was very interesting.(To emphasize something)
-
--> The door closed by itself/
-The machine stopped by itself.(To show something happens automatically without any human intervention)
 
 
