@@ -234,4 +234,4 @@ The movie itself was very interesting.(To emphasize something)
 -> The door closed by itself/
 The machine stopped by itself.(To show something happens automatically without any human intervention)
 
--> The exam itself was easy, but the time was short.(To show focus on the thing, not something else)
+
