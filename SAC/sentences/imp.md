@@ -223,5 +223,7 @@ b-(I was the person who solved it.❌)
 
 -> He completed the project himself without anyone’s help.
 
--> They even burst crackers on the road.(They lit fireworks directly on the street.
-The word “even” shows surprise — like it was unexpected or improper.)
+-> They even burst crackers on the road.
+Emphasis on the action (bursting crackers was surprising).
+
+-> They burst crackers even on the road. Emphasis on the place (the road was an unexpected place).
