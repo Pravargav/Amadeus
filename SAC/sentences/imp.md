@@ -234,4 +234,3 @@ The movie itself was very interesting.(To emphasize something)
 -> The door closed by itself/
 The machine stopped by itself.(To show something happens automatically without any human intervention)
 
--> 
