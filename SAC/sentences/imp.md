@@ -210,3 +210,5 @@ b-(I was the person who solved it.❌)
 -> The building is quite vast/extensive/grand.
 
 -> waiting at the ayyapanagar arch.
+
+-> This phone is as good as new after the repair.
