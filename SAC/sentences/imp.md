@@ -227,3 +227,11 @@ b-(I was the person who solved it.❌)
 Emphasis on the action (bursting crackers was surprising).
 
 -> They burst crackers even on the road. Emphasis on the place (the road was an unexpected place).
+
+-> The journey itself is enjoyable/
+The movie itself was very interesting.(To emphasize something)
+
+-> The door closed by itself/
+The machine stopped by itself.(To show something happens automatically without any human intervention)
+
+-> 
