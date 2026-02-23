@@ -242,3 +242,7 @@ Emphasis on the action (bursting crackers was surprising).
 -> Who buys that much expensive saree?❌
 
 -> Who buys such an expensive saree?
+
+-> Who drinks this much amount of milk?❌
+
+-> Who drinks such a large amount of milk?
