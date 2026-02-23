@@ -237,3 +237,4 @@ Emphasis on the action (bursting crackers was surprising).
 -> Please inform me as soon as possible.
 
 
+-> I was wandering on the road yesterday.
