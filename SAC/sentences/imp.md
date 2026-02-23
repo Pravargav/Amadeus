@@ -238,3 +238,7 @@ Emphasis on the action (bursting crackers was surprising).
 
 
 -> I was wandering on the road yesterday.
+
+-> Who buys that much expensive saree?❌
+
+-> Who buys such an expensive saree?
