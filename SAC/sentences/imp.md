@@ -257,3 +257,13 @@ Emphasis on the action (bursting crackers was surprising).
 -> What I need is rest.
 
 -> What matters to him is honesty.
+
+-> It was a difficult task indeed.(“Indeed” adds strong confirmation or emphasis.)
+
+-> I am certain that he will come.(“Certain” expresses strong confidence.)
+
+-> It’s rather cold today.(“Rather” = fairly / somewhat (polite or mild emphasis in British English).)
+
+-> The film was quite good.(fairly good (medium strength)).
+
+-> That’s quite impossible.(completely impossible (strong)).
