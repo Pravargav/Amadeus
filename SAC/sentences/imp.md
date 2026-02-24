@@ -279,3 +279,19 @@ Emphasis on the action (bursting crackers was surprising).
 -> I have never seen such beauty.
 
 -> We cannot tolerate such actions.
+
+***Emphasise person***
+
+-> You are the person responsible.
+
+-> You alone can solve this.
+
+-> The manager himself approved it.
+
+-> They themselves admitted the mistake.
+
+***Emphasise do/did/does***
+
+-> I did finish the work.
+
+-> He does know the answer.
