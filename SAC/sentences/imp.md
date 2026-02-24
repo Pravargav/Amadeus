@@ -246,3 +246,7 @@ Emphasis on the action (bursting crackers was surprising).
 -> Who drinks this much amount of milk?❌
 
 -> Who drinks such a large amount of milk?
+
+-> We should visit a temple today itself.
+
+-> Today is the day we are supposed to visit the temple.
