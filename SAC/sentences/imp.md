@@ -249,4 +249,4 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> We should visit a temple today itself.
 
--> Today is the day we are supposed to visit the temple.
+-> Today only we should visit temple.❌
