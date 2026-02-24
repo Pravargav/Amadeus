@@ -1,14 +1,12 @@
 
 
 -> The journey itself is enjoyable/
-The movie itself was very interesting.(To emphasize something.)❌
-
-(indian english not british English).
+The movie itself was very interesting.(To emphasize something.)
 
 -> The door closed by itself/
 The machine stopped by itself.
 
-(To show something happens automatically without any human intervention.)(British english).
+(To show something happens automatically without any human intervention.)
 
 -> I missed checking this week’s shift details earlier.
 
