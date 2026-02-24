@@ -271,3 +271,11 @@ Emphasis on the action (bursting crackers was surprising).
 -> We need to sort this out at once.
 
 -> We’re doing it first thing tomorrow.
+
+** Emphasise such***
+
+-> It was such a beautiful temple.
+
+-> I have never seen such beauty.
+
+-> We cannot tolerate such actions.
