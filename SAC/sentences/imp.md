@@ -249,7 +249,7 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> Who drinks such a large amount of milk?
 
--> We should visit a temple today itself.❌(indian english not british English)
+-> We should visit a temple today itself.❌(Indian english not british.)
 
 -> Today only we should visit temple.❌
 
