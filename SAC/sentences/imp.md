@@ -256,3 +256,21 @@ Emphasis on the action (bursting crackers was surprising).
 -> Today is the right day to visit the temple.
 
 -> Today is the day we are supposed to visit the temple.
+
+***Emphasise Time***
+
+-> We have to do it today, no later.
+
+-> We should do it now, not later.
+
+-> It has to be done today.
+
+-> It needs to be done by the end of today.
+
+-> We need to leave right now.
+
+-> Let’s do it straight away. 
+
+-> We need to sort this out at once.
+
+-> We’re doing it first thing tomorrow.
