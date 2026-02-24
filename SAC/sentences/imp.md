@@ -254,3 +254,6 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> Today is the day we are supposed to visit the temple.
 
+-> What I need is rest.
+
+-> What matters to him is honesty.
