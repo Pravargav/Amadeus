@@ -267,3 +267,17 @@ Emphasis on the action (bursting crackers was surprising).
 -> The film was quite good.(fairly good (medium strength)).
 
 -> That’s quite impossible.(completely impossible (strong)).
+
+-> I will finish it right today.❌
+
+-> I will finish it later today.
+
+-> I will come right tomorrow.❌
+
+->  I will come early tomorrow.
+
+-> She called me right after/before the meeting.
+
+-> He arrived right at 5 pm.
+
+->
