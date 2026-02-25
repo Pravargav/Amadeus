@@ -279,3 +279,9 @@ Emphasis on the action (bursting crackers was surprising).
 -> She called me right after/before the meeting.
 
 -> He arrived right at 5 pm/right at the moment/right then.
+
+-> I met him right yesterday.❌
+
+-> I met him just yesterday./I met him as recently as yesterday.
+
+-> I met him yesterday itself (Indian English).❌
