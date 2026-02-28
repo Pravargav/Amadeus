@@ -282,6 +282,8 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> I met him right yesterday.❌
 
--> I met him just yesterday./I met him as recently as yesterday.
+-> I met him just yesterday.
 
 -> I met him yesterday itself (Indian English).❌
+
+-> He took off his jacket.
