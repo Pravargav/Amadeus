@@ -295,3 +295,5 @@ Emphasis on the action (bursting crackers was surprising).
 -> The bus stop is right there across the street.
 
 -> I left my keys right here on the table.
+
+-> The child likes to pretend he is a superhero.
