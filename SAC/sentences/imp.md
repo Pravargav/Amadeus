@@ -289,3 +289,9 @@ Emphasis on the action (bursting crackers was surprising).
 -> He took off his jacket.
 
 -> I increased one unit of of speed./I ate one unit of noodles.
+
+-> Put the bag right there on the chair.
+
+-> The bus stop is right there across the street.
+
+-> I left my keys right here on the table.
