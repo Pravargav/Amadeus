@@ -294,3 +294,9 @@ Emphasis on the action (bursting crackers was surprising).
 -> I left my keys right here on the table.
 
 -> pretend 
+
+-> AT -Exact time (5 PM)
+
+-> ON -Day or date (Monday, 15th August)
+
+-> IN -Month, year, long time (March, 2026)
