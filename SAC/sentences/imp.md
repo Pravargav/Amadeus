@@ -198,7 +198,7 @@ b-(I was the person who solved it.❌)
 -> Everyone has the same kind/amount of greed.
 
 
--> We together decided to take leave for 4 consecutive days in a week.
+-> consecutive days in a week.
 
 -> I skidded across the ground and scraped my skin. The outer layer peeled off, leaving a raw wound.
 
