@@ -7,13 +7,13 @@ The machine stopped by itself.
 
 -> I missed checking this week’s shift details earlier.
 
--> It looks like your tickets haven’t been updated yet. Could you please check o?(passive form of present perfect tense)
+-> It looks like your tickets haven’t been updated yet.(passive form of present perfect tense)
 
 -> Did he go to the office?
 
 -> Let me know if there are any issues
 
--> Hi Rakesh, I forgot to mention earlier — Monday is a holiday.
+-> Hi Rakesh, I forgot to mention earlier.
 
 -> Is he returned?❌
 
@@ -33,7 +33,7 @@ The machine stopped by itself.
 
 -> Why are you moving all over the place.
 
--> It's very embarassing.
+-> embarassing
 
 -> Are you done with bathing? (sounds a bit unnatural) ❌
 
@@ -87,11 +87,11 @@ The machine stopped by itself.
 
 -> I tripped her off the bike.(Intentional,so don't use sentence most of the time though it is a correct sentence.)
 
--> You look so upset/disappointed.
+-> upset/disappointed.
 
--> She accepted the offer with reluctance, unsure if it was the right decision.
+-> reluctance- unsure if it was the right decision.
 
--> I could'nt talk to her because of my shyness/inhibition.
+->  shyness/inhibition.
 
 -> Are you the only person who came to the office?
 
@@ -99,17 +99,17 @@ The machine stopped by itself.
 
 -> I dropped my phone from the building.
 
--> I'm not convinced/self-obsessed/frightened.
+-> convinced/self-obsessed/frightened.
 
 -> The website won't open/is'nt loading.
 
 -> I am not making false allegations against her.
 
--> You violated/infringed the rules.
+-> violated/infringed the rules.
 
 -> While walking, I came across/encountered Suresh.
 
--> He is a vintage actor from the golden era.
+-> vintage
 
 -> I am on the afternoon shift.
 
@@ -135,21 +135,21 @@ The machine stopped by itself.
 
 -> Keep looking straight ahead while walking.
 
--> That will not work as you intend/wish.
+-> intend/wish.
 
 -> Are your legs hurting/aching/in pain.
 
 -> Are your legs paining.❌
 
--> I overcame my disabilities.
+-> overcame
 
--> A T-junction is a place where one road ends and meets another road, forming the shape of the letter T.
+->  T-junction 
 
--> A four way is a place where two roads cross each other, allowing traffic to move in four directions.
+-> four way 
 
--> A crossroads is a place where two roads cross each other.
+-> crossroads 
 
--> Room 402 is the adjacent/next/neighbouring room to mine.
+-> adjacent/next/neighbouring room to mine.
 
 -> One should always believe in oneself to achieve success.
 
