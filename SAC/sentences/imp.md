@@ -7,13 +7,11 @@ The machine stopped by itself.
 
 -> I missed checking this week’s shift details earlier.
 
--> It looks like your tickets haven’t been updated yet.(passive form of present perfect tense)
+-> tickets haven’t been updated yet.(passive form of present perfect tense)
 
 -> Did he go to the office?
 
--> Let me know if there are any issues
-
--> Hi Rakesh, I forgot to mention earlier.
+-> I forgot to mention earlier.
 
 -> Is he returned?❌
 
@@ -31,7 +29,7 @@ The machine stopped by itself.
 
 -> Put/Spoon some curry onto the plate.
 
--> Why are you moving all over the place.
+-> moving all over the place.
 
 -> embarassing
 
@@ -65,7 +63,7 @@ The machine stopped by itself.
 
 -> I have been getting the same issue every time/whenver I try to log in for a week.
 
--> What is the scheduled time for the meeting?( Here scheduled is adjective not verb)
+-> scheduled time for the meeting?( Here scheduled is adjective not verb)
 
 -> Which of your requests were approved? 
 
@@ -73,9 +71,9 @@ The machine stopped by itself.
 
 -> Which of your requests have been approved?(passive voice)
 
--> *Devoid of* my company, would that trip even be possible for you?( means in presence/absence)
+-> *Devoid of* my company.( means in presence/absence)
 
--> *Lacking me/Excluding me* in the plan, how would you have taken that trip?
+-> *Lacking me/Excluding me* in the plan.
 
 -> The kitchen is *upstairs*.(location)
 
@@ -97,13 +95,13 @@ The machine stopped by itself.
 
 -> Were you the only person who came to the office?” (use this if you’re talking about earlier today)
 
--> I dropped my phone from the building.
+-> dropped my phone.
 
 -> convinced/self-obsessed/frightened.
 
 -> The website won't open/is'nt loading.
 
--> I am not making false allegations against her.
+-> making false allegations.
 
 -> violated/infringed the rules.
 
@@ -125,7 +123,7 @@ The machine stopped by itself.
 
 -> Praveen reassigned the ticket to himself.
 
--> Could you pass the bag.
+-> pass the bag.
 
 -> She accepted the award on behalf of the entire team.
 
@@ -149,11 +147,11 @@ The machine stopped by itself.
 
 -> crossroads 
 
--> adjacent/next/neighbouring room to mine.
+-> adjacent/next/neighbouring room.
 
--> One should always believe in oneself to achieve success.
+-> One should always believe in oneself.
 
--> He keeps laying the blame on others instead of accepting his own mistakes.
+-> He keeps laying the blame on others.
 
 -> How do I seem to you?
 
@@ -202,7 +200,7 @@ b-(I was the person who solved it.❌)
 
 -> I skidded across the ground and scraped my skin. The outer layer peeled off, leaving a raw wound.
 
--> I was trying to persuade/convince her to stay at home after witnessing a series bus accidents.
+->  persuade/convince her to stay at home after witnessing a series bus accidents.
 
 -> suspect,witness and accused.
 
@@ -224,17 +222,16 @@ b-(I was the person who solved it.❌)
 
 -> I eat with my hands. 
 
--> I cut myself accidentally while cooking.
+-> I cut myself.
 
--> He completed the project himself without anyone’s help.
+-> He completed the project himself without anyone's help.
 
 -> They even burst crackers on the road.
 Emphasis on the action (bursting crackers was surprising).
 
 -> They burst crackers even on the road. Emphasis on the place (the road was an unexpected place).
 
--> Please inform me as soon as possible.
-
+-> as soon as possible.
 
 -> wander
 
@@ -260,13 +257,13 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> It was a difficult task indeed.(“Indeed” adds strong confirmation or emphasis.)
 
--> I am certain that he will come.(“Certain” expresses strong confidence.)
+-> certain (“Certain” expresses strong confidence.)
 
 -> It’s rather cold today.(“Rather” = fairly / somewhat (polite or mild emphasis in British English).)
 
--> The film was quite good.(fairly good (medium strength)).
+-> quite good.(fairly good (medium strength)).
 
--> That’s quite impossible.(completely impossible (strong)).
+-> quite impossible.(completely impossible (strong)).
 
 -> I will finish it right today.❌
 
