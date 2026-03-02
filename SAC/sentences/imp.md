@@ -7,7 +7,7 @@ The machine stopped by itself.
 
 -> I missed checking this week’s shift details earlier.
 
--> It looks like your tickets haven’t been updated yet. Could you please check once?(passive form of present perfect tense)
+-> It looks like your tickets haven’t been updated yet. Could you please check o?(passive form of present perfect tense)
 
 -> Did he go to the office?
 
