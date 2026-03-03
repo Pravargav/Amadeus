@@ -26,4 +26,7 @@
    
    Underneath - Exact Physical Position (Directly Below) - (More specific / more emphasis)
 
+-> He walked across the road.(From One Side to the Other).
+
+-> There were flowers across the field.(covering area).
 
