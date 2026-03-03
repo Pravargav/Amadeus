@@ -26,3 +26,5 @@
    
    Underneath - Exact Physical Position (Directly Below) - (More specific / more emphasis)
 
+-> Against(Touching vertically)/On(Touching horizontally)
+
