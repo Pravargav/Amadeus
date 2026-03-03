@@ -314,3 +314,4 @@ Emphasis on the action (bursting crackers was surprising).
 -> There are trees around the house.
 (Surrounding On All Sides).
 
+-> The ladder is against the wall.(touching surface vertically).
