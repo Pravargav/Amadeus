@@ -8,9 +8,7 @@
 
 -> between (two)/ among (more than two)
 
--> next to <=> beside 
-
--> by <=> near or beside 
+-> next to <=> beside / by <=> near or beside 
 
 -> close to (very near)/ near(not far)
 
