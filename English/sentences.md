@@ -1,5 +1,13 @@
--> The plane - flew over the building/ - is above the building.
+-> Take off your shoes./
+He took off his jacket.(Removing something)
 
+-> The thief ran off./She drove off quickly.(Movement away from a place)
+
+-> He jumped off the table./
+She fell off the bike.(Movement from a surface - top → down)
+
+
+-> The plane - flew over the building/ - is above the building.
 -> She walked past the hospital.(You do NOT enter. You do NOT stop. You just go beyond it.)
 
 
