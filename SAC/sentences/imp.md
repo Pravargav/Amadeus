@@ -319,4 +319,6 @@ Emphasis on the action (bursting crackers was surprising).
 -> The bank is across the street./There is a park across the bridge.
 
 -> They walked along the road./
-There are trees along the river.
+There are trees along the river.-(Used when something is beside or next to a long object - road, river, wall, beach, etc.).
+
+
