@@ -317,3 +317,5 @@ b-(I was the person who solved it.❌)
 -> She put a blanket over the baby./He placed a cloth over the table.(Covering Something)
 
 -> He jumped over the wall./The bridge goes over the river.(From One Side to the Other Crossing)
+
+-> The Earth moves around the Sun.
