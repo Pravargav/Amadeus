@@ -317,6 +317,8 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> next to <=> beside 
 
+-> by <=> near or beside 
+
 -> close to (very near)/ near(not far)
 
 -> within/beyond
@@ -327,4 +329,4 @@ Emphasis on the action (bursting crackers was surprising).
    
    Underneath - Exact Physical Position (Directly Below) - (More specific / more emphasis)
 
--> by <=> near or beside 
+-> 
