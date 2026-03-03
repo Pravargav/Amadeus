@@ -12,7 +12,6 @@
 
 -> close to (very near)/ near(not far)
 
--> within/beyond
 
 -> Under(formal word Beneath) -More Common & General(age, control, number, condition) /
    
@@ -29,3 +28,5 @@ Across(Crossing from one side to another)
 
 -> Over(Often directly higher - covering)/
 Above (Just higher- not necessarily covering)
+
+-> within/beyond
