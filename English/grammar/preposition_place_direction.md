@@ -31,12 +31,6 @@ Above (Just higher- not necessarily covering)
 
 -> Into (movement to the inside)/Onto (movement to the top or surface).
 
--> Under
--
-(Directly beneath or covered
-Often physical contact)
-/
-Below 
--
-(Lower than general position
-Not always contact)
+-> Under -(Directly beneath or covered- Often physical contact)/
+Below -(Lower than general position
+-Not always contact)
