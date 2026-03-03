@@ -26,4 +26,5 @@
 
 -> Over(Above-maybe not touching)/On(Touching surface)
 
--> 
+-> Over(Crossing above something)/
+Across(Crossing from one side to another)
