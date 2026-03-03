@@ -317,4 +317,4 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> next to <=> beside 
 
--> close to (very near)/near(not far)
+-> close to (very near)/ near(not far)
