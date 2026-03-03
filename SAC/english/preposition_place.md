@@ -30,3 +30,4 @@
 
 -> There were flowers across the field.(covering area).
 
+-> There are trees around the house.
