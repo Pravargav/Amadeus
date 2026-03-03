@@ -22,3 +22,5 @@
 
 -> Against(Touching vertically)/On(Touching horizontally)
 
+-> across (Movement or position from side to side.) / along (Movement beside something, following its line.)
+
