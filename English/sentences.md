@@ -1,5 +1,6 @@
--> She walked past the hospital.
-(You do NOT enter. You do NOT stop. You just go beyond it.)
+-> The plane - flew over the building/ - is above the building.
+
+-> She walked past the hospital.(You do NOT enter. You do NOT stop. You just go beyond it.)
 
 
 -> She drove through the market. (inside the market area)- (Through -go inside and come out)
