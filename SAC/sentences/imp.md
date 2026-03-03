@@ -315,3 +315,5 @@ Emphasis on the action (bursting crackers was surprising).
 (Surrounding On All Sides).
 
 -> The ladder is against the wall.(touching surface vertically).
+
+-> The bank is across the street./There is a park across the bridge.
