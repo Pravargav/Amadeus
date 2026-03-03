@@ -306,3 +306,9 @@ Emphasis on the action (bursting crackers was surprising).
 -> ON -Surface / Line / Road
 
 -> IN -Inside an Area / City / Country
+
+-> outside/inside 
+
+-> above/below 
+
+
