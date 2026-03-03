@@ -323,7 +323,7 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> opposite building 
 
--> Under(formal word beneath) -More Common & General(age, control, number, condition) /
+-> Under(formal word Beneath) -More Common & General(age, control, number, condition) /
    
    Underneath - Exact Physical Position (Directly Below) - (More specific / more emphasis)
 
