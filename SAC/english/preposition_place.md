@@ -28,3 +28,6 @@
 
 -> Over(Crossing above something)/
 Across(Crossing from one side to another)
+
+-> Over(Often directly higher - covering)/
+Above (Just higher- not necessarily covering)
