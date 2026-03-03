@@ -307,3 +307,10 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> It rained during the night/the meeting.
 
+-> He walked across the road.(From One Side to the Other).
+
+-> There were flowers across the field.(covering area).
+
+-> There are trees around the house.
+(Surrounding On All Sides).
+
