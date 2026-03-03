@@ -1,4 +1,5 @@
-
+-> 20 past 5 - 5:20
+-> 20 to 6 - 5:40
 
 -> The door closed by itself/
 The machine stopped by itself.
