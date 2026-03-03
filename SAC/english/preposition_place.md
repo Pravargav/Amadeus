@@ -29,4 +29,3 @@ Across(Crossing from one side to another)
 -> Over(Often directly higher - covering)/
 Above (Just higher- not necessarily covering)
 
--> within/beyond
