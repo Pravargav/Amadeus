@@ -319,4 +319,6 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> close to (very near)/ near(not far)
 
--> within/beyond 
+-> within/beyond
+
+-> opposite building 
