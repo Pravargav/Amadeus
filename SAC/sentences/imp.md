@@ -317,3 +317,6 @@ Emphasis on the action (bursting crackers was surprising).
 -> The ladder is against the wall.(touching surface vertically).
 
 -> The bank is across the street./There is a park across the bridge.
+
+-> They walked along the road./
+There are trees along the river.
