@@ -6,12 +6,6 @@
 
 -> IN -Inside an Area / City / Country
 
--> outside/inside 
-
--> above/below 
-
--> behind/infront
-
 -> between (two)/ among (more than two)
 
 -> next to <=> beside 
