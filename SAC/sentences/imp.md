@@ -322,3 +322,9 @@ Emphasis on the action (bursting crackers was surprising).
 There are trees along the river.-(Used when something is beside or next to a long object - road, river, wall, beach, etc.).
 
 
+-> The plane is flying over the city./
+Clouds are over the mountains.(Above but Not Touching)
+
+-> She put a blanket over the baby./He placed a cloth over the table.(Covering Something)
+
+-> He jumped over the wall./The bridge goes over the river.(From One Side to the Other Crossing)
