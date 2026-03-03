@@ -300,3 +300,9 @@ Emphasis on the action (bursting crackers was surprising).
 -> ON -Day or date (Monday, 15th August)
 
 -> IN -Month, year, long time (March, 2026)
+
+-> AT -Small / Exact Point Location
+
+-> ON -Surface / Line / Road
+
+-> IN -Inside an Area / City / Country
