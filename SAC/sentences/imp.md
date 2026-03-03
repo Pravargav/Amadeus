@@ -317,6 +317,8 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> until(formal form of till)
 
+-> for(duration)/since(starting point)
+
 ----
 
 -> AT -Small / Exact Point Location
