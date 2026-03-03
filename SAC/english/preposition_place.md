@@ -24,3 +24,6 @@
 
 -> across (Movement or position from side to side.) / along (Movement beside something, following its line.)
 
+-> Over(Above-maybe not touching)/On(Touching surface)
+
+-> 
