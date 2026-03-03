@@ -1,5 +1,7 @@
--> The office is open Monday through Friday.(American)- (From Monday to Friday, including Friday)-(Monday to Friday- british)
+-> She drove through the market. (inside the market area)- (Through -go inside and come out)
 
+
+-> The office is open Monday through Friday.(American)- (From Monday to Friday, including Friday)-(Monday to Friday- british)
 -> 20 past 5 - 5:20
 
 -> 20 to 6 - 5:40
