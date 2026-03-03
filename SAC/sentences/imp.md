@@ -297,11 +297,15 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> pretend 
 
+----
+
 -> AT -Exact time (5 PM)
 
--> ON -Day or date (Monday, 15th August)
+-> ON -Day or date (Monday, 15th Augusust)
 
 -> IN -Month, year, long time (March, 2026)
+
+----
 
 -> AT -Small / Exact Point Location
 
