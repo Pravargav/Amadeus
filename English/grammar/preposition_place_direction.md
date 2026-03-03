@@ -29,3 +29,4 @@ Across(Crossing from one side to another)
 -> Over(Often directly higher - covering)/
 Above (Just higher- not necessarily covering)
 
+-> Into (movement to the inside)/Onto (movement to the top or surface).
