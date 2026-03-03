@@ -297,6 +297,9 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> pretend 
 
+-> Submit the assignment by 5 PM.
+(You can submit at 3 PM, 4 PM, or 5 PM — but not after 5.)
+
 ----
 
 -> AT -Exact time (5 PM)
