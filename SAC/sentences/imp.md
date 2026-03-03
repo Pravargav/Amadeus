@@ -327,4 +327,4 @@ Emphasis on the action (bursting crackers was surprising).
    
    Underneath - Exact Physical Position (Directly Below) - (More specific / more emphasis)
 
--> 
+-> beneath <=> under
