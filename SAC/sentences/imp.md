@@ -301,7 +301,7 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> AT -Exact time (5 PM)
 
--> ON -Day or date (Monday, 15th Augusust)
+-> ON -Day or date (Monday, 15th August)
 
 -> IN -Month, year, long time (March, 2026)
 
