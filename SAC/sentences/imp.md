@@ -293,6 +293,8 @@ Emphasis on the action (bursting crackers was surprising).
 
 -> I left my keys right here on the table.
 
+-> opposite building 
+
 -> pretend 
 
 -> AT -Exact time (5 PM)
@@ -322,8 +324,6 @@ Emphasis on the action (bursting crackers was surprising).
 -> close to (very near)/ near(not far)
 
 -> within/beyond
-
--> opposite building 
 
 -> Under(formal word Beneath) -More Common & General(age, control, number, condition) /
    
