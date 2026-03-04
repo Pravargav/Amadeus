@@ -8,6 +8,7 @@ She fell off the bike.(Movement from a surface - top → down)
 
 
 -> The plane - flew over the building/ - is above the building.
+
 -> She walked past the hospital.(You do NOT enter. You do NOT stop. You just go beyond it.)
 
 
