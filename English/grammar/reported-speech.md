@@ -137,7 +137,7 @@ Use the same **wh-word** (what, when, where, why, how)
 - No question mark 
 - No helping verb (do/does/did/is/are) 
 - Use **statement word order**
-
+- You should not use **that** 
 ---
 
 ### 4️⃣ Exclamatory Sentences
@@ -153,7 +153,6 @@ Sentences showing **emotion, joy, sorrow, surprise**, etc.
 ### 🔹 Rule
 - Remove interjections (Oh!, Alas!, Hurrah!) 
 - Convert emotion into words 
-- Use **that**
 
 ### 🔹 Examples
 - **Direct:** He said, “What a beautiful place!”
