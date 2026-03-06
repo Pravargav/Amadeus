@@ -29,9 +29,6 @@
 
 ### 1️⃣ Assertive (Declarative) Sentences
 
-### 🔹 Definition
-Sentences that **state facts or give information**.
-
 ### 🔹 Reporting Verbs
 - **said** (no object)
 - **told** (object required)
@@ -40,20 +37,10 @@ Sentences that **state facts or give information**.
 - Remove quotation marks 
 - Add **that** (optional) 
 - Change tense, pronoun, and time/place words 
-
-### 🔹 Examples
-- **Direct:** She said, “I am happy.” 
-  **Indirect:** She said that she was happy.
-
-- **Direct:** He said to me, “I will help you.” 
-  **Indirect:** He told me that he would help me.
-
 ---
 
 ### 2️⃣ Imperative Sentences (Order / Request / Advice / Warning)
 
-### 🔹 Definition
-Sentences that **command, request, advise, or warn**.
 
 ### 🔹 Reporting Verbs
 
@@ -69,22 +56,10 @@ Sentences that **command, request, advise, or warn**.
 - Use **to + verb** 
 - Negative → **not to + verb**
 
-### 🔹 Examples
-- **Direct:** The teacher said, “Open the book.” 
-  **Indirect:** The teacher ordered the students **to open** the book.
-
-- **Direct:** He said, “Please help me.” 
-  **Indirect:** He requested me **to help** him.
-
-- **Direct:** She said, “Don’t waste time.” 
-  **Indirect:** She advised me **not to waste** time.
-
 ---
 
 ### 3️⃣ Interrogative Sentences (Questions)
 
-### 🔹 Definition
-Sentences that **ask questions**.
 
 ### 🔹 Reporting Verbs
 - asked
@@ -93,13 +68,13 @@ Sentences that **ask questions**.
 
 ### 🔹 Types of Questions
 
-### ✅ A. Yes / No Questions 
+###  A. Yes / No Questions 
 Use **if / whether**
 
 - **Direct:** He said, “Are you ready?” 
   **Indirect:** He asked **if** I was ready.
 
-### ✅ B. Wh-Questions 
+###  B. Wh-Questions 
 Use the same **wh-word** (what, when, where, why, how)
 
 - **Direct:** She said, “Where do you live?” 
@@ -114,9 +89,6 @@ Use the same **wh-word** (what, when, where, why, how)
 
 ### 4️⃣ Exclamatory Sentences
 
-### 🔹 Definition
-Sentences showing **emotion, joy, sorrow, surprise**, etc.
-
 ### 🔹 Reporting Verbs
 - exclaimed
 - exclaimed with joy / sorrow
@@ -125,11 +97,6 @@ Sentences showing **emotion, joy, sorrow, surprise**, etc.
 ### 🔹 Rule
 - Remove interjections (Oh!, Alas!, Hurrah!) 
 - Convert emotion into words 
-
-### 🔹 Examples
-- **Direct:** He said, “What a beautiful place!”
-  
-- **Indirect:** He exclaimed that it was a very beautiful place.
 
 ---
 
