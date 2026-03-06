@@ -100,6 +100,62 @@
 
 -> Even the teacher did'nt know the answer
 
+***Emphasis using right(exactly/precisely/immediately):***
+
+-> This is right where we need to be
+
+-> This is right what I wanted
+
+-> He is standing right here
+
+-> The shop is right there
+
+-> The problem is right here in the place
+
+-> The job failed right now
+
+-> He arrived right at 10 am.
+
+-> The error happend right when the process started.
+
+-> The system crashed right after the update
+
+-> The job failed right before completion
+
+-> The office is right next to the station
+
+-> He stood right behind me
+
+-> The building is right infront of the park.
+
+***Emphasis using just(small/exactly/immediate):***
+
+-> The office is just around the corner
+
+-> He is just outside the building
+
+-> The job failed just before the completion
+
+-> He arrived just after the meeting
+
+-> I just want to help(only)
+
+-> She just needs a little time(only)
+
+-> We just need one more step(only)
+
+-> It is just a small mistake.(simply)
+
+-> I just asked a question.(simply)
+
+-> It just happened suddenly.(simply)
+
+-> This is just what I needed.
+
+-> This is just what I was thinking.
+
+-> This is just the problem we discussed.
+
 ---
 
 
