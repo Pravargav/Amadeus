@@ -128,7 +128,7 @@
 
 -> The building is right infront of the park.
 
-***Emphasis using just(small/exactly/immediate):***
+***Emphasis using just(small/exact/immediate):***
 
 -> The office is just around the corner
 
