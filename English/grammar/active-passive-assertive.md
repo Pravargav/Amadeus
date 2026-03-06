@@ -4,7 +4,7 @@
 
 ASSERTIVE SENTENCE FORMULAS
 
--> v1 to (is/are + v3) be form + v3
+-> v1 to (is/am/are + v3) be form + v3
 
 -> v2 to (was/were + v3) be form + v3
 
@@ -14,13 +14,14 @@ ASSERTIVE SENTENCE FORMULAS
 
 *Note*: no need to remember all tenses
 
-*Note2*: 'am' is not used in passive voice as it is not be form
 
 *quick tip* :
 
 1) change -> is/are changed 
 
-3) changed -> was/were changed 
+3) changed -> was/were changed
+
+Ex - We were beaten up by police.
    
 
 1) take -> is/are taken
@@ -29,7 +30,7 @@ ASSERTIVE SENTENCE FORMULAS
 
 *quick tip2* :
 
-=> is/are/was/were moving  ->    is/are/was/were being moved
+=> is/am/are/was/were moving  ->    is/am/are/was/were being moved
 
 
 
