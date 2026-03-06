@@ -14,7 +14,9 @@
 ---
 -> next to <=> beside 
 
--> by <=> near or beside 
+-> by <=> near 
+
+-> by <=> beside 
 
 -> close to (very near)/ near(not far)
 
