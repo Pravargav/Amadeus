@@ -4,4 +4,4 @@
 
 -> I self trigger whenever shilpa talks to mee loosing self respect.
 
--> I should not trigger and shout on mukundh about wiping the body and water coming out from bathroom.
+-> I should not trigger and shout on mukundh and Surendra.
