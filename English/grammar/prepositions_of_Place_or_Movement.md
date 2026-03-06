@@ -21,6 +21,9 @@
 
 -> Over(position or movement both)/Above(position only)
 
+-> Over(Something is higher than and often covering something)/
+Above (Something at a higher level than antother thing, but not touching)
+
 
 ---
 -> next to <=> beside 
@@ -38,8 +41,7 @@
 -> Over(Crossing above something)/
 Across(Crossing from one side to another)
 
--> Over(Often directly higher - covering)/
-Above (Just higher- not necessarily covering)
+
 
 
 
