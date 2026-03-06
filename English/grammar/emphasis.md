@@ -72,7 +72,7 @@
 
 
 
-***Emphasis using very:***
+***Emphasis using very(exact or precise):***
 
 -> This is the very reason I called you
 
