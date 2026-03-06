@@ -32,22 +32,13 @@ Above (Something at a higher level than antother thing, but not touching)
 
 ---
 
-
-
--> Over(Crossing above something)/
-Across(Crossing from one side to another)
-
-
-
-
-
--> Under -(Directly beneath or covered- Often physical contact)/
-Below -(Lower than general position
--Not always contact)
-
--> Under(Formal Word Beneath) - More Common & General(Age, Control, Number, Condition) /
+-> Below - More Common & General(Age, Control, Number, Condition) /
    
-   Underneath - Exact Physical Position (Directly Below) - (More Specific / More Emphasis)
+   Underneath -  Same as under (Hidden Mostly) - (More Specific / More Emphasis) /
+
+   Under (Formal Word Beneath) - Direclty beneath something , often convered or protected
+
+   
 
 
 
