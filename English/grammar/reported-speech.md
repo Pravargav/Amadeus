@@ -159,12 +159,6 @@ Sentences showing **emotion, joy, sorrow, surprise**, etc.
 - **Direct:** He said, “What a beautiful place!” 
   **Indirect:** He exclaimed that it was a very beautiful place.
 
-- **Direct:** She said, “Alas! I am ruined.” 
-  **Indirect:** She exclaimed with sorrow that she was ruined.
-
-- **Direct:** He said, “Hurrah! We won the match.” 
-  **Indirect:** He exclaimed with joy that they had won the match.
-
 ---
 
 ### Common Mistakes to Avoid
