@@ -15,6 +15,8 @@
    
    Underneath - Exact Physical Position (Directly Below) - (More Specific / More Emphasis)
 
+-> Over(Somethig is above something else, usually covering or higher than it, sometimes without Touching)/On(Touching or resting on the surface of something)
+
 ---
 -> next to <=> beside 
 
@@ -27,7 +29,6 @@
 ---
 
 
--> Over(Above-maybe not touching)/On(Touching surface)
 
 -> Over(Crossing above something)/
 Across(Crossing from one side to another)
