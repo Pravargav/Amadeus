@@ -2,7 +2,7 @@
 
 *Base*: be(v1)
 
-*Present*: is, are(v1)
+*Present*: is, am, are(v1)
 
 *Past*: was, were(v2)
 
