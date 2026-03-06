@@ -1,5 +1,5 @@
 
-
+## Reported Speech: ##
 
 i:-
 
@@ -41,7 +41,7 @@ iii:-
 
 ### 🔁 Common Rules (Apply to all types)
 
-### 1️⃣ Change of Pronouns
+###  Change of Pronouns
 
 | Direct | Reported |
 |------|---------|
@@ -52,22 +52,7 @@ iii:-
 
 ---
 
-### 2️⃣ Change of Tense 
-*(If the reporting verb is in the past)*
-
-| Direct Speech | Reported Speech |
-|-------------|----------------|
-| Present Simple | Past Simple |
-| Present Continuous | Past Continuous |
-| Present Perfect | Past Perfect |
-| Past Simple | Past Perfect |
-| will | would |
-| can | could |
-| may | might |
-
----
-
-### 3️⃣ Change of Time & Place Words
+###  Change of Time & Place Words
 
 | Direct | Reported |
 |------|---------|
