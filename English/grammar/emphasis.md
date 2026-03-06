@@ -70,8 +70,6 @@
 
 -> This evidence alone proves he is innocent
 
-
-
 ***Emphasis using very(exact or precise):***
 
 -> This is the very reason I called you
@@ -79,6 +77,28 @@
 -> This is the very problem we discussed
 
 -> The job triggered in the very next run
+
+***Emphasis using even(something unexpected/surprising/extreme):***
+
+-> Even john could'nt solve the issue
+
+-> Even the backup failed yesterday
+
+-> The solution is even better
+
+-> The problem became even worse
+
+-> The process ran even faster today
+
+-> I even checked the logs twice
+
+-> He even tried restarting the system
+
+-> She even called the manager
+
+-> Even a child can solve this problem 
+
+-> Even the teacher did'nt know the answer
 
 ---
 
