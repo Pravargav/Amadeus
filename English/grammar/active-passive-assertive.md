@@ -21,7 +21,9 @@ ASSERTIVE SENTENCE FORMULAS
 
 3) changed -> was/were changed
 
-Ex - We were beaten up by police.
+a) We were beaten up by police.
+
+b) The rock was broken by the king.
    
 
 1) take -> is/are taken
@@ -31,6 +33,10 @@ Ex - We were beaten up by police.
 *quick tip2* :
 
 => is/am/are/was/were moving  ->    is/am/are/was/were being moved
+
+a) I am being harrassed by her.
+
+b) Houses are being vacated by people.
 
 
 
