@@ -5,7 +5,7 @@ When you use **"to"** as part of an infinitive verb form, it is always followed 
 
 #### Note2 : usage of is/was/do/did
 
-- **IS / WAS** → used with *adjectives*, *nouns*
+- **IS / WAS** → used with *adjectives*, *nouns* and *v-ing* forms.
   
 - **DO / DID** → used with *base verb (V1)*
 
