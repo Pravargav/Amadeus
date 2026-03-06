@@ -1,5 +1,5 @@
 
-### Note: All indirect speech in past tense so while using indirect speech use past tense
+
 
 i:-
 
@@ -27,7 +27,7 @@ iii:-
 
 **past continuos** - past perfect continous( past form of past continuous/ past of past continous is past perfect continous).
 
----------------------------------------
+---
 
 ### 🔹 What is Reported Speech?
 
@@ -200,5 +200,9 @@ Sentences showing **emotion, joy, sorrow, surprise**, etc.
 ❌ Missing **to** in imperative sentences 
 
 ❌ Not changing tense when reporting verb is in the past 
+
+---
+
+***Note: All indirect speech in past tense so while using indirect speech use past tense***
 
 
