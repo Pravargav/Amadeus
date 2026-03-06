@@ -46,6 +46,10 @@
 
 -> I did the same thing you suggested
 
+-> This is the very same issue we discussed yesterday
+
+-> That is the very same place I visited last year
+
 ***Emphasis using alone***
 
 -> This reason alone is enough
@@ -63,6 +67,16 @@
 -> Money alone cannot buy happiness
 
 -> This evidence alone proves he is innocent
+
+
+
+***Emphasis using very:**
+
+-> This is the very reason I called you
+
+-> This is the very problem we discussed
+
+-> The job triggered in the very next run
 
 ---
 
