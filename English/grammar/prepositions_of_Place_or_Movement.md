@@ -19,6 +19,9 @@
 
 -> Into (movement to the inside)/Onto (movement to the top or surface).
 
+-> Over(position or movement both)/Above(position only)
+
+
 ---
 -> next to <=> beside 
 
@@ -44,6 +47,5 @@ Above (Just higher- not necessarily covering)
 Below -(Lower than general position
 -Not always contact)
 
--> Over(position or movement both)/Above(position only)
 
 
