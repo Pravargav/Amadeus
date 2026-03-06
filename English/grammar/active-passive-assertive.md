@@ -16,7 +16,7 @@ ASSERTIVE SENTENCE FORMULAS
 
 *Note2*: 'am' is not used in passive voice as it is not be form
 
-*quick tip:* :
+*quick tip* :
 
 1) complete -> is completed
 
@@ -35,14 +35,10 @@ ASSERTIVE SENTENCE FORMULAS
 
 4) took -> were taken
 
+*quick tip2* :
 
-1) is moving -> is being moved
+=> is/are/was/were moving  ->    is/are/was/were being moved
 
-2) are moving -> are being moved
-
-3) was moving -> was being moved
-
-4) were moving -> were being moved
 
 
 
