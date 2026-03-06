@@ -23,13 +23,9 @@ ASSERTIVE SENTENCE FORMULAS
 3) changed -> was/were changed 
    
 
-1) take -> is taken
+1) take -> is/are taken
 
-2) take -> are taken
-
-3) took -> was taken
-
-4) took -> were taken
+3) took -> was/were taken
 
 *quick tip2* :
 
