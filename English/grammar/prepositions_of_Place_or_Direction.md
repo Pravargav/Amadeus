@@ -17,6 +17,8 @@
 
 -> Over(Somethig is above something else, usually covering or higher than it, sometimes without Touching)/On(Touching or resting on the surface of something)
 
+-> Into (movement to the inside)/Onto (movement to the top or surface).
+
 ---
 -> next to <=> beside 
 
@@ -36,7 +38,7 @@ Across(Crossing from one side to another)
 -> Over(Often directly higher - covering)/
 Above (Just higher- not necessarily covering)
 
--> Into (movement to the inside)/Onto (movement to the top or surface).
+
 
 -> Under -(Directly beneath or covered- Often physical contact)/
 Below -(Lower than general position
