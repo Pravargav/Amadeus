@@ -36,6 +36,13 @@ ASSERTIVE SENTENCE FORMULAS
 4) took -> were taken
 
 
+1) is moving -> is being moved
+
+2) are moving -> are being moved
+
+3) was moving -> was being moved
+
+4) were moving -> were being moved
 
 
 
