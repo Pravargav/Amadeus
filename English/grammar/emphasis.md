@@ -16,7 +16,23 @@
 
 -> We’re doing it first thing tomorrow.
 
-***Emphasise such***
+***Emphasise person***
+
+-> You are the person responsible.
+
+-> The manager himself approved it.
+
+-> They themselves admitted the mistake.
+
+***Emphasis using do/did/does***
+
+-> I did finish the work.
+
+-> He does know the answer.
+
+---
+
+***Emphasis using such***
 
 -> It was such a beautiful temple.
 
@@ -24,19 +40,59 @@
 
 -> We cannot tolerate such actions.
 
-***Emphasise person***
+***Emphasis using same***
 
--> You are the person responsible.
+-> We followed the same steps as you explained
 
--> You alone can solve this.
+-> I did the same thing you suggested
 
--> The manager himself approved it.
+***Emphasis using alone***
 
--> They themselves admitted the mistake.
+-> This reason alone is enough
 
-***Emphasise do/did/does***
+-> The mistake alone caused the problem
 
--> I did finish the work.
+-> Your explanation alone was enough for me to understand
 
--> He does know the answer.
+-> The book alone can teach you the basics
+
+-> His experience alone got him the job
+
+-> Her smile alone made everyone happy
+
+-> Money alone cannot buy happiness
+
+-> This evidence alone proves he is innocent
+
+---
+
+***Emphasis commonly used words:***
+
+-> *Exactly* - perfeclty correct
+
+-> *Perfectly* - Exactly right
+
+-> *Definitely* - without doubt
+
+-> *Absoloutely* - completely/totally
+
+-> *Totally* - entirely
+
+-> *Completely* - fully
+
+-> *Clearly* - easy to understand
+
+-> *Obviously* - very clear
+
+-> *Certainly* - certain
+
+-> *Really* - very
+
+-> *Truly* - genuinely
+
+-> *Stronly* - with force
+
+-> *Highly* - very much
+
+-> *Precisely* - accurately
 
