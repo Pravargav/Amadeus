@@ -1,5 +1,5 @@
 
-## ⚠️Note: All indirect speech in past tense so while using indirect speech use past tense
+### Note: All indirect speech in past tense so while using indirect speech use past tense
 
 i:-
 
@@ -191,23 +191,14 @@ Sentences showing **emotion, joy, sorrow, surprise**, etc.
 
 ---
 
-### ⚠️ Common Mistakes to Avoid
+### Common Mistakes to Avoid
 
 ❌ Using question form in reported speech 
+
 ❌ Forgetting object after **told** 
+
 ❌ Missing **to** in imperative sentences 
+
 ❌ Not changing tense when reporting verb is in the past 
 
----
 
-### 📝 Quick Summary Table
-
-| Sentence Type | Connector / Form |
-|--------------|----------------|
-| Assertive | that |
-| Imperative | to / not to |
-| Interrogative (Yes/No) | if / whether |
-| Interrogative (Wh) | wh-word |
-| Exclamatory | that + emotion |
-
----
