@@ -5,3 +5,4 @@
 -> I self trigger whenever shilpa talks to mee loosing self respect.
 
 -> I should not trigger and shout on mukundh and Surendra.
+
