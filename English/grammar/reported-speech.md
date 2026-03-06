@@ -41,7 +41,6 @@ iii:-
 | my | his / her |
 | you | I / he / she |
 
----
 
 ###  Change of Time & Place Words
 
