@@ -27,15 +27,6 @@ iii:-
 
 **past continuos** - past perfect continous( past form of past continuous/ past of past continous is past perfect continous).
 
----
-
-### 🔹 What is Reported Speech?
-
-**Reported (Indirect) Speech** is used to report what someone said **without using quotation marks**.
-
-### Example
-- **Direct:** He said, “I am tired.”
-- **Indirect:** He said that he was tired.
 
 ---
 
