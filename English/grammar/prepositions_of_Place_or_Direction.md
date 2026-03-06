@@ -11,6 +11,10 @@
 
 -> across (Movement or position from side to side.) / along (Movement beside something, following its line.)
 
+-> Under(Formal Word Beneath) - More Common & General(Age, Control, Number, Condition) /
+   
+   Underneath - Exact Physical Position (Directly Below) - (More Specific / More Emphasis)
+
 ---
 -> next to <=> beside 
 
@@ -21,9 +25,7 @@
 -> close to (very near)/ near(not far)
 
 ---
--> Under(formal word Beneath) -More Common & General(age, control, number, condition) /
-   
-   Underneath - Exact Physical Position (Directly Below) - (More specific / more emphasis)
+
 
 -> Over(Above-maybe not touching)/On(Touching surface)
 
