@@ -82,33 +82,5 @@
 
 ---
 
-***Emphasis commonly used words:***
 
--> *Exactly* - perfeclty correct
-
--> *Perfectly* - Exactly right
-
--> *Definitely* - without doubt
-
--> *Absoloutely* - completely/totally
-
--> *Totally* - entirely
-
--> *Completely* - fully
-
--> *Clearly* - easy to understand
-
--> *Obviously* - very clear
-
--> *Certainly* - certain
-
--> *Really* - very
-
--> *Truly* - genuinely
-
--> *Stronly* - with force
-
--> *Highly* - very much
-
--> *Precisely* - accurately
 
