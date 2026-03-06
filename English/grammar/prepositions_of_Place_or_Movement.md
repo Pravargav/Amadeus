@@ -44,6 +44,6 @@ Above (Just higher- not necessarily covering)
 Below -(Lower than general position
 -Not always contact)
 
--> Over(Can show movement)/Above(Usually position only)
+-> Over(position or movement both)/Above(position only)
 
 
