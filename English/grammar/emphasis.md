@@ -24,13 +24,15 @@
 
 -> They themselves admitted the mistake.
 
+---
+
 ***Emphasis using do/did/does***
 
 -> I did finish the work.
 
 -> He does know the answer.
 
----
+-> I do agree with your suggestion.
 
 ***Emphasis using such***
 
