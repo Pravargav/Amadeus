@@ -18,13 +18,9 @@ ASSERTIVE SENTENCE FORMULAS
 
 *quick tip* :
 
-1) complete -> is completed
+1) change -> is/are changed 
 
-2) complete -> are completed
-
-3) completed -> was completed
-
-4) completed -> were completed
+3) changed -> was/were changed 
    
 
 1) take -> is taken
