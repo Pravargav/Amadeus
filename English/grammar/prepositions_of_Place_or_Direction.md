@@ -1,5 +1,3 @@
--> Over(Can show movement)/Above(Usually position only)
-
 
 -> AT -Small / Exact Point Location
 
@@ -35,3 +33,7 @@ Above (Just higher- not necessarily covering)
 -> Under -(Directly beneath or covered- Often physical contact)/
 Below -(Lower than general position
 -Not always contact)
+
+-> Over(Can show movement)/Above(Usually position only)
+
+
