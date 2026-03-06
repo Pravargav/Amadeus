@@ -10,11 +10,7 @@
 
 -> We need to leave right now.
 
--> Let’s do it straight away. 
-
 -> We need to sort this out at once.
-
--> We’re doing it first thing tomorrow.
 
 ***Emphasise person***
 
