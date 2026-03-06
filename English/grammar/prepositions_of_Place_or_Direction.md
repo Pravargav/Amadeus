@@ -7,18 +7,21 @@
 
 -> between (two)/ among (more than two)
 
--> next to <=> beside / by <=> near or beside 
-
--> close to (very near)/ near(not far)
-
-
--> Under(formal word Beneath) -More Common & General(age, control, number, condition) /
-   
-   Underneath - Exact Physical Position (Directly Below) - (More specific / more emphasis)
-
 -> Against(Touching vertically)/On(Touching horizontally)
 
 -> across (Movement or position from side to side.) / along (Movement beside something, following its line.)
+
+---
+-> next to <=> beside 
+
+-> by <=> near or beside 
+
+-> close to (very near)/ near(not far)
+
+---
+-> Under(formal word Beneath) -More Common & General(age, control, number, condition) /
+   
+   Underneath - Exact Physical Position (Directly Below) - (More specific / more emphasis)
 
 -> Over(Above-maybe not touching)/On(Touching surface)
 
