@@ -156,8 +156,9 @@ Sentences showing **emotion, joy, sorrow, surprise**, etc.
 - Use **that**
 
 ### 🔹 Examples
-- **Direct:** He said, “What a beautiful place!” 
-  **Indirect:** He exclaimed that it was a very beautiful place.
+- **Direct:** He said, “What a beautiful place!”
+  
+- **Indirect:** He exclaimed that it was a very beautiful place.
 
 ---
 
