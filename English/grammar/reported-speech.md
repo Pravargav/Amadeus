@@ -179,6 +179,6 @@ Sentences showing **emotion, joy, sorrow, surprise**, etc.
 
 ---
 
-***Note: All indirect speech in past tense so while using indirect speech use past tense***
+***Note:-***  *All indirect speech in past tense so while using indirect speech use past tense.*
 
 
