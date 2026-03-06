@@ -41,7 +41,9 @@ ASSERTIVE SENTENCE FORMULAS
 
 
 
+*quick tip3* :
 
+=> have updated -> have been updated 
 
    
 
