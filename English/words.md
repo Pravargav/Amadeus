@@ -101,3 +101,10 @@ separation
 detachment
 
 various
+
+adjacent
+
+next
+
+neighbouring
+
