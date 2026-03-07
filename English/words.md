@@ -31,3 +31,13 @@ disappoint
 shyness
 
 inhibition
+
+dropped
+
+reluctance
+
+convince
+
+self-obsession
+
+frighten
