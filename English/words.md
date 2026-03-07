@@ -77,3 +77,27 @@ accused
 witness
 
 suspect
+
+vast 
+
+extensive
+
+grand
+
+exclusive
+
+quite
+
+persuade
+
+convince
+
+consecutive
+
+slight
+
+separation
+
+detachment
+
+various
