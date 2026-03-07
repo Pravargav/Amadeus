@@ -17,3 +17,17 @@ aching
 wish
 
 intend
+
+vintage
+
+violated
+
+infringed
+
+upset
+
+disappoint
+
+shyness
+
+inhibition
