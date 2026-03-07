@@ -1,26 +1,14 @@
--> Take off your shoes./
-He took off his jacket.(Removing something)
+-> Take off your shoes./He took off his jacket.(Removing something)
 
 -> The thief ran off./She drove off quickly.(Movement away from a place)
 
--> He jumped off the table./
-She fell off the bike.(Movement from a surface - top → down)
-
+-> He jumped off the table./She fell off the bike.(Movement from a surface - top → down)
 
 -> The plane - flew over the building/ - is above the building.
 
 -> She walked past the hospital.(You do NOT enter. You do NOT stop. You just go beyond it.)
 
-
 -> She drove through the market. (inside the market area)- (Through -go inside and come out)
-
-
--> The office is open Monday through Friday.(American)- (From Monday to Friday, including Friday)-(Monday to Friday- british
-)
-
--> 20 past 5 - 5:20
-
--> 20 to 6 - 5:40
 
 -> The door closed by itself/ The machine stopped by itself.
 
@@ -50,9 +38,7 @@ She fell off the bike.(Movement from a surface - top → down)
 
 -> Put/Spoon some curry onto the plate.
 
--> moving all over the place.
-
--> embarassing
+-> He is moving all over the place.
 
 -> Are you done with bathing? (sounds a bit unnatural) ❌
 
@@ -84,7 +70,7 @@ She fell off the bike.(Movement from a surface - top → down)
 
 -> I have been getting the same issue every time/whenver I try to log in for a week.
 
--> scheduled time for the meeting?( Here scheduled is adjective not verb)
+-> What is scheduled time for the meeting?( Here scheduled is adjective not verb)
 
 -> Which of your requests were approved?
 
@@ -94,89 +80,45 @@ She fell off the bike.(Movement from a surface - top → down)
 
 -> Devoid of my company.( means in presence/absence)
 
--> Lacking me/Excluding me in the plan.
-
--> The kitchen is upstairs.(location)
-
--> He ran up the stairs to his bedroom.(direction)
-
 -> I’m going upstairs to hang the washed clothes/laundry.
 
 -> I caused her to fall from bike.
 
 -> I tripped her off the bike.(Intentional,so don't use sentence most of the time though it is a correct sentence.)
 
--> upset/disappointed.
-
--> reluctance- unsure if it was the right decision.
-
--> shyness/inhibition.
-
 -> Are you the only person who came to the office?
 
 -> Were you the only person who came to the office?” (use this if you’re talking about earlier today)
 
--> dropped my phone.
-
--> convinced/self-obsessed/frightened.
+-> I dropped my phone.
 
 -> The website won't open/is'nt loading.
 
--> making false allegations.
-
--> violated/infringed the rules.
+-> She is making false allegations.
 
 -> While walking, I came across/encountered Suresh.
-
--> vintage
 
 -> I am on the afternoon shift.
 
 -> You are the one who gave the suggestion.
 
--> Despite his lack of experience, he performed very well.
-
 -> It is the time when students prepare for their final exams.
-
--> He withdrew the case due to prestige concerns.
 
 -> Let’s wait until the power is back.
 
 -> Praveen reassigned the ticket to himself.
 
--> pass the bag.
-
--> She accepted the award on behalf of the entire team.
+-> please pass the bag.
 
 -> The pooris and idlis are mostly cleared out/eaten up/served out by this hour.
 
--> There is slight sole separation/detachment.
-
 -> Keep looking straight ahead while walking.
-
--> intend/wish.
-
--> Are your legs hurting/aching/in pain.
-
--> Are your legs paining.❌
-
--> overcame
-
--> T-junction
-
--> four way
-
--> crossroads
-
--> adjacent/next/neighbouring room.
 
 -> One should always believe in oneself.
 
 -> He keeps laying the blame on others.
 
 -> How do I seem to you?
-
--> What do i look like to you?
 
 -> Listening to the news is over for today.(passive voice)
 
@@ -214,13 +156,7 @@ b-(I was the person who solved it.❌)
 
 -> Everyone has the same kind/amount of greed.
 
--> consecutive days in a week.
-
 -> I skidded across the ground and scraped my skin. The outer layer peeled off, leaving a raw wound.
-
--> persuade/convince her to stay at home after witnessing a series bus accidents.
-
--> suspect,witness and accused.
 
 -> I stopped at the very first step/right at the beginning.
 
@@ -228,9 +164,7 @@ b-(I was the person who solved it.❌)
 
 -> The journey alone feels good.
 
--> quite vast/extensive/grand.
-
--> arch
+-> The home is quite peaceful.
 
 -> This phone is as good as new after the repair.
 
@@ -247,10 +181,6 @@ b-(I was the person who solved it.❌)
 -> They even burst crackers on the road. Emphasis on the action (bursting crackers was surprising).
 
 -> They burst crackers even on the road. Emphasis on the place (the road was an unexpected place).
-
--> as soon as possible.
-
--> wander
 
 -> Who buys that much expensive saree?❌
 
@@ -271,12 +201,6 @@ b-(I was the person who solved it.❌)
 -> What I need is rest.
 
 -> What matters to him is honesty.
-
--> It was a difficult task indeed.(“Indeed” adds strong confirmation or emphasis.)
-
--> certain (“Certain” expresses strong confidence.)
-
--> It’s rather cold today.(“Rather” = fairly / somewhat (polite or mild emphasis in British English).)
 
 -> quite good.(fairly good (medium strength)).
 
@@ -310,13 +234,7 @@ b-(I was the person who solved it.❌)
 
 -> I left my keys right here on the table.
 
--> opposite building
-
--> pretend
-
 -> Submit the assignment by 5 PM. (You can submit at 3 PM, 4 PM, or 5 PM — but not after 5.)
-
--> It rained during the night/the meeting.
 
 -> He walked across the road.(From One Side to the Other).
 
@@ -328,7 +246,7 @@ b-(I was the person who solved it.❌)
 
 -> The bank is across the street./There is a park across the bridge.
 
--> They walked along the road./ There are trees along the river.-(Used when something is beside or next to a long object - road, river, wall, beach, etc.).
+-> They walked along the road./ There are trees along the river.-(Used - road, river, wall, beach, etc.).
 
 -> The plane is flying over the city./ Clouds are over the mountains.(Above but Not Touching)
 
