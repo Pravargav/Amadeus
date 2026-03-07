@@ -109,3 +109,13 @@ next
 neighbouring
 
 encountered
+
+unit
+
+despite
+
+withdraw
+
+prestige
+
+ruined
