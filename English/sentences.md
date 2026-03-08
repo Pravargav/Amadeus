@@ -255,3 +255,10 @@ b-(I was the person who solved it.❌)
 -> He jumped over the wall./The bridge goes over the river.(From One Side to the Other Crossing)
 
 -> The Earth moves around the Sun.
+
+-> Also - usually comes before the main verb or after “be.”
+
+-> Too - usually comes at the end of the sentence.
+
+-> I also work on weekends.(formal but long)/
+I work on weekends too.(less formal but short)
