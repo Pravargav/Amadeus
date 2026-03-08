@@ -268,3 +268,8 @@ I work on weekends too.(less formal but short)
 -> I don’t know either.
 
 ->  I don’t know too.❌
+
+-> Find: to locate or discover something physically
+
+->Find out : to discover information or learn something.
+
