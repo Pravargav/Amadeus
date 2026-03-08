@@ -262,3 +262,9 @@ b-(I was the person who solved it.❌)
 
 -> I also work on weekends.(formal but long)/
 I work on weekends too.(less formal but short)
+
+-> Either -Usually we use either, not also or too.
+
+-> I don’t know either.
+
+->  I don’t know too.❌
