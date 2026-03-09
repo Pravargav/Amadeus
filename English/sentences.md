@@ -273,3 +273,5 @@ I work on weekends too.(less formal but short)
 
 ->Find out : to discover information or learn something.
 
+-> simple present - are + v3 ex:are included.
+
