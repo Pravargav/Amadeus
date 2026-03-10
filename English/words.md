@@ -161,3 +161,5 @@ imposing
 bound
 
 recognize
+
+trading 
