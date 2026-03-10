@@ -275,3 +275,7 @@ I work on weekends too.(less formal but short)
 
 -> simple present - are + v3 ex:are included.
 
+-> simple past - was + v3 : was damaged.
+
+-> At least pretend that you are working.
+
