@@ -279,3 +279,5 @@ I work on weekends too.(less formal but short)
 
 -> At least pretend that you are working.
 
+-> I threw a stone at the glass, and it landed in the glass.
+
