@@ -153,3 +153,7 @@ fell
 torn
 
 tore
+
+degrading 
+
+imposing
