@@ -149,3 +149,7 @@ indefinitely
 landed
 
 fell
+
+torn
+
+tore
