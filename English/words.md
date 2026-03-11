@@ -170,6 +170,4 @@ fainted
 
 hypocrisy 
 
-disrupt
-
-sink
+knocking 
