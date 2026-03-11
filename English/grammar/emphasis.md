@@ -152,7 +152,16 @@
 
 -> This is just the problem we discussed.
 
----
+***Emphasis using as...as***
 
+-> You can stay here as long as you follow the rules.
 
+-> As far as I know, the project is still ongoing.
 
+-> He knows Java as well as Python.
+
+-> Some employees worked as late as midnight.
+
+-> She woke up as early as 4 AM.
+
+-> The deal is as good as confirmed.
