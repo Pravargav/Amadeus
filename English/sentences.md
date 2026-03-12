@@ -282,3 +282,5 @@ I work on weekends too.(less formal but short)
 -> I threw a stone at the glass, and it landed in the glass.
 
 -> He is trading his job for a life of enjoyment.
+
+-> I will join the meeting using just my mobile.
