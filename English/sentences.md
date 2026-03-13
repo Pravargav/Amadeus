@@ -284,3 +284,5 @@ I work on weekends too.(less formal but short)
 -> He is trading his job for a life of enjoyment.
 
 -> I will join the meeting using just my mobile.
+
+-> He hasn’t been to the office for the last two months.
