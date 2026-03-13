@@ -183,3 +183,11 @@ activities
 last
 
 indicates
+
+afraid 
+
+scaring 
+
+frighten 
+
+intimidating 
