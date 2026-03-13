@@ -180,4 +180,6 @@ cruel
 
 activities 
 
-Last 
+last
+
+indicates
