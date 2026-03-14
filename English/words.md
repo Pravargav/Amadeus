@@ -1,3 +1,5 @@
+strand
+
 pretend
 
 opposite
