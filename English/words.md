@@ -193,3 +193,5 @@ frighten
 intimidating 
 
 panic
+
+revealing 
