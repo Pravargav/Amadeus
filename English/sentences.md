@@ -286,3 +286,7 @@ I work on weekends too.(less formal but short)
 -> I will join the meeting using just my mobile.
 
 -> He hasn’t been to the office for the last two months.
+
+-> Which company's building is this?
+
+-> Which company does this building belong to? 
