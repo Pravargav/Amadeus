@@ -195,3 +195,9 @@ intimidating
 panic
 
 revealing 
+
+bear
+
+bore
+
+born
