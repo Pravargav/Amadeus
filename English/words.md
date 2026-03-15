@@ -203,3 +203,7 @@ bear
 bore
 
 born
+
+abruptly 
+
+privilege 
