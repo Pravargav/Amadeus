@@ -299,3 +299,4 @@ I work on weekends too.(less formal but short)
 
 -> In my next life, I want to be born as a bird.(be +v3)
 
+-> He is on leave on both Friday and Saturday
