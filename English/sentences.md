@@ -1,6 +1,7 @@
 -> The stitching of my trousers has come off.
 
-> Take off your shoes./He took off his jacket.(Removing something)
+-> Take off your shoes./He took off his jacket.(Removing something)
+
 -> The thief ran off./She drove off quickly.(Movement away from a place)
 
 -> He jumped off the table./She fell off the bike.(Movement from a surface - top → down)
