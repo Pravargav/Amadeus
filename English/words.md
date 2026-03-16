@@ -211,3 +211,5 @@ born
 abruptly 
 
 privilege 
+
+indicates 
