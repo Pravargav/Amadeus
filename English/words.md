@@ -217,3 +217,9 @@ privilege
 indicates 
 
 tailored
+
+worship 
+
+imposing 
+
+assigning 
