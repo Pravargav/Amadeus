@@ -1,3 +1,7 @@
+accomadation
+
+resedential
+
 strand
 
 pretend
