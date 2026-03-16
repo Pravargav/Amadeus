@@ -1,4 +1,4 @@
--> The stitches have torn.
+
 
 -> The stitching of my trousers has come off.
 
@@ -306,3 +306,5 @@ I work on weekends too.(less formal but short)
 -> He is on leave on both Friday and Saturday
 
 -> The stitching broke because the thread snapped.
+
+-> The stitching has opened.
