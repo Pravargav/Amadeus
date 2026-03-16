@@ -56,21 +56,11 @@
 
 -> How long have you been married?(past perfect continuos-even though no -ing form)
 
--> What’s there for breakfast?❌
-
--> What’s for breakfast?
-
--> What do we have for breakfast?
-
 -> Rakesh has'nt logged in yet.
 
 -> Whom he is calling?❌
 
 -> Whom is he calling?
-
--> The meeting lasts a long time.
-
--> The meeting lasts long.❌
 
 -> I have been getting the same issue every time/whenver I try to log in for a week.
 
