@@ -1,5 +1,12 @@
-passing 
+bluff
 
+bragging
+ 
+blabber
+
+
+passing
+ 
 pass
 
 missed
