@@ -1,10 +1,16 @@
+stance
+
+standpoint 
+
+viewpoint 
+
+claim 
+
 bow
 
 emerge
 
-
 verbal
-
 
 supervision
  
