@@ -1,3 +1,7 @@
+taunts
+
+enlighten
+ 
 stance
 
 standpoint 
