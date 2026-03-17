@@ -1,12 +1,12 @@
-supervision 
+verbal
 
+supervision
+ 
 bluff
-
 
 bragging
  
 blabber
-
 
 passing
  
@@ -17,7 +17,6 @@ missed
 mention 
 
 worship
-
 
 accomadation
 
@@ -242,3 +241,5 @@ worship
 imposing 
 
 assigning 
+
+verbal
