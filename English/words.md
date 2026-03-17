@@ -1,4 +1,7 @@
+supervision 
+
 bluff
+
 
 bragging
  
