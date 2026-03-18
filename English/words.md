@@ -1,3 +1,13 @@
+clearly 
+
+certainly
+ 
+definitely
+ 
+absolutely
+ 
+obviously
+ 
 directs
 
 taunts
