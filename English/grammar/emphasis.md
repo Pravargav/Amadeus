@@ -165,3 +165,13 @@
 -> She woke up as early as 4 AM.
 
 -> The deal is as good as confirmed.
+
+***Emphasis using certainly***
+
+-> He will certainly score above 90 marks in the exam.
+
+-> She will certainly complete at least 100 problems. 
+
+-> The file size will certainly be larger than 1 GB.
+
+-> The cost will certainly exceed ₹10,000.
