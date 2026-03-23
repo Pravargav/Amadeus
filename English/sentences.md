@@ -1,6 +1,7 @@
 -> I am applying to stay prepared and proactive, not because I want to switch immediately.
 
-> He ran fast to catch the train. 
+-> He ran fast to catch the train. 
+
 -> The stitching of my trousers has come off.
 
 -> Take off your shoes./He took off his jacket.(Removing something)
