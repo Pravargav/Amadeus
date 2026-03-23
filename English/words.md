@@ -1,3 +1,9 @@
+worn
+
+wore
+
+wear
+
 agreed
 
 refused
