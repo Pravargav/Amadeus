@@ -1,3 +1,9 @@
+proactive 
+
+prepared
+
+unforeseen 
+
 enters
 
 worn
