@@ -302,3 +302,17 @@ I work on weekends too.(less formal but short)
 -> The stitching has opened.
 
 -> We should bowl above waist or shoulder height.
+
+-> Please inform me prior to your arrival.(we include “to” after prior
+usually when talking about time.)
+
+-> She had no experience prior to joining the company.(we include “to” after prior
+usually when talking about time.)
+
+-> The meeting was scheduled prior to lunch.(we include “to” after prior
+usually when talking about time.)
+
+-> You must complete this task prior to the deadline.(we include “to” after prior
+usually when talking about time.)
+
+
