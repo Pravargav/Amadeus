@@ -315,6 +315,6 @@ usually when talking about time.)-meaning before.
 -> You must complete this task prior to the deadline.(we include “to” after prior
 usually when talking about time.)-meaning before.
 
--> My prior experience helped me.(As an adjective (most common))
+-> My prior experience helped me.(As an adjective (most common))-means earlier / previous
 
--> She has prior knowledge of the topic.(As an adjective (most common))
+-> She has prior knowledge of the topic.(As an adjective (most common))-means earlier / previous
