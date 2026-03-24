@@ -315,4 +315,6 @@ usually when talking about time.)
 -> You must complete this task prior to the deadline.(we include “to” after prior
 usually when talking about time.)
 
+-> My prior experience helped me.(As an adjective (most common))
 
+-> She has prior knowledge of the topic.(As an adjective (most common))
