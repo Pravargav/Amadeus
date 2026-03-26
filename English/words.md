@@ -1,5 +1,7 @@
-undermine 
+lack
 
+undermine
+ 
 honour
  
 dignity
