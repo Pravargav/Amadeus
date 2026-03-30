@@ -289,6 +289,8 @@ I work on weekends too.(less formal but short)
 
 -> Which company does this building belong to? 
 
+-> Which shift is Arya working on?
+
 -> I will join the meeting on my mobile itself. 
 
 -> Could you come here once?❌
