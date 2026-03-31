@@ -8,7 +8,7 @@ emerging
 
 circulate
 
-proclaiming
+claiming
 
 rites
 
