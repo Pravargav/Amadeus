@@ -1,3 +1,5 @@
+emerging 
+
 circulate
 
 proclaiming
