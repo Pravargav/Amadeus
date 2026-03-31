@@ -1,3 +1,9 @@
+arise
+
+idol
+
+region
+ 
 yours
 
 associated
