@@ -1,5 +1,9 @@
-unfinished 
+represent 
 
+presents
+
+unfinished
+ 
 leaving 
 
 gather
