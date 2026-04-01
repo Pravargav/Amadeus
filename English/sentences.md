@@ -326,6 +326,3 @@ usually when talking about time.)-meaning before.
 
 -> She has prior knowledge of the topic.(As an adjective (most common))-means earlier / previous
 
--> They had a small quarrel over money.(Quarrel → personal, emotional, small-scale)
-
--> The countries are in conflict over borders.(Conflict → serious, formal, or large-scale)
