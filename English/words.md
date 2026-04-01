@@ -1,5 +1,7 @@
-check 
+left
 
+check
+ 
 represent
  
 presents
