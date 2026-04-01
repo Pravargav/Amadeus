@@ -1,3 +1,7 @@
+unfinished 
+
+leaving 
+
 gather
 
 gained
