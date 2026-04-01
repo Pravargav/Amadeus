@@ -1,5 +1,9 @@
-especially 
+gained
 
+convey
+
+especially
+ 
 additionally
 
 timeline
