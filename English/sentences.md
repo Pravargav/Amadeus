@@ -1,3 +1,6 @@
+
+-> Leaving the task unfinished, how can he go home?
+
 -> They brought up their children with strong values.
 
 -> I am applying to stay prepared and proactive, not because I want to switch immediately.
