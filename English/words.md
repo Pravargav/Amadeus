@@ -1,3 +1,9 @@
+utilize
+
+companion
+
+insist
+
 afraid 
 
 left
