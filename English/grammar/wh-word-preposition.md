@@ -9,23 +9,25 @@ verb + preposition
 
 Who are you talking to?
 
-→ (talk to someone)
+(talk to someone)
 
 What are you looking for?
 
-→ (look for something)
+ (look for something)
 
 Whom are you reporting to?
 
-→ (report to someone)
+ (report to someone)
 
 Which company are you working for?
 
-→ (work for a company)
+ (work for a company)
 
 Where did you come from?
 
-→ (come from somewhere)
+ (come from somewhere)
+
+---
 
 -> Formal Structure (Preposition before WH-word)
 
