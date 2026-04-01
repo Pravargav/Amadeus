@@ -1,3 +1,5 @@
+afraid 
+
 left
 
 check
