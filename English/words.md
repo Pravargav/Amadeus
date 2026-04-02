@@ -1,3 +1,9 @@
+running 
+
+functioning 
+
+check
+
 utilize
 
 companion
