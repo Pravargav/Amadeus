@@ -2,6 +2,8 @@ running
 
 functioning 
 
+capture 
+
 check
 
 utilize
