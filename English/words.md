@@ -1,5 +1,7 @@
-running 
+resonating 
 
+running
+ 
 functioning 
 
 capture 
