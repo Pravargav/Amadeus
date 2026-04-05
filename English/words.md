@@ -1,5 +1,9 @@
-checking 
+reflects
 
+spontaneous 
+
+checking
+ 
 owe
 
 meet
