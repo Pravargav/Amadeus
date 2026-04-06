@@ -234,14 +234,6 @@ b-(I was the person who solved it.❌)
 
 -> Who drinks such a large amount of milk?
 
--> We should visit a temple today itself.❌(Indian english not british.)
-
--> Today only we should visit temple.❌
-
--> Today is the right day to visit the temple.
-
--> Today is the day we are supposed to visit the temple.
-
 -> What I need is rest.
 
 -> What matters to him is honesty.
@@ -250,13 +242,6 @@ b-(I was the person who solved it.❌)
 
 -> quite impossible.(completely impossible (strong)).
 
--> I will finish it right today.❌
-
--> I will finish it later today.
-
--> I will come right tomorrow.❌
-
--> I will come early tomorrow.
 
 -> She called me right after/before the meeting.
 
