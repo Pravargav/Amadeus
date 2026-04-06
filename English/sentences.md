@@ -124,25 +124,7 @@
 
 -> Did you have/eat breakfast?
 
--> There are 200 students in my class alone/ only in my class.
 
--> I only helped him.(I did nothing more than help him.)
-
--> I helped only him.(I didn’t help anyone else.)
-
--> You only tell me. (Indian meaning: You yourself tell me.) ❌
-
--> You are the one who should tell me.
-
--> I only solved the problem.
-
-a-(I didn’t do anything more than solve the problem.)
-
-b-(I was the person who solved it.❌)
-
--> She is my sister only.❌
-
--> She is my own sister.
 
 -> Generally, how many errors are we supposed to get in a day?
 
