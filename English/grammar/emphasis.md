@@ -204,3 +204,66 @@ b-(I was the person who solved it.❌)
 
 -> She is my own sister.
 
+---
+
+-> The journey alone feels good.
+
+-> The home is quite peaceful.
+
+-> This phone is as good as new after the repair.
+
+-> The button has come off.
+
+-> I eat with my hands itself.❌
+
+-> I eat with my hands.
+
+-> I cut myself.
+
+-> He completed the project himself without anyone's help.
+
+-> They even burst crackers on the road. Emphasis on the action (bursting crackers was surprising).
+
+-> They burst crackers even on the road. Emphasis on the place (the road was an unexpected place).
+
+-> Who buys that much expensive saree?❌
+
+-> Who buys such an expensive saree?
+
+-> Who drinks this much amount of milk?❌
+
+-> Who drinks such a large amount of milk?
+
+-> We should visit a temple today itself.❌(Indian english not british.)
+
+-> Today only we should visit temple.❌
+
+-> Today is the right day to visit the temple.
+
+-> Today is the day we are supposed to visit the temple.
+
+-> What I need is rest.
+
+-> What matters to him is honesty.
+
+-> quite good.(fairly good (medium strength)).
+
+-> quite impossible.(completely impossible (strong)).
+
+-> I will finish it right today.❌
+
+-> I will finish it later today.
+
+-> I will come right tomorrow.❌
+
+-> I will come early tomorrow.
+
+-> She called me right after/before the meeting.
+
+-> He arrived right at 5 pm/right at the moment/right then.
+
+-> I met him right yesterday.❌
+
+-> I met him just yesterday.
+
+-> I met him yesterday itself (Indian English).❌
