@@ -214,10 +214,6 @@ b-(I was the person who solved it.❌)
 
 -> The button has come off.
 
--> I eat with my hands itself.❌
-
--> I eat with my hands.
-
 -> I cut myself.
 
 -> He completed the project himself without anyone's help.
