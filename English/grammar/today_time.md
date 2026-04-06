@@ -10,6 +10,3 @@
 
 -> Who is on duty today?
 
--> Listening to the news is over for today.(passive voice)
-
--> I’ve finished listening to the news for today.(active voice)
