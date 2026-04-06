@@ -1,4 +1,8 @@
 
+-> Listening to the news is over for today.(passive voice)
+
+-> I’ve finished listening to the news for today.(active voice)
+
 -> Leaving the task unfinished, how can he go home?
 
 -> They brought up their children with strong values.
