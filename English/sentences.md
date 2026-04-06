@@ -21,9 +21,7 @@
 
 -> She drove through the market. (inside the market area)- (Through -go inside and come out)
 
--> The door closed by itself/ The machine stopped by itself.
 
-(To show something happens automatically without any human intervention.)
 
 -> I missed checking this week’s shift details earlier.
 
