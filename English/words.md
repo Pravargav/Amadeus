@@ -1,3 +1,5 @@
+during
+
 reflects
 
 spontaneous 
