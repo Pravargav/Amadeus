@@ -119,9 +119,6 @@
 
 -> How do I seem to you?
 
--> Listening to the news is over for today.(passive voice)
-
--> I’ve finished listening to the news for today.(active voice)
 
 -> Have you had/eaten breakfast?
 
