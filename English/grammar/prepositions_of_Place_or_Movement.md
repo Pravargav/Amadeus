@@ -38,7 +38,28 @@ Above (Something at a higher level than antother thing, but not touching)
 
    Under (Formal Word Beneath) - Direclty beneath something , often convered or protected
 
-   
+---
 
+Examples:
+
+-> He walked across the road.(From One Side to the Other).
+
+-> There were flowers across the field.(covering area).
+
+-> There are trees around the house. (Surrounding On All Sides).
+
+-> The ladder is against the wall.(touching surface vertically).
+
+-> The bank is across the street./There is a park across the bridge.
+
+-> They walked along the road./ There are trees along the river.-(Used - road, river, wall, beach, etc.).
+
+-> The plane is flying over the city./ Clouds are over the mountains.(Above but Not Touching)
+
+-> She put a blanket over the baby./He placed a cloth over the table.(Covering Something)
+
+-> He jumped over the wall./The bridge goes over the river.(From One Side to the Other Crossing)
+
+-> The Earth moves around the Sun.
 
 
