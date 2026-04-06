@@ -4,13 +4,13 @@
 
 -> We should do it now, not later.
 
--> It has to be done today.
-
 -> It needs to be done by the end of today.
 
 -> We need to leave right now.
 
 -> We need to sort this out at once.
+
+---
 
 ***Emphasise person***
 
@@ -30,6 +30,8 @@
 
 -> I do agree with your suggestion.
 
+---
+
 ***Emphasis using such***
 
 -> It was such a beautiful temple.
@@ -37,6 +39,8 @@
 -> I have never seen such beauty.
 
 -> We cannot tolerate such actions.
+
+---
 
 ***Emphasis using same***
 
@@ -47,6 +51,8 @@
 -> This is the very same issue we discussed yesterday
 
 -> That is the very same place I visited last year
+
+---
 
 ***Emphasis using alone***
 
@@ -66,6 +72,8 @@
 
 -> This evidence alone proves he is innocent
 
+---
+
 ***Emphasis using very(exact or precise):***
 
 -> This is the very reason I called you
@@ -73,6 +81,8 @@
 -> This is the very problem we discussed
 
 -> The job triggered in the very next run
+
+---
 
 ***Emphasis using even(something unexpected/surprising/extreme):***
 
@@ -95,6 +105,8 @@
 -> Even a child can solve this problem 
 
 -> Even the teacher did'nt know the answer
+
+---
 
 ***Emphasis using right(exactly/precisely/immediately):***
 
@@ -124,6 +136,8 @@
 
 -> The building is right infront of the park.
 
+---
+
 ***Emphasis using just(small/exact/immediate):***
 
 -> The office is just around the corner
@@ -152,6 +166,8 @@
 
 -> This is just the problem we discussed.
 
+---
+
 ***Emphasis using as...as***
 
 -> You can stay here as long as you follow the rules.
@@ -165,6 +181,8 @@
 -> She woke up as early as 4 AM.
 
 -> The deal is as good as confirmed.
+
+---
 
 ***Emphasis using certainly***
 
