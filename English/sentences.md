@@ -89,8 +89,6 @@
 
 -> I caused her to fall from bike.
 
--> I tripped her off the bike.(Intentional,so don't use sentence most of the time though it is a correct sentence.)
-
 -> Are you the only person who came to the office?
 
 -> Were you the only person who came to the office?” (use this if you’re talking about earlier today)
