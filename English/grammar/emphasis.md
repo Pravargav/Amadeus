@@ -212,7 +212,7 @@ b-(I was the person who solved it.❌)
 
 -> This phone is as good as new after the repair.
 
--> The button has come off.
+
 
 -> I cut myself.
 
