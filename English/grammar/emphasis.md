@@ -177,3 +177,5 @@
 -> The cost will certainly exceed ₹10,000.
 
 ---
+
+-> The door closed by itself/ The machine stopped by itself.
