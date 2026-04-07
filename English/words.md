@@ -1,3 +1,7 @@
+imporobable 
+
+uncomfortable 
+
 against 
 
 favour
