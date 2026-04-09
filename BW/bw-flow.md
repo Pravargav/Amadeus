@@ -21,3 +21,6 @@ flowchart TD
     C --> D[Job Queue / Logger<br/>(Bull / PM2 / Cron)]
     D --> E[Dashboard / UI<br/>(React / Power BI)]
 ````
+
+-> https://community.sap.com/t5/technology-blog-posts-by-members/a-replacement-for-rspcm-process-chain-monitoring-from-st13-ssa-bwt-program/ba-p/12886371
+
