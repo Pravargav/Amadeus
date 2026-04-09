@@ -1,4 +1,4 @@
-# SAP Analysis for Office – Change Request & Company Portal Flow 
+## SAP Analysis for Office – Change Request & Company Portal Flow 
 
 This document explains the **end-to-end flow of SAP Analysis for Office (AO)** upgrade and deployment in **Cognizant**, using **Win@Approach (ChaRM)** and the **Company Portal (like a Play Store)**.
 
