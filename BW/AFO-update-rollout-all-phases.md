@@ -41,7 +41,7 @@ This phase maps to **Implementation status in Win@Approach**.
 
 ---
 
-## 3️⃣ UAT – User Acceptance Testing
+### 3️⃣ UAT – User Acceptance Testing
 
 - AO tested on pilot user laptops
 - Validation includes:
