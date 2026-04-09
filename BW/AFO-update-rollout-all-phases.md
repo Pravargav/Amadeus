@@ -58,7 +58,7 @@ This phase maps to **Implementation status in Win@Approach**.
 
 ---
 
-## 4️⃣ End User Rollout – Company Portal (Like Play Store)
+### 4️⃣ End User Rollout – Company Portal (Like Play Store)
 
 - After UAT approval:
   - DPS publishes **SAP Analysis for Office** in the **Company Portal**
@@ -74,7 +74,7 @@ This phase maps to **Implementation status in Win@Approach**.
 
 ---
 
-## 5️⃣ Communication – Throughout the Change Lifecycle
+### 5️⃣ Communication – Throughout the Change Lifecycle
 
 Communication is mandatory at all stages:
 
@@ -88,7 +88,7 @@ Communication artifacts are attached to the **Win@Approach Change Request**.
 
 ---
 
-## 🔁 Tool & Phase Mapping
+### 🔁 Tool & Phase Mapping
 
 | Step | Tool / Platform |
 |-----|-----------------|
@@ -100,7 +100,7 @@ Communication artifacts are attached to the **Win@Approach Change Request**.
 
 ---
 
-## 🎯Summary
+### 🎯Summary
 
 > *SAP Analysis for Office upgrades are managed through a Win@Approach change, validated in UAT, and deployed globally via the Company Portal with controlled self-service access for end users.*
 
