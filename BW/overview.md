@@ -12,11 +12,6 @@
 
 -> Z or Y starting names - custom, other starting names are SAP standard
 
--> Famous transaction codes
-
-   - RSA1
-   - RSPC
-   - RSRT
 
 -> datawarehouse is big data store used for BI purposes and is structured data. while data lake is big raw data which is unstructured used in AI/ML training.
 
