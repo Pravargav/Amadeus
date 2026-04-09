@@ -1,4 +1,4 @@
-##  1. RC (Return Code)
+###  1. RC (Return Code)
 Indicates the execution status of a background job, process chain step, or program.
 
 | RC Value | Meaning |
@@ -10,7 +10,7 @@ Indicates the execution status of a background job, process chain step, or progr
 
 ---
 
-##  2. Change Number (ECN – Engineering Change Number)
+###  2. Change Number (ECN – Engineering Change Number)
 Used for version-controlled changes to materials, BOMs, documents, and routings.
 
 **Purpose:**
@@ -26,7 +26,7 @@ Used for version-controlled changes to materials, BOMs, documents, and routings.
 
 ---
 
-##  3. TR (Transport Request)
+###  3. TR (Transport Request)
 Used to move configuration or development objects across SAP systems:
 
 **DEV → QA → PROD**
