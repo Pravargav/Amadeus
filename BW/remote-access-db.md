@@ -23,14 +23,14 @@
 - Hadoop 
 - **SAP IQ**
 
--> IQ Systems (SAP IQ)
+Note: [IQ Systems (SAP IQ)
 SAP IQ is a columnar, high‑performance analytical database mainly used for:
 
 ##### Primary Use Cases
 - Nearline Storage (NLS) 
 - Warm data archiving 
 - Long‑term data retention 
-- Offloading historical BW requests to reduce HANA memory usage 
+- Offloading historical BW requests to reduce HANA memory usage]
 
 ### Purpose
 - Real‑time data federation 
