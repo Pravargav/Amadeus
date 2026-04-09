@@ -1,4 +1,4 @@
-# SAP Concepts Summary
+# SAP Concepts 
 
 ## 1. RFC (Remote Function Call)
 **RFC** is SAP’s standard communication mechanism used to connect:
