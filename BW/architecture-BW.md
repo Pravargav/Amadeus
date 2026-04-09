@@ -53,7 +53,7 @@ Occurs in **BW/4HANA analytic layer**:
 
 ---
 
-### ✅ Why ARBK and ALTE Matter
+### Why ARBK and ALTE Matter
 - When queries use aggregates, **ARBK** and **ALTE** ensure **performance and consistency**.
 - **ADSO** feeds data into these aggregates for faster reporting.
 
