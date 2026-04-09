@@ -24,3 +24,6 @@ flowchart TD
 
 -> https://community.sap.com/t5/technology-blog-posts-by-members/a-replacement-for-rspcm-process-chain-monitoring-from-st13-ssa-bwt-program/ba-p/12886371
 
+| Feature        | RSPC                     | RSPM (via ST13/SSA/BWT) |
+|---------------|--------------------------|-------------------------|
+| Main Function | Maintenance & Development | Monitoring & Support   |
