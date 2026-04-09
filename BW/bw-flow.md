@@ -27,3 +27,5 @@ flowchart TD
 | Feature        | RSPC                     | RSPM (via ST13/SSA/BWT) |
 |---------------|--------------------------|-------------------------|
 | Main Function | Maintenance & Development | Monitoring & Support   |
+
+Note: RSPCM is an older, often slower, monitoring transaction that requires manual additions, while RSPM (via ST13/SSA/BWT) is generally preferred for performance reasons.
