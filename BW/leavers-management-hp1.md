@@ -1,4 +1,5 @@
--> su01
+-> su01 - tcode for user details
+
 -> In the context of Leavers Management in HP1 systems:
 
 These jobs likely relate to processes for handling employees who are leaving (e.g., data cleanup, access removal, notifications).
