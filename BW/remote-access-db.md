@@ -21,10 +21,10 @@
 - Oracle 
 - SQL Server 
 - Hadoop 
-- **SAP IQ**
+- *SAP IQ*
 
-Note: [IQ Systems (SAP IQ)
-SAP IQ is a columnar, high‑performance analytical database mainly used for:
+***Note: IQ Systems (SAP IQ)***
+[SAP IQ is a columnar, high‑performance analytical database with use cases below:
 
 ##### Primary Use Cases
 - Nearline Storage (NLS) 
