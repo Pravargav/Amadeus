@@ -1,19 +1,18 @@
 
-# Step-by-Step Explanation of Flow
 
-## 1. **S/4 (Source System)**
+### 1. **S/4 (Source System)**
 - This is the transactional system (**SAP S/4HANA**) where operational data resides.
 - **Examples:** Sales Orders, Financial Data, Inventory.
 
 ---
 
-## 2. **SLT (SAP Landscape Transformation)**
+### 2. **SLT (SAP Landscape Transformation)**
 - Replicates data from **S/4** to **BW/4HANA** in real-time or batch.
 - Handles **initial load** and **delta changes**.
 
 ---
 
-## 3. **BW/4HANA Layer**
+### 3. **BW/4HANA Layer**
 Core modeling layer where data is structured for analytics.
 
 ### Key Components:
@@ -29,7 +28,7 @@ Core modeling layer where data is structured for analytics.
 
 ---
 
-## 4. **Aggregation & De-aggregation**
+### 4. **Aggregation & De-aggregation**
 Occurs in **BW/4HANA analytic layer**:
 
 - **Aggregation:** Summarizes data (e.g., monthly totals).
@@ -41,12 +40,12 @@ Occurs in **BW/4HANA analytic layer**:
 
 ---
 
-## 5. **HANA Layer**
+### 5. **HANA Layer**
 - Performs calculations and joins for optimized query performance.
 
 ---
 
-## 6. **Query Layer**
+### 6. **Query Layer**
 - End-user reporting via:
   - **BEx Queries**
   - **Analysis for Office**
