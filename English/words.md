@@ -1,4 +1,6 @@
-fulfilling reflect
+fulfilling 
+
+reflect
 
 glory
 
