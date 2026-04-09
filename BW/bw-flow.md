@@ -6,7 +6,7 @@ flowchart TD
     A[Source System<br/>(ECC / S4 / Flat File)]
     A --> B[InfoObjects<br/>(Characteristics & Key Figures)]
     B --> C[ADSO<br/>(Inbound / Active / Change Log)]
-    C --> D[RSPM<br/>(Request & Process Management)]
+    C --> D[RSPM<br/>(Request Status and Process Manager )]
     D --> E[Reporting<br/>(Query / SAC / BO)]
 ````
     
