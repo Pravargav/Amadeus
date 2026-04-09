@@ -1,10 +1,10 @@
-## SAP Analysis for Office – Change Request & Company Portal Flow 
+### SAP Analysis for Office – Change Request & Company Portal Flow 
 
 This document explains the **end-to-end flow of SAP Analysis for Office (AO)** upgrade and deployment in **Cognizant**, using **Win@Approach (ChaRM)** and the **Company Portal (like a Play Store)**.
 
 ---
 
-## 1️⃣ Identifying – Version & Support Package (Change Initiation)
+### 1️⃣ Identifying – Version & Support Package (Change Initiation)
 
 - Identify the **supported combination**:
   - Windows OS version
@@ -22,7 +22,7 @@ This document explains the **end-to-end flow of SAP Analysis for Office (AO)** u
 
 ---
 
-## 2️⃣ Deployment Phase – DPS Team (Implementation)
+### 2️⃣ Deployment Phase – DPS Team (Implementation)
 
 - DPS (Desktop / Platform Support) team:
   - Packages AO installer along with required SP
