@@ -19,7 +19,7 @@ Finished ensures compliance and security because it confirms that the leaver’s
 *   It acts as an intermediate storage for the output before it is sent to:
     *   A *printer*
     *   A *PDF file*
-    *   A *SAP Spool Display (transaction SP01)*
+    *   A *SAP Spool Display*
 
 
 
