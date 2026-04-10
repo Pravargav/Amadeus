@@ -40,4 +40,8 @@ A Process Chain is a sequence of Processes (steps) that are scheduled to wait fo
 
 |---|
 
+-> Process Chain is the container (functional).
 
+-> Background Job is the executor (technical).
+
+|---|
