@@ -45,3 +45,9 @@ A Process Chain is a sequence of Processes (steps) that are scheduled to wait fo
 -> Background Job is the executor (technical).
 
 |---|
+
+-> Processes: Monitored via RSPC, providing functional insights, logs, and dependencies.
+
+-> Jobs: Monitored via SM37, showing technical status, duration, and user.
+
+|---|
