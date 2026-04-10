@@ -1,5 +1,7 @@
-imitating 
+provide 
 
+imitating
+ 
 resilience
  
 fulfilling
