@@ -1,5 +1,7 @@
-resilience 
+imitating 
 
+resilience
+ 
 fulfilling
  
 reflect
