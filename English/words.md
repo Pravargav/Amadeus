@@ -1,5 +1,7 @@
-fulfilling 
+resilience 
 
+fulfilling
+ 
 reflect
 
 glory
