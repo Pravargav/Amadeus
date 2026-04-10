@@ -30,9 +30,9 @@ flowchart TD
 
 Note: RSPCM is an older, often slower, monitoring transaction that requires manual additions, while RSPM (via ST13/SSA/BWT) is generally preferred for performance reasons.
 
--> Process (Process Variant / Step) - 
+-> **Process (Process Variant / Step)** - 
 A Process is a single step within a Process Chain. It is the modularization of a technical action (e.g., "Delete Data from Target", "Activate Data"). 
 
--> Process Chain (RSPC) - 
+-> **Process Chain (RSPC)** - 
 A Process Chain is a sequence of Processes (steps) that are scheduled to wait for an event, automatically triggering the next step upon successful completion of the previous one. 
 
