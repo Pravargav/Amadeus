@@ -8,4 +8,6 @@
 
 -> sm37 - odq_tq_job
 
+-> sm12 - locks check
+
 
