@@ -11,7 +11,7 @@
 - BW data extraction 
 - SLT, BW, S/4HANA, and third‑party integrations
 
----
+
 
 ### 2. SDA (Smart Data Access)
 **SDA** is an SAP HANA feature that enables **virtual access** to external/remote data **without loading it physically** into HANA.
