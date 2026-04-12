@@ -1,3 +1,7 @@
+trembling 
+
+overwhelming 
+
 sulk
 
 provide
