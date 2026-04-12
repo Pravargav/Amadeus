@@ -22,4 +22,4 @@
 
 -> bpc checks and afo checks are just software working properly or not checks.
 
-
+-> se38 - rspm_manage - mdm and boomi adso's cheking randomly
