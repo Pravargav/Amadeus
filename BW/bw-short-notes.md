@@ -19,3 +19,7 @@
         - Check document numbers and amounts and compare them in both systems as they should be equal
 
 -> dbacockpit - change log monitoring - table(/BIC/A*3)
+
+-> bpc checks and afo checks are just software working properly or not checks.
+
+
