@@ -26,3 +26,6 @@
 
 -> OTC - order to cash(A standard business process covering the full lifecycle:
 Order → Billing → Invoicing → Payment → Revenue recognition)
+
+-> https://nttdata-solutions.com/uk/blog/anatomy-of-the-operational-delta-queues-in-sap-odp-extractors/
+
