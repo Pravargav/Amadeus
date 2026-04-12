@@ -69,7 +69,7 @@ Order → Billing → Invoicing → Payment → Revenue recognition)
 
 
 
-##### Non‑Streaming Process Chain (Traditional BW)
+##### ***Non‑Streaming Process Chain (Traditional BW)***
 
 
 
@@ -97,7 +97,7 @@ Source → PSA → DSO (complete) → DSO activation → Cube
 
 
 
-##### Streaming Process Chain
+##### ***Streaming Process Chain***
 
 
 
