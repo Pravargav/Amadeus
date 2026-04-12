@@ -19,3 +19,5 @@
 -> PBW, EBW, TBW - three types of control-M Jobs
 
 -> ODQ_TQ_MONITOR - Operational Delta Queue - Task Queue Monitor
+
+-> LTRC - LT Replication server Cockpit
