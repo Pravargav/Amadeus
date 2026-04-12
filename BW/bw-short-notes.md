@@ -1,0 +1,1 @@
+-> se38 + filter only main chains is equivalent to sm21.
