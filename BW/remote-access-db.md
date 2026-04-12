@@ -1,5 +1,5 @@
 
-## 1. RFC (Remote Function Call)
+### 1. RFC (Remote Function Call)
 **RFC** is SAP’s standard communication mechanism used to connect:
 - SAP ↔ SAP systems 
 - SAP- SAP ↔ non‑SAP systems 
@@ -13,7 +13,7 @@
 
 ---
 
-## 2. SDA (Smart Data Access)
+### 2. SDA (Smart Data Access)
 **SDA** is an SAP HANA feature that enables **virtual access** to external/remote data **without loading it physically** into HANA.
 
 ### Supported External Databases
