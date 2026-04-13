@@ -1,4 +1,4 @@
-worst
+lame
 
 uphold
  
