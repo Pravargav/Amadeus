@@ -1,6 +1,8 @@
 -> se38 + filter only main chains is equivalent to sm21.
 
--> se38 - process chain runtime analysis
+-> se38 - process chain runtime analysis 
+
+-> rspc - mdm and fiac
 
 -> st22 - runtime errors - 10 below
 
