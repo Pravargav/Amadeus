@@ -58,6 +58,8 @@ https://blog.maruskin.eu/2020/12/bw-request-types-rssm-vs-rspm.html
 
 -> LTRC - LT Replication server Cockpit
 
+-> iPPM - integrated Program and Project Management
+
 -> GFT - global fare table(In Amadeus systems, GFT refers to fare-related data used for pricing(pricing intelligence), revenue(revenue reporting), and ticket price of aeroplane(fare analytics))
 
 -> OTC - order to cash(A standard business process covering the full lifecycle:
