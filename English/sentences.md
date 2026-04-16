@@ -1,3 +1,10 @@
+
+-> I have exceeded my daily limit.
+
+-> My daily limit has been reached
+
+-> I have hit my daily limit.
+
 -> Different times of the day affect our mood and energy levels.
 
 -> I should live up to the trust placed in me.
