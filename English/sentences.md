@@ -215,5 +215,9 @@ I work on weekends too.(less formal but short)
 
 -> We should bowl above waist or shoulder height.
 
+-> I have exceeded my daily limit.
 
+-> My daily limit has been reached
+
+-> -> I have hit my daily limit.
 
