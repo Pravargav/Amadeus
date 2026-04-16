@@ -1,3 +1,9 @@
+spread
+
+distribute
+
+diverse
+
 confront 
 
 warned
