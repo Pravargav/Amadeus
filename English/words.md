@@ -1,3 +1,7 @@
+impulsively
+
+impulse 
+
 charred
 
 scorched
