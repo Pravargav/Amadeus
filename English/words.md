@@ -1,3 +1,7 @@
+charred
+
+scorched
+
 tumbler
 
 pit
