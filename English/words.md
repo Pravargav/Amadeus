@@ -1,3 +1,7 @@
+strip
+
+stripped
+
 carry
 
 provoke
