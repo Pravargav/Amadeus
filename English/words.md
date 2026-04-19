@@ -1,3 +1,7 @@
+outer
+
+layer
+
 strip
 
 stripped
