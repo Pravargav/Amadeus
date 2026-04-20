@@ -1,3 +1,7 @@
+isolated 
+
+obscure 
+
 unchecked
 
 unselected 
