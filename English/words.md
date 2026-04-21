@@ -1,3 +1,5 @@
+adjacent 
+
 isolated 
 
 obscure 
