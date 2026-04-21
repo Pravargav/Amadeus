@@ -18,3 +18,14 @@
 
 -> Platform certifications:
 
+> google cloud
+
+> aws
+
+> microsoft azure
+
+> databricks
+
+> kubernetes admin
+
+> Terraform assoiciate
