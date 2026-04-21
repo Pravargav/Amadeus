@@ -1,7 +1,9 @@
 -> Learning:
 
 > andrew ng
+
 > google aiml crash course skillboost
+
 > huggingface course
 > langchain academy and langgraph certifications
 > aws ai practitioner
