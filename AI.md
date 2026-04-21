@@ -18,11 +18,7 @@
 
 -> Platform certifications:
 
-> google cloud
-
-> aws
-
-> microsoft azure
+> google cloud/aws/ microsoft azure
 
 > databricks
 
