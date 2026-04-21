@@ -1,3 +1,3 @@
--> ANGER
+-> anger
 
--> POSITIVITY
+-> positivity
