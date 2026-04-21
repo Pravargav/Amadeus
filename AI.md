@@ -1,4 +1,4 @@
--> Learning:
+-> Learning Certificates:
 
 > andrew ng
 
@@ -15,3 +15,6 @@
 > weights and biases for mlops
 
 > pinecone's vector database ceritfications.
+
+-> Platform certifications:
+
