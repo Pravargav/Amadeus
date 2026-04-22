@@ -1,3 +1,5 @@
+defeat 
+
 foul
 
 adjacent 
