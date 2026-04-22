@@ -1,3 +1,5 @@
+foul
+
 adjacent 
 
 isolated 
