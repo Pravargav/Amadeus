@@ -1,3 +1,7 @@
+implies
+
+greet
+
 disengaged
 
 defeat
