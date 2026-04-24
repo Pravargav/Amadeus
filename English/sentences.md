@@ -1,3 +1,5 @@
+-> He is my senior by one day.
+
 -> She stitched the dress by hand.
 
 -> I have exceeded my daily limit.
