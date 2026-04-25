@@ -1,5 +1,7 @@
-significant 
+criteria 
 
+significant
+ 
 implies
 
 greet
