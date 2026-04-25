@@ -1,5 +1,7 @@
-criteria 
+confluence 
 
+criteria
+ 
 significant
  
 implies
