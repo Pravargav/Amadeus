@@ -1,5 +1,7 @@
-uniform 
+duration 
 
+uniform
+ 
 extensive
  
 widespread 
