@@ -1,3 +1,7 @@
+discontinued 
+
+discomfort 
+
 duration 
 
 uniform
