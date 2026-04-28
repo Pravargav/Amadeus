@@ -1,4 +1,4 @@
--> Use “later” (comparative form of late), not late than.
+
 
 -> He is my senior by one day.
 
