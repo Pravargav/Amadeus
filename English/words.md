@@ -1,3 +1,7 @@
+preventing 
+
+restricting
+
 fallen
 
 fell
