@@ -1,3 +1,5 @@
+effective 
+
 resist
 
 guardrail
