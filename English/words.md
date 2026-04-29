@@ -1,5 +1,7 @@
-guardrail 
+resist
 
+guardrail
+ 
 intermittent
  
 accumalte
