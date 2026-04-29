@@ -1,5 +1,11 @@
-unnoticed 
+intermittent 
 
+accumalte
+
+meaningless
+
+unnoticed
+ 
 halt
 
 accomadate
