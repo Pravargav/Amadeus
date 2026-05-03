@@ -4,7 +4,7 @@
 
 -In the search bar:
 Enter job title (e.g., Software Developer)
-Enter location (e.g., Bangalore)
+,Enter location (e.g., Bangalore)
 
 -Click Search
 
