@@ -25,10 +25,10 @@ https://www.linkedin.com/jobs/
 
 **steps to create a job alert**
 
-Search: Click the Jobs icon on the homepage and search for a job title and location.
+1)Search: Click the Jobs icon on the homepage and search for a job title and location.
 
-Filter: Apply filters like company, experience level, or date posted to make the search specific.
+2)Filter: Apply filters like company, experience level, or date posted to make the search specific.
 
-Activate Alert: Toggle the Job alert on button (usually top-left on desktop or at the bottom on mobile).
+3)Activate Alert: Toggle the Job alert on button (usually top-left on desktop or at the bottom on mobile).
 
-Customize: Choose your notification frequency (daily or weekly) and preferred methods (email and/or push notifications).
+4)Customize: Choose your notification frequency (daily or weekly) and preferred methods (email and/or push notifications).
