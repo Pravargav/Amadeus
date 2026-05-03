@@ -6,6 +6,10 @@ https://www.linkedin.com/mypreferences/d/categories/sign-in-and-security
 -> visibility settings - no use - 
 https://www.linkedin.com/mypreferences/d/categories/profile-visibility
 
+-> advertising data - no use - 
+
+-> 
+
 
 
 
