@@ -10,7 +10,8 @@ https://www.linkedin.com/mypreferences/d/categories/profile-visibility
 
 -> account preferences - no use - https://www.linkedin.com/mypreferences/d/categories/account
 
--> 
+-> data and privacy - job seek and prefernces and resume/cv updates-
+https://www.linkedin.com/mypreferences/d/categories/privacy
 
 
 
