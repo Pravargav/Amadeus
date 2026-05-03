@@ -1,5 +1,9 @@
-leftover 
+exploit 
 
+solitude 
+
+leftover
+ 
 grief
 
 consolation 
