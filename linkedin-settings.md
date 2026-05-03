@@ -8,6 +8,8 @@ https://www.linkedin.com/mypreferences/d/categories/profile-visibility
 
 -> advertising data - no use - https://www.linkedin.com/mypreferences/d/categories/ads
 
+-> account preferences - no use - https://www.linkedin.com/mypreferences/d/categories/account
+
 -> 
 
 
