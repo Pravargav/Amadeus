@@ -1,3 +1,11 @@
+grief
+
+consolation 
+
+solace 
+
+comforting
+
 rid
 
 defaulter
