@@ -1,5 +1,7 @@
-schemes 
+obtain 
 
+schemes
+ 
 exploit
  
 solitude 
