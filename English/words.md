@@ -1,3 +1,5 @@
+bankrupt 
+
 interrupt
 
 bothering
