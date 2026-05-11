@@ -1,3 +1,9 @@
+figures
+
+stats
+
+rhyming 
+
 congested
 
 rites
