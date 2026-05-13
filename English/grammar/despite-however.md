@@ -63,3 +63,38 @@ Sentence. However, sentence.
 
 - Despite the traffic, I reached on time.
 - There was heavy traffic. However, I reached on time.
+
+  # Can “Despite” and “However” Be Used Similarly?
+
+Yes, in many situations they can express a similar contrast, but they are not directly interchangeable because the grammar structure changes.
+
+---
+
+## Example
+
+### Using “Despite”
+
+```text
+Despite the rain, we went outside.
+```
+
+### Using “However”
+
+```text
+It was raining. However, we went outside.
+```
+
+---
+
+## Explanation
+
+Both sentences give a similar meaning, but:
+
+- **Despite** → followed by a **noun** or **verb-ing**
+- **However** → connects **two complete sentences**
+
+---
+
+## Key Point
+
+You can often use either word to express contrast, but you must change the sentence structure accordingly.
