@@ -1,3 +1,5 @@
+exposure 
+
 reminiscing
 
 concede
