@@ -1,3 +1,9 @@
+-> Difference between bpop and ccop
+
+👉 CCOP = Cost → Internal expenses
+
+👉 BPOP = Business → Revenue & profit
+
 ## SAP SAC Planning – Account View vs Procurement (Commodity) View
 
 In **SAP SAC (Planning)**, planning data is structured and analyzed using **different business dimensions**. 
