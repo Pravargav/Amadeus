@@ -1,4 +1,4 @@
-# Reporting Section – Financial Forecast (SAP Analytics Cloud)
+## Reporting Section – Financial Forecast (SAP Analytics Cloud)
 
 The **Reporting** section is used for **analysis, performance tracking, and decision-making**. 
 It consumes **published planning data** and presents it in structured dashboards.
@@ -93,7 +93,7 @@ This structure ensures **clear, consistent, and multi-level financial reporting*
 
 
 
-# Planning Section – Financial Forecast (SAP Analytics Cloud)
+## Planning Section – Financial Forecast (SAP Analytics Cloud)
 
 The **Planning** section is used for **data entry, forecasting, and financial modeling**. 
 It allows FP&A teams to build a **complete financial forecast** across P&L, Balance Sheet–related items, and Cash Flow.
