@@ -1,4 +1,4 @@
-# 📊 Budget vs Planning vs Forecast vs Rolling Forecast  
+## Budget vs Planning vs Forecast vs Rolling Forecast  
 *(When Companies Do Them – Majority Practice)*
 
 ---
