@@ -4,8 +4,6 @@ overwhelming
 
 exposure
  
-reminiscing
-
 concede
 
 proximity
