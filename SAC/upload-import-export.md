@@ -92,5 +92,6 @@ Export sends data **out of SAC**, either to a file or back to another SAP system
 | **Export** | SAC → File/System | SAC Model | Excel, S/4, BW, Datasphere | Write-back and external reporting |
 
 ---
-
+👉 Live = Real-time (no storage)
+👉 Acquired = Stored (imported data)
 
