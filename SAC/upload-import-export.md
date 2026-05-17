@@ -93,5 +93,6 @@ Export sends data **out of SAC**, either to a file or back to another SAP system
 
 ---
 👉 Live = Real-time (no storage)
+
 👉 Acquired = Stored (imported data)
 
