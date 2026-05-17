@@ -1,4 +1,4 @@
-# SAP SAC Planning – Account View vs Procurement (Commodity) View
+## SAP SAC Planning – Account View vs Procurement (Commodity) View
 
 In **SAP SAC (Planning)**, planning data is structured and analyzed using **different business dimensions**. 
 Simply put, it’s about **“which lens you plan from.”**
