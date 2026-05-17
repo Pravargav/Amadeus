@@ -1,3 +1,4 @@
+-> SAP stands for Systems, Applications, and Products in Data Processing
 
 ### 1. RFC (Remote Function Call)
 **RFC** is SAP’s standard communication mechanism used to connect:
