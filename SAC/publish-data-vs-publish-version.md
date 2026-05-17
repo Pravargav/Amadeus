@@ -2,32 +2,32 @@ In **SAP Analytics Cloud (SAC)**, **“Publish Data”** and **“Publish Story�
 
 ---
 
-# 🔹 Publish **Data** vs Publish **Story** in SAC
+#### 🔹 Publish **Data** vs Publish **Story** in SAC
 
-## 1️⃣ Publish **Data**
+##### 1️⃣ Publish **Data**
 
-### ✅ What it means
+##### ✅ What it means
 
 * Moves **data** from a **Private Version → Public Version**
 * Applies to **Planning Models**
 * Changes **planning numbers** in the model (not Actuals)
 
-### 📌 Where you see it
+##### 📌 Where you see it
 
 * In **planning stories**
 * When working with **versions**
 
-### 🧠 Key idea
+##### 🧠 Key idea
 
 > **Data is getting committed**
 
-### 🧪 Example
+##### 🧪 Example
 
 * You adjust forecast revenue in your **Private Version**
 * Click **Publish Data**
 * Now everyone sees updated numbers in **Public Version**
 
-### ⚠️ Important
+##### ⚠️ Important
 
 * Affects **reports, other stories, publications**
 * Requires **write permission**
@@ -35,30 +35,30 @@ In **SAP Analytics Cloud (SAC)**, **“Publish Data”** and **“Publish Story�
 
 ---
 
-## 2️⃣ Publish **Story**
+##### 2️⃣ Publish **Story**
 
-### ✅ What it means
+##### ✅ What it means
 
 * Makes the **story object** visible to others
 * Does **NOT change data**
 * Only affects **access & visibility**
 
-### 📌 Where you see it
+##### 📌 Where you see it
 
 * When saving / sharing a story
 * Content management level
 
-### 🧠 Key idea
+##### 🧠 Key idea
 
 > **Layout is shared, data stays same**
 
-### 🧪 Example
+##### 🧪 Example
 
 * You design a dashboard
 * Click **Publish Story**
 * Others can now open the same dashboard
 
-### ⚠️ Important
+##### ⚠️ Important
 
 * No data write-back
 * No impact on versions
@@ -66,7 +66,7 @@ In **SAP Analytics Cloud (SAC)**, **“Publish Data”** and **“Publish Story�
 
 ---
 
-## 🔥 Side-by-Side Comparison (Very Exam-Friendly)
+##### 🔥 Side-by-Side Comparison (Very Exam-Friendly)
 
 | Aspect                | Publish **Data** | Publish **Story**       |
 | --------------------- | ---------------- | ----------------------- |
@@ -82,21 +82,21 @@ In **SAP Analytics Cloud (SAC)**, **“Publish Data”** and **“Publish Story�
 
 
 
-# Publish Data in SAC – Does It Change Actuals?
+#### Publish Data in SAC – Does It Change Actuals?
 
-## ❓ Question
+##### ❓ Question
 
 **When we publish data in SAP Analytics Cloud (SAC), do the values in the Actuals version get changed?**
 
 ---
 
-## ✅ Short Answer
+##### ✅ Short Answer
 
 **❌ No — publishing data does NOT change the Actuals version.**
 
 ---
 
-## 🔹 What *Publish Data* Actually Does
+##### 🔹 What *Publish Data* Actually Does
 
 When you click **Publish Data** in SAC:
 
@@ -116,7 +116,7 @@ Public Forecast
 
 ---
 
-## 🚫 What Publish Data Does **NOT** Do
+##### 🚫 What Publish Data Does **NOT** Do
 
 | Item                      | Changed? |
 | ------------------------- | -------- |
@@ -128,9 +128,9 @@ Public Forecast
 
 ---
 
-## 🧠 Why Actuals Are Not Changed
+##### 🧠 Why Actuals Are Not Changed
 
-### 1️⃣ Actuals Are Usually Read-Only
+##### 1️⃣ Actuals Are Usually Read-Only
 
 * Loaded from:
 
@@ -139,7 +139,7 @@ Public Forecast
   * Flat files / data imports
 * Treated as the **source of truth**
 
-### 2️⃣ Publish Works Only *Within a Version*
+##### 2️⃣ Publish Works Only *Within a Version*
 
 * Private Forecast → Public Forecast
 * Private Budget → Public Budget
