@@ -1,4 +1,4 @@
-# Why Use SAP SAC Excel Add-in When Planning & Reporting Are Available in SAC Web?
+#### Why Use SAP SAC Excel Add-in When Planning & Reporting Are Available in SAC Web?
 
 This is a common question in SAP Analytics Cloud (SAC) projects. 
 The short answer is:
@@ -7,11 +7,11 @@ The short answer is:
 
 ---
 
-## 1. What SAC Web Already Provides
+##### 1. What SAC Web Already Provides
 
 SAP Analytics Cloud (Web) supports **both Planning and Reporting**:
 
-### Features Available in SAC Web
+###### Features Available in SAC Web
 - Interactive dashboards & stories
 - Charts, tables, and filters
 - Driver-based planning
@@ -24,7 +24,7 @@ SAP Analytics Cloud (Web) supports **both Planning and Reporting**:
 
 ---
 
-## 2. Why the SAC Excel Add-in Exists
+##### 2. Why the SAC Excel Add-in Exists
 
 Finance and controlling teams **work primarily in Excel**.
 
@@ -37,9 +37,9 @@ The SAC Excel Add-in allows users to:
 
 ---
 
-## 3. Where Excel Add-in Is Better Than SAC Web
+##### 3. Where Excel Add-in Is Better Than SAC Web
 
-### 3.1 Advanced Excel Formulas
+###### 3.1 Advanced Excel Formulas
 Excel Add-in supports:
 - `VLOOKUP / XLOOKUP`
 - `SUMIFS`
@@ -50,7 +50,7 @@ SAC Web has **limited formula capabilities** compared to Excel.
 
 ---
 
-### 3.2 Complex Planning & Simulations
+##### 3.2 Complex Planning & Simulations
 Examples:
 - Salary planning with multiple conditions
 - Scenario analysis (Best / Worst case)
@@ -61,7 +61,7 @@ Excel handles **cell-level logic** more efficiently.
 
 ---
 
-### 3.3 Faster Mass Data Entry
+##### 3.3 Faster Mass Data Entry
 Finance users often:
 - Paste thousands of rows
 - Use drag-fill
@@ -71,7 +71,7 @@ Excel is **faster and more efficient** for bulk data entry.
 
 ---
 
-### 3.4 Offline Working
+##### 3.4 Offline Working
 - Planning templates can be prepared offline
 - Data can be refreshed and published later
 
@@ -79,7 +79,7 @@ SAC Web **requires continuous internet access**.
 
 ---
 
-### 3.5 User Comfort & Adoption
+##### 3.5 User Comfort & Adoption
 - Finance users are highly comfortable with Excel
 - Senior stakeholders trust Excel
 - Lower resistance to system adoption
@@ -88,7 +88,7 @@ Excel Add-in improves **user acceptance of SAC**.
 
 ---
 
-## 4. Why Not Use Only Excel?
+##### 4. Why Not Use Only Excel?
 
 Excel alone lacks:
 
@@ -104,7 +104,7 @@ Excel Add-in simply **connects Excel to SAC**.
 
 ---
 
-## 5. SAC Web vs SAC Excel Add-in
+##### 5. SAC Web vs SAC Excel Add-in
 
 | Feature | SAC Web | SAC Excel Add-in |
 |------|--------|----------------|
@@ -118,16 +118,16 @@ Excel Add-in simply **connects Excel to SAC**.
 
 ---
 
-## 6. Real-World Project Usage Pattern
+##### 6. Real-World Project Usage Pattern
 
 In most enterprise implementations:
 
-### SAC Web
+##### SAC Web
 - Executive dashboards
 - Management reporting
 - High-level planning and analysis
 
-### SAC Excel Add-in
+##### SAC Excel Add-in
 - Detailed financial planning
 - Budget uploads
 - Forecast adjustments
@@ -137,7 +137,7 @@ In most enterprise implementations:
 
 ---
 
-## 7. Interview-Ready One-Line Answer
+##### 7. Interview-Ready One-Line Answer
 
 > *“We use the SAC Excel Add-in because while SAC Web is best for governed dashboards and planning, Excel remains superior for complex financial modeling, bulk data entry, and user adoption. The add-in combines Excel flexibility with SAC governance.”*
 
