@@ -1,4 +1,4 @@
-# Procurement View & Purchase Type in SAP SAC
+## Procurement View & Purchase Type in SAP SAC
 
 In **SAP SAC / Enterprise Planning**, these are **business views**, not technical terms.
 
