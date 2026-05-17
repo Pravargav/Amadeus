@@ -310,5 +310,3 @@ Supports CI/CD mindset
 
 ---
 
-Author: Pravargav Jetty
-Topic: SAP Analytics Cloud – Transport Management 
