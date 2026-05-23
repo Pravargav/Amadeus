@@ -1,3 +1,7 @@
+advancing 
+
+digging 
+
 pit
 
 agenda
