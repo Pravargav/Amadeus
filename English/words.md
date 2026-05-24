@@ -1,3 +1,5 @@
+exhausted 
+
 depleted
 
 advancing 
