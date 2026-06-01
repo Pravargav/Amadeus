@@ -1,6 +1,6 @@
 linked
  
-atisfied
+satisfied
 
 convinced
 
