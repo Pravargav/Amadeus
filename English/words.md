@@ -1,5 +1,9 @@
-engaged 
+reserves
 
+stocks
+
+engaged
+ 
 linked
  
 satisfied
