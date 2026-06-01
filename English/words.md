@@ -1,5 +1,9 @@
-accumulated 
+satisfied 
 
+convinced
+
+accumulated
+ 
 unrecorded
 
 exited
