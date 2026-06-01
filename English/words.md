@@ -1,3 +1,5 @@
+ready 
+
 reserves
 
 stocks
