@@ -1,5 +1,9 @@
-appropriately 
+portray
 
+present 
+
+appropriately
+ 
 ready
  
 reserves
