@@ -1,5 +1,7 @@
-ready 
+appropriately 
 
+ready
+ 
 reserves
 
 stocks
