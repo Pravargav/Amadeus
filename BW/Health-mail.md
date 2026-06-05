@@ -1,11 +1,23 @@
--> 3 dots to advanced actions to send again
+-> i) Click 3 dots 
 
--> slt statistics tab  check all are zero else else again execute the object name 
+   ii) Click advanced actions 
+   
+   iii) Click send again
 
--> before clicking otc_odp check whether current statusis running
+-> Slt statistics tab - Check all are zero else else again execute the object name.
 
--> last health check and next health check should be of today date
+-> Before clicking otc_odp check whether current status is running.
 
--> in the application logs check all categories and filter and check whether anything in red color - if latency error ignore
+-> Last health check and next health check should be of today date.
 
--> in the application logs check health checks and filter and check whether anything in red color - if latency error ignore
+-> In the application logs 
+
+i) check all categories and filter 
+
+ii) check whether anything in red color - if latency error ignore
+
+-> In the application logs 
+
+i) check health checks and filter 
+
+ii) check whether anything in red color - if latency error ignore
