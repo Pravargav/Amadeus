@@ -1,14 +1,6 @@
-
-
 -> He is my senior by one day.
 
 -> She stitched the dress by hand.
-
--> I have exceeded my daily limit.
-
--> My daily limit has been reached
-
--> I have hit my daily limit.
 
 -> Different times of the day affect our mood and energy levels.
 
@@ -102,7 +94,7 @@
 
 -> I’m going upstairs to hang the washed clothes/laundry.
 
--> I caused her to fall from bike.
+-> I caused her to fall from bike.p
 
 -> Are you the only person who came to the office?
 
@@ -138,18 +130,11 @@
 
 -> How do I seem to you?
 
-
 -> Have you had/eaten breakfast?
 
 -> Did you have/eat breakfast?
 
-
-
 -> Generally, how many errors are we supposed to get in a day?
-
--> Everyone is like that only — they’re greedy.❌
-
--> Everyone has the same greed.
 
 -> Everyone has the same kind/amount of greed.
 
@@ -158,8 +143,6 @@
 -> I stopped at the very first step/right at the beginning.
 
 -> She adjusted the blanket to set it right on the bed.
-
-
 
 -> He took off his jacket.
 
@@ -209,27 +192,11 @@ I work on weekends too.(less formal but short)
 
 -> Which company does this building belong to? 
 
--> Which shift is Arya working on?
-
--> I will join the meeting on my mobile itself. 
-
--> Could you come here once?❌
-
--> Could you come here for a moment? 
-
 -> In my next life, I want to be born as a bird.(be +v3)
-
--> He is on leave on both Friday and Saturday
-
--> The stitching broke.
 
 -> The stitching has opened.
 
 -> We should bowl above waist or shoulder height.
 
--> I have exceeded my daily limit.
-
--> My daily limit has been reached
-
--> -> I have hit my daily limit.
+-> I have exceeded/reached my daily limit.
 
