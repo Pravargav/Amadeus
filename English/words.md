@@ -1,5 +1,9 @@
-regularly 
+occur
 
+appear
+
+regularly
+ 
 recommended
  
 adviced
