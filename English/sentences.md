@@ -1,3 +1,5 @@
+-> The error is occurring daily.
+
 -> He is my senior by one day.
 
 -> She stitched the dress by hand.
@@ -199,4 +201,6 @@ I work on weekends too.(less formal but short)
 -> We should bowl above waist or shoulder height.
 
 -> I have exceeded/reached my daily limit.
+
+-> The error is occurring daily.
 
