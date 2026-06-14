@@ -324,6 +324,14 @@ frighten
 
 flat
 
+fulfilling
+
+favour
+
+functioning 
+
+flyover
+
 fade
 
 greet
@@ -463,6 +471,16 @@ outperform
 obscure 
 
 overhaul 
+
+owe
+
+obviously
+
+opposite
+
+overcome
+
+overpass
 
 overwhelming 
 
@@ -776,23 +794,17 @@ worship
 
  
 
- 
-
-
-fulfilling
 
 glory
 
 
 uncomfortable 
 
-favour
+
 
 shameful 
  
-owe
 
-functioning 
 
 
 
@@ -815,8 +827,7 @@ enters
 lift
  
 
- 
-obviously
+
 
 enlighten
 
@@ -825,10 +836,6 @@ emerge
 accomadation
 
 pretend
-
-opposite
-
-overcome
 
 
 
@@ -860,19 +867,18 @@ prestige
 
 junction 
 
-overpass
 
-flyover
+
+
 
 imposing
+
+items
 
 hypocrisy 
 
 knocking
 
-
-
-items
 
 questioning 
 
