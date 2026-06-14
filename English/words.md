@@ -2,9 +2,37 @@ appear
 
 admit
 
+arise
+
+associated
+
+awake
+
+asleep
+
+arch
+
+accused 
+
+apetite
+
+approaches
+
+activities 
+
+afraid 
+
 adjacent 
 
 awkward
+
+amid
+
+afford
+
+affection 
+
+against 
 
 accomadate
 
@@ -65,6 +93,36 @@ conversation
 congested
 
 carry
+
+claim 
+
+clearly
+ 
+certainly
+
+consumed
+
+carry
+
+circumstances
+
+clashed
+
+check
+
+circulate
+
+capture 
+
+check
+
+companion
+
+checking
+
+checkout 
+
+claiming
  
 charred
 
@@ -150,6 +208,20 @@ engaged
 
 enforcing 
 
+encountered
+
+extensive
+
+exclusive
+
+embarassing
+
+especially
+
+emerging 
+
+ends
+
 ensure
 
 figures
@@ -169,6 +241,12 @@ grief
 gather
 
 grill
+
+gather
+
+gained
+
+grand
 
 guardrail
 
@@ -261,6 +339,46 @@ provoke
 pit
 
 pit
+
+practice
+
+provide
+
+presents
+
+protest
+
+protest
+
+primary
+ 
+proactive
+ 
+prepared
+
+projected
+
+passing
+ 
+pass
+
+presence
+
+put
+
+persuade
+
+peeled
+
+priests
+
+panic
+
+privilege 
+
+pleasant 
+
+plain
 
 preventing
  
@@ -383,11 +501,11 @@ warned
 
 
 
-ends
+
 
 lame
 
-practice
+
  
 riverbank
 
@@ -397,13 +515,13 @@ ditch
 
 underwhelming
  
-amid
+
 
 trembling
  
 sulk
 
-provide
+
  
 imitating
  
@@ -421,17 +539,17 @@ uneasy
 
 betrayal 
 
-checkout 
+
 
 wink
 
-affection 
+
 
 imporobable 
 
 uncomfortable 
 
-against 
+
 
 favour
 
@@ -445,13 +563,13 @@ reflects
 
 spontaneous 
 
-checking
+
  
 owe
 
 meet
 
-afford
+
 
 lather
 
@@ -461,13 +579,11 @@ running
  
 functioning 
 
-capture 
 
-check
 
 utilize
 
-companion
+
 
 insist
 
@@ -479,19 +595,17 @@ check
  
 represent
  
-presents
+
 
 unfinished
  
 leaving 
 
-gather
 
-gained
 
 convey
 
-especially
+
  
 additionally
 
@@ -499,17 +613,14 @@ timeline
  
 cabin
 
-emerging 
 
-circulate
-
-claiming
 
 rites
 
-protest
+
+
  
-arise
+
 
 idol
 
@@ -517,19 +628,11 @@ region
  
 yours
 
-associated
 
-awake
-
-asleep
 
 riots
 
-protest
 
-primary
- 
-check
 
 slippery
 
@@ -549,19 +652,17 @@ argued
 
 disputed
 
-clashed
+
 
 leftover
  
 brave
 
-circumstances
+
  
 nervous
  
-proactive
- 
-prepared
+
 
 unforeseen 
 
@@ -579,17 +680,12 @@ refused
 
 workaround
  
-consumed
 
-carry
 
 lift
 
-projected
 
-clearly
- 
-certainly
+
  
 definitely
  
@@ -609,7 +705,6 @@ standpoint
 
 viewpoint 
 
-claim 
 
 bow
 
@@ -621,9 +716,7 @@ supervision
  
 
 
-passing
- 
-pass
+
 
 missed
 
@@ -693,7 +786,7 @@ exclude
 
 include
 
-presence
+
 
 absence
 
@@ -703,15 +796,13 @@ devoid
 
 scheduled
 
-embarassing
 
-put
+
+
 
 spoon
 
-arch
 
-accused 
 
 witness
 
@@ -719,15 +810,15 @@ suspect
 
 vast 
 
-extensive
 
-grand
 
-exclusive
+
+
+
 
 quite
 
-persuade
+
 
 convince
 
@@ -747,7 +838,7 @@ next
 
 neighbouring
 
-encountered
+
 
 unit
 
@@ -765,7 +856,7 @@ skidded
 
 scraped
 
-peeled
+
 
 indeed
 
@@ -805,7 +896,7 @@ recognize
 
 trading 
 
-apetite
+
 
 fainted
 
@@ -813,19 +904,19 @@ hypocrisy
 
 knocking
 
-approaches
 
-priests
+
+
 
 cruel
 
-activities 
+
 
 last
 
 indicates
 
-afraid 
+
 
 scaring 
 
@@ -833,7 +924,7 @@ frighten
 
 intimidating 
 
-panic
+
 
 revealing 
 
@@ -841,7 +932,7 @@ revealing
 
 abruptly 
 
-privilege 
+
 
 indicates 
 
@@ -861,7 +952,7 @@ items
 
 
 
-pleasant 
+
 
 dignity 
 
@@ -889,6 +980,6 @@ interpret
 
 mocking 
 
-plain
+
 
 surface 
