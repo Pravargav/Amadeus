@@ -386,6 +386,8 @@ imposing
 
 items
 
+insights 
+
 incomplete 
 
 interrupt
@@ -620,6 +622,8 @@ revealing
 reluctance
 
 resedential
+
+review
 
 refused
 
