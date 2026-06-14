@@ -1,5 +1,23 @@
 appear
 
+afraid 
+
+additionally
+
+argued
+
+agreed
+
+absolutely
+
+absence
+
+adjacent
+
+abruptly 
+
+assigning 
+
 admit
 
 arise
@@ -65,6 +83,16 @@ bland
 bland
 
 blame
+
+bothering 
+
+bow
+
+brave
+
+blabber
+
+betrayal 
 
 based
 
@@ -170,6 +198,36 @@ discomfort
 
 disengaged
 
+ditch 
+
+devotion
+
+during
+
+dignity
+
+disputed
+
+definitely
+
+directs
+
+disappoint
+
+dropped
+
+downstairs
+
+devoid
+
+devoid
+
+despite
+
+degrading 
+
+dignity 
+
 defeat
 
 duration 
@@ -232,6 +290,20 @@ fell
 
 foul
 
+four-way
+
+frighten
+
+freeways 
+
+fell
+
+fainted
+
+frighten 
+
+flat
+
 fade
 
 greet
@@ -275,6 +347,44 @@ intermittent
 interchangably
 
 interrupt
+
+imitating
+
+imporobable 
+
+insist
+
+identify
+
+intend
+
+infringed
+
+inhibition
+
+instead
+
+include
+
+indeed
+
+interchange 
+
+interchange 
+
+indefinitely
+
+indicates
+
+intimidating 
+
+indicates 
+
+imposing 
+
+interpret
+
+idol
  
 interfere 
 
@@ -290,6 +400,24 @@ layer
 
 long
 
+lame
+
+lather
+
+leaving 
+
+left
+
+lack
+
+leftover
+
+lack
+
+landed
+
+last
+
 leftover
 
 latest 
@@ -297,6 +425,16 @@ latest
 later
 
 much
+
+meet
+
+missed
+
+mention 
+
+mistress
+
+mocking 
 
 meaningless
 
@@ -388,6 +526,32 @@ rid
 
 regularly
 
+revealing 
+
+reluctance
+
+resedential
+
+refused
+
+riots
+
+region
+
+rites
+
+represent
+
+resonating
+ 
+running
+
+reflects
+
+reflect
+
+resilience
+
 ready
  
 reserves
@@ -436,6 +600,40 @@ save
 
 stiff
 
+sulk
+
+spontaneous 
+
+slippery
+
+stance
+
+standpoint 
+
+supervision
+ 
+strand
+
+shyness
+
+scheduled
+
+suspect
+
+slight
+
+separation
+
+skidded
+
+scaring 
+
+surface 
+
+scraped
+
+spoon
+
 scorched
 
 spread
@@ -450,6 +648,22 @@ sewer
 
 troublemaker
 
+trembling
+
+timeline
+
+taunts
+
+T-junction
+
+torn
+
+tore
+
+trading 
+
+tailored
+
 torturing
 
 tumbler
@@ -459,6 +673,20 @@ unrecorded
 uniform
 
 unnoticed
+
+upstairs
+
+unforeseen 
+
+undermine
+
+unfinished
+
+utilize
+
+uneasy
+
+underwhelming
 
 unchecked
 
@@ -472,6 +700,22 @@ updated
  
 valid
 
+viewpoint 
+
+verbal
+
+vintage
+
+violated
+
+vast 
+
+various
+
+verbal
+
+virtue
+
 vintage
 
 vicinity
@@ -482,191 +726,7 @@ widespread
 
 warned
 
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-lame
-
-
- 
-riverbank
-
-blabber
-
-ditch 
-
-underwhelming
- 
-
-
-trembling
- 
-sulk
-
-
- 
-imitating
- 
-resilience
- 
-fulfilling
- 
-reflect
-
-glory
-
-rapid
-
-uneasy
-
-betrayal 
-
-
-
 wink
-
-
-
-imporobable 
-
-uncomfortable 
-
-
-
-favour
-
-shameful 
-
-devotion
-
-during
-
-reflects
-
-spontaneous 
-
-
- 
-owe
-
-meet
-
-
-
-lather
-
-resonating
- 
-running
- 
-functioning 
-
-
-
-utilize
-
-
-
-insist
-
-afraid 
-
-left
-
-check
- 
-represent
- 
-
-
-unfinished
- 
-leaving 
-
-
-
-convey
-
-
- 
-additionally
-
-timeline
- 
-cabin
-
-
-
-rites
-
-
-
- 
-
-
-idol
-
-region
- 
-yours
-
-
-
-riots
-
-
-
-slippery
-
-deity
-
-lack
-
-undermine
- 
-honour
- 
-dignity
- 
-identify
- 
-argued
-
-disputed
-
-
-
-leftover
- 
-brave
-
-
- 
-nervous
- 
-
-
-unforeseen 
-
-enters
 
 worn
 
@@ -674,73 +734,80 @@ wore
 
 wear
 
-agreed
-
-refused
-
 workaround
- 
-
-
-lift
-
-
-
- 
-definitely
- 
-absolutely
- 
-obviously
- 
-directs
-
-taunts
-
-enlighten
- 
-stance
-
-standpoint 
-
-viewpoint 
-
-
-bow
-
-emerge
-
-verbal
-
-supervision
- 
-
-
-
-
-missed
-
-mention 
 
 worship
 
+wander
+
+witness
+
+withdraw
+
+worship 
+
+ 
+
+ 
+riverbank
+
+fulfilling
+
+glory
+
+rapid
+
+uncomfortable 
+
+favour
+
+shameful 
+ 
+owe
+
+functioning 
+
+
+
+check
+
+convey
+ 
+
+
+cabin
+ 
+yours
+
+deity
+
+honour
+  
+
+ 
+nervous
+
+enters
+
+
+
+lift
+ 
+
+ 
+obviously
+
+enlighten
+
+emerge
+
 accomadation
-
-resedential
-
-strand
 
 pretend
 
 opposite
 
-wander
-
 overcome
-
-T-junction
-
-four-way
 
 crossroads
 
@@ -748,238 +815,56 @@ aching
 
 wish
 
-intend
-
-vintage
-
-violated
-
-infringed
-
 upset
-
-disappoint
-
-shyness
-
-inhibition
-
-dropped
-
-reluctance
 
 convince
 
-self-obsession
-
-frighten
-
-upstairs
-
-downstairs
-
-devoid
-
-instead
-
 exclude
-
-include
-
-
-
-absence
-
-lack
-
-devoid
-
-scheduled
-
-
-
-
-
-spoon
-
-
-
-witness
-
-suspect
-
-vast 
-
-
-
-
 
 
 
 quite
 
-
-
 convince
 
 consecutive
 
-slight
-
-separation
-
 detachment
 
-various
 
-adjacent
 
 next
 
 neighbouring
 
-
-
 unit
-
-despite
-
-withdraw
 
 prestige
 
 ruined
 
-
-
-skidded
-
-scraped
-
-
-
-indeed
-
 certain
 
-interchange 
-
-interchange 
-
 junction 
-
-freeways 
 
 overpass
 
 flyover
 
-virtue
-
-indefinitely
-
-landed
-
-fell
-
-torn
-
-tore
-
-degrading 
-
 imposing
 
-
-
 recognize
-
-trading 
-
-
-
-fainted
 
 hypocrisy 
 
 knocking
 
-
-
-
-
 cruel
 
 
 
-last
-
-indicates
-
-
-
-scaring 
-
-frighten 
-
-intimidating 
-
-
-
-revealing 
-
-
-
-abruptly 
-
-
-
-indicates 
-
-tailored
-
-worship 
-
-imposing 
-
-assigning 
-
-verbal
-
-mistress
-
 items
-
-
-
-
-
-dignity 
 
 questioning 
 
-
-
-
-
-
-
-
-
-
-
-bothering 
-
 criteria 
-
-
-
-flat
-
-interpret
-
-mocking 
-
-
-
-surface 
