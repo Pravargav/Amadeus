@@ -134,6 +134,26 @@ carry
 
 circumstances
 
+check
+
+convey
+ 
+crossroads
+
+convince
+
+convince
+
+consecutive
+
+certain
+
+cruel
+
+criteria 
+
+cabin
+
 clashed
 
 check
@@ -568,6 +588,14 @@ rid
  
 ritual
 
+ruined
+
+recognize
+
+rapid
+
+riverbank
+
 resist
 
 stocks
@@ -749,13 +777,12 @@ worship
  
 
  
-riverbank
+
 
 fulfilling
 
 glory
 
-rapid
 
 uncomfortable 
 
@@ -769,13 +796,7 @@ functioning
 
 
 
-check
 
-convey
- 
-
-
-cabin
  
 yours
 
@@ -809,7 +830,7 @@ opposite
 
 overcome
 
-crossroads
+
 
 aching
 
@@ -817,21 +838,15 @@ wish
 
 upset
 
-convince
+
 
 exclude
 
-
-
 quite
 
-convince
 
-consecutive
 
 detachment
-
-
 
 next
 
@@ -841,9 +856,7 @@ unit
 
 prestige
 
-ruined
 
-certain
 
 junction 
 
@@ -853,13 +866,9 @@ flyover
 
 imposing
 
-recognize
-
 hypocrisy 
 
 knocking
-
-cruel
 
 
 
@@ -867,4 +876,4 @@ items
 
 questioning 
 
-criteria 
+
