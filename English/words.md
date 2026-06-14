@@ -4,6 +4,8 @@ admit
 
 adjacent 
 
+awkward
+
 accomadate
 
 accumalte
@@ -38,6 +40,22 @@ blame
 
 based
 
+behalf
+
+bound
+
+bear
+
+bore
+
+born
+
+bluff
+
+bragging
+ 
+blabber
+
 bankrupt
  
 bothering
@@ -53,6 +71,10 @@ charred
 confluence
  
 criteria
+
+confront 
+
+customs
 
 concede
 
@@ -122,6 +144,14 @@ exploit
  
 exhausted
 
+escape
+
+engaged
+
+enforcing 
+
+ensure
+
 figures
 
 fallen
@@ -159,6 +189,8 @@ isolated
 impulsively
 
 impulse 
+
+inconvenience 
  
 intermittent
 
@@ -193,6 +225,18 @@ meaningless
 outperform
 
 obscure 
+
+overhaul 
+
+overwhelming 
+
+outpace
+
+outperform 
+
+objection
+
+obselete
 
 outer
 
@@ -270,11 +314,21 @@ stripped
 
 significant
 
+save
+
+stiff
+
 scorched
 
 spread
 
 solace 
+
+salutation
+
+shore
+
+sewer
 
 troublemaker
 
@@ -290,6 +344,10 @@ unnoticed
 
 unchecked
 
+uphold
+ 
+utility
+
 unselected 
  
 updated
@@ -304,7 +362,7 @@ versatile
 
 widespread 
 
-
+warned
 
 
  
@@ -327,39 +385,11 @@ widespread
 
 ends
 
-confront 
-
-warned
-
-save
-
-inconvenience 
-
-stiff
-
-objection
- 
-practice
- 
-customs
-
 lame
 
-uphold
- 
-awkward
- 
-obselete
- 
-utility
- 
-salutation
+practice
  
 riverbank
-
-shore
-
-sewer
 
 blabber
 
@@ -369,12 +399,8 @@ underwhelming
  
 amid
 
-overhaul 
-
 trembling
  
-overwhelming 
-
 sulk
 
 provide
@@ -396,10 +422,6 @@ uneasy
 betrayal 
 
 checkout 
-
-outpace
-
-outperform 
 
 wink
 
@@ -597,11 +619,7 @@ verbal
 
 supervision
  
-bluff
 
-bragging
- 
-blabber
 
 passing
  
@@ -741,7 +759,7 @@ prestige
 
 ruined
 
-behalf
+
 
 skidded
 
@@ -781,7 +799,7 @@ degrading
 
 imposing
 
-bound
+
 
 recognize
 
@@ -819,11 +837,7 @@ panic
 
 revealing 
 
-bear
 
-bore
-
-born
 
 abruptly 
 
@@ -845,7 +859,7 @@ mistress
 
 items
 
-escape 
+
 
 pleasant 
 
@@ -853,22 +867,28 @@ dignity
 
 questioning 
 
-enforcing 
 
-ensure
+
+
+
+
+
+
+
+
 
 bothering 
 
 criteria 
 
-surface 
 
-plain
 
 flat
 
 interpret
 
-engaged
-
 mocking 
+
+plain
+
+surface 
