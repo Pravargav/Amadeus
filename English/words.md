@@ -1,88 +1,88 @@
-conversation
-
-bind
-
-efficient
- 
-valid
-
-rid
-
-occur
-
 appear
 
-regularly
- 
-recommended
- 
-adviced
+across
 
-disturbance
- 
-portray
-
-present 
+accumulated
 
 appropriately
  
-ready
- 
-reserves
+adviced
 
-stocks
+bind
 
-engaged
- 
-linked
- 
-satisfied
+bland
+
+based
+
+conversation
 
 convinced
 
-accumulated
- 
-unrecorded
-
-exited
-
-ruled
-
-out
-
-hence
+disturbance
 
 demonstrate
 
-much
+dealt
 
-long
+efficient
 
-bland
+exited
+
+endure
+
+engaged
+
+evidence
+ 
+exhausted
+
+hence
 
 incomplete 
 
 justify
-
-based
-
-supposed
  
-outperform
- 
-endure
+linked
 
 limited
 
-across
+long
 
-dealt
+much
+
+outperform
+
+occur
+
+out
+
+portray
+
+present 
+
+rid
+
+regularly
+
+ready
+ 
+reserves
+ 
+recommended
+
+ruled
+
+stocks
+
+satisfied
+
+supposed
+
+unrecorded
+ 
+valid
 
 vintage
- 
-evidence
- 
-exhausted
  
 depleted
 
