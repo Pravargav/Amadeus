@@ -2,6 +2,12 @@ appear
 
 admit
 
+adjacent 
+
+accomadate
+
+accumalte
+
 agenda
 
 available 
@@ -26,6 +32,8 @@ bind
 
 bland
 
+bland
+
 blame
 
 based
@@ -37,6 +45,14 @@ bothering
 conversation
 
 congested
+
+carry
+ 
+charred
+
+confluence
+ 
+criteria
 
 concede
 
@@ -68,11 +84,29 @@ digging
 
 despite 
 
+discontinued 
+
+discomfort 
+
+disengaged
+
+defeat
+
+duration 
+
+distribute
+
+diverse
+
 efficient
 
 embarassing 
 
+extensive
+
 evidence
+
+effective
 
 exited
 
@@ -90,19 +124,43 @@ exhausted
 
 figures
 
+fallen
+
+fell
+
+foul
+
+fade
+
+greet
+
 grief
 
 gather
 
 grill
 
+guardrail
+
 hence
 
 however
 
+halt
+
 incomplete 
 
 interrupt
+
+implies
+
+isolated 
+
+impulsively
+
+impulse 
+ 
+intermittent
 
 interchangably
 
@@ -116,13 +174,27 @@ linked
 
 limited
 
+located
+
+layer
+
 long
 
 leftover
 
+latest 
+
+later
+
 much
 
+meaningless
+
 outperform
+
+obscure 
+
+outer
 
 obtain
 
@@ -140,7 +212,15 @@ present
 
 proximity
 
+provoke
+
 pit
+
+pit
+
+preventing
+ 
+restricting
 
 rid
 
@@ -162,6 +242,8 @@ rid
  
 ritual
 
+resist
+
 stocks
 
 stepback
@@ -182,13 +264,35 @@ stats
 
 solitude 
 
+strip
+
+stripped
+
+significant
+
+scorched
+
+spread
+
 solace 
 
 troublemaker
 
 torturing
 
+tumbler
+
 unrecorded
+
+uniform
+
+unnoticed
+
+unchecked
+
+unselected 
+ 
+updated
  
 valid
 
@@ -198,119 +302,30 @@ vicinity
 
 versatile
 
-
-
-
-
-
- 
-updated
-
-latest 
-
-effective
- 
-resist
-
-guardrail
- 
-intermittent
- 
-accumalte
-
-meaningless
-
-unnoticed
- 
-halt
-
-accomadate
-
-preventing
- 
-restricting
-
-fallen
-
-fell
-
-later
-
-discontinued 
-
-discomfort 
-
-duration 
-
-uniform
- 
-extensive
- 
 widespread 
 
-confluence
+
+
+
  
-criteria
+
  
-significant
+
+
+
  
-implies
 
-greet
-
-disengaged
-
-defeat
  
-foul
 
-adjacent 
-
-isolated 
-
-obscure 
-
-unchecked
-
-unselected 
-
-located
-
-bland
-
-fade
-
-outer
-
-layer
-
-strip
-
-stripped
-
-carry
-
-provoke
  
-impulsively
 
-impulse 
 
-charred
 
-scorched
 
-tumbler
 
-pit
+
 
 ends
-
-spread
-
-distribute
-
-diverse
 
 confront 
 
