@@ -1,5 +1,15 @@
 appear
 
+admit
+
+agenda
+
+available 
+
+agenda
+
+advancing 
+
 across
 
 accumulated
@@ -8,23 +18,61 @@ appropriately
  
 adviced
 
+amazed
+
+bedridden
+
 bind
 
 bland
 
+blame
+
 based
+
+bankrupt
+ 
+bothering
 
 conversation
 
+congested
+
+concede
+
+consolation 
+
+comforting
+
 convinced
 
+convenient
+
+claim
+
 disturbance
+
+defaulter
+
+depleted
+
+demographic
+
+disruption 
 
 demonstrate
 
 dealt
 
+digging 
+
+despite 
+
 efficient
+
+embarassing 
+
+evidence
 
 exited
 
@@ -33,12 +81,34 @@ endure
 engaged
 
 evidence
+
+exposure
+
+exploit
  
 exhausted
 
+figures
+
+grief
+
+gather
+
+grill
+
 hence
 
+however
+
 incomplete 
+
+interrupt
+
+interchangably
+
+interrupt
+ 
+interfere 
 
 justify
  
@@ -48,17 +118,29 @@ limited
 
 long
 
+leftover
+
 much
 
 outperform
 
+obtain
+
 occur
 
+overwhelming
+
 out
+ 
+obsessed
 
 portray
 
 present 
+
+proximity
+
+pit
 
 rid
 
@@ -70,133 +152,57 @@ reserves
  
 recommended
 
+rhyming 
+
 ruled
+
+rites
+
+rid
+ 
+ritual
 
 stocks
 
+stepback
+
 satisfied
 
+slightly
+
 supposed
+
+shower
+
+survey 
+
+schemes
+
+stats
+
+solitude 
+
+solace 
+
+troublemaker
+
+torturing
 
 unrecorded
  
 valid
 
 vintage
- 
-depleted
 
-advancing 
-
-digging 
-
-pit
-
-agenda
-
-troublemaker
-
-disruption 
-
-torturing
-
-convenient
-
-available 
-
-overwhelming
-
-exposure
- 
-concede
-
-proximity
- 
-obsessed
- 
 vicinity
- 
-agenda
-
-interchangably
-
-slightly
- 
-shower
-
-however
- 
-despite 
-
-stepback
 
 versatile
- 
-admit
 
-demographic
- 
-survey 
 
-figures
 
-stats
 
-rhyming 
 
-congested
 
-rites
-
-blame
-
-interrupt
- 
-interfere 
-
-embarassing 
-
-evidence
- 
-bankrupt
- 
-interrupt
-
-bothering
- 
-obtain
- 
-schemes
- 
-exploit
- 
-solitude 
-
-leftover
- 
-grief
-
-consolation 
-
-solace 
-
-comforting
-
-rid
-
-defaulter
- 
-ritual
-
-gather
-
-claim
-
-grill
-
-amazed
-
-bedridden
  
 updated
 
