@@ -1,5 +1,7 @@
 appear
 
+acquire 
+
 afraid 
 
 additionally
@@ -207,6 +209,8 @@ depleted
 demographic
 
 disruption 
+
+distribute 
 
 demonstrate
 
