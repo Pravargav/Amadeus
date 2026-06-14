@@ -4,6 +4,10 @@ afraid
 
 additionally
 
+accomadation
+
+aching
+
 argued
 
 agreed
@@ -234,6 +238,10 @@ directs
 
 disappoint
 
+deity
+
+detachment
+
 dropped
 
 downstairs
@@ -285,6 +293,14 @@ escape
 engaged
 
 enforcing 
+
+enters
+
+enlighten
+
+emerge
+
+exclude
 
 encountered
 
@@ -338,6 +354,8 @@ greet
 
 grief
 
+glory
+
 gather
 
 grill
@@ -355,6 +373,14 @@ hence
 however
 
 halt
+
+honour
+
+hypocrisy 
+
+imposing
+
+items
 
 incomplete 
 
@@ -417,6 +443,10 @@ idol
 interfere 
 
 justify
+
+junction 
+
+knocking
  
 linked
 
@@ -425,6 +455,8 @@ limited
 located
 
 layer
+
+lift
 
 long
 
@@ -465,6 +497,12 @@ mistress
 mocking 
 
 meaningless
+
+nervous
+
+next
+
+neighbouring
 
 outperform
 
@@ -548,6 +586,11 @@ peeled
 
 priests
 
+
+pretend
+
+prestige
+
 panic
 
 privilege 
@@ -557,6 +600,10 @@ pleasant
 plain
 
 preventing
+
+quite
+
+questioning 
  
 restricting
 
@@ -686,6 +733,8 @@ spread
 
 solace 
 
+shameful 
+
 salutation
 
 shore
@@ -740,6 +789,12 @@ uphold
  
 utility
 
+uncomfortable 
+
+upset
+
+unit
+
 unselected 
  
 updated
@@ -792,94 +847,6 @@ withdraw
 
 worship 
 
- 
-
-
-glory
-
-
-uncomfortable 
-
-
-
-shameful 
- 
-
-
-
-
-
- 
-yours
-
-deity
-
-honour
-  
-
- 
-nervous
-
-enters
-
-
-
-lift
- 
-
-
-
-enlighten
-
-emerge
-
-accomadation
-
-pretend
-
-
-
-aching
-
 wish
 
-upset
-
-
-
-exclude
-
-quite
-
-
-
-detachment
-
-next
-
-neighbouring
-
-unit
-
-prestige
-
-
-
-junction 
-
-
-
-
-
-imposing
-
-items
-
-hypocrisy 
-
-knocking
-
-
-questioning 
-
-
+yours
