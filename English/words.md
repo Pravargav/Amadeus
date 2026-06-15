@@ -142,7 +142,7 @@ confluence
  
 criteria
 
-confront 
+confront (face, deal with)
 
 customs
 
