@@ -146,7 +146,7 @@ confront (face, deal with)
 
 customs
 
-concede
+concede(admit, accept)
 
 consolation(comforting)
 
