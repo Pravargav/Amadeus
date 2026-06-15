@@ -2,8 +2,6 @@ appear
 
 acquire 
 
-afraid 
-
 additionally
 
 accomadation
@@ -71,8 +69,6 @@ across
 accumulated
 
 appropriately
- 
-adviced
 
 amazed
 
