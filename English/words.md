@@ -354,7 +354,7 @@ isolated
 
 impulsively
 
-impulse 
+impulse (the sudden urge)
 
 inconvenience 
  
