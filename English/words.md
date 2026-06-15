@@ -138,7 +138,7 @@ checkout
  
 charred(madipoyina curry)
 
-confluence
+confluence(sangamam river)
  
 criteria
 
