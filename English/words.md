@@ -665,7 +665,7 @@ save
 
 stiff
 
-sulk
+sulk(alagatam)
 
 spontaneous 
 
