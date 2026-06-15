@@ -106,6 +106,8 @@ clearly
 
 consumed
 
+constrained(confined or bound)
+
 carry
 
 circumstances
