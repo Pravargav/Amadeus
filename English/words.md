@@ -757,7 +757,7 @@ underwhelming(not impressive or satisfying)
 
 unchecked
 
-uphold
+uphold(maintain)
  
 utility(electricity, gas.. related to bill)
 
