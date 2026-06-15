@@ -70,13 +70,9 @@ bland
 
 blame
 
-bothering 
-
 bow
 
 brave
-
-blabber
 
 betrayal 
 
