@@ -649,13 +649,13 @@ schemes
 
 stats
 
-sewer
+sewer(kalava)
 
-sludge
+sludge(buradha)
 
 solitude 
 
-strip
+strip(remove clothes)
 
 stripped
 
@@ -690,8 +690,6 @@ slight
 separation
 
 skidded
-
-scaring 
 
 surface 
 
