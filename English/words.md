@@ -745,7 +745,7 @@ upstairs
 
 unforeseen 
 
-undermine
+undermine(to reduce or weaken confidence )
 
 unfinished
 
