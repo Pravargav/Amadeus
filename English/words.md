@@ -8,8 +8,6 @@ aching
 
 absence
 
-adjacent
-
 assign
 
 admit
