@@ -671,8 +671,6 @@ spontaneous
 
 slippery
 
-stance
-
 supervision
  
 strand
