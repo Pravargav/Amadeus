@@ -4,17 +4,11 @@ acquire
 
 additionally
 
-accomadation
-
 aching
-
-absolutely
 
 absence
 
 adjacent
-
-abruptly 
 
 assigning 
 
@@ -59,8 +53,6 @@ accumalte
 agenda
 
 available 
-
-agenda
 
 advancing 
 
