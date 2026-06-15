@@ -236,7 +236,7 @@ effective
 
 exited
 
-endure
+endure(tolerate or withstand)
 
 engaged
 
