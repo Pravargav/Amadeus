@@ -697,8 +697,6 @@ scraped
 
 spoon
 
-scorched
-
 spread
 
 solace 
