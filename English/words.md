@@ -58,8 +58,6 @@ advancing
 
 across
 
-accumulated
-
 appropriately
 
 amazed
