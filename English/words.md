@@ -294,7 +294,7 @@ freeways
 
 fell
 
-fainted
+fainted(unclear or becoming unconscious)
 
 frighten 
 
