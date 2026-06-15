@@ -697,7 +697,7 @@ spoon
 
 spread
 
-solace 
+solace (comfort, console)
 
 shameful 
 
