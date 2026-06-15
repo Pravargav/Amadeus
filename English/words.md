@@ -719,7 +719,7 @@ trembling
 
 timeline
 
-taunts
+taunts(insulting or mocking)
 
 T-junction
 
