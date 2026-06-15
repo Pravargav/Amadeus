@@ -100,10 +100,6 @@ conversation
 
 congested
 
-carry
-
-claim 
-
 clearly
 
 consumed
@@ -125,8 +121,6 @@ consecutive
 certain
 
 cruel
-
-criteria 
 
 cabin
 
