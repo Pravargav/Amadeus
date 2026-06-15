@@ -797,7 +797,7 @@ versatile
 
 wish
 
-widespread 
+widespread (extensive e.g land)
 
 warned
 
