@@ -733,7 +733,7 @@ tailored
 
 torturing
 
-tumbler
+tumbler(amma mazziga poskune dabba)
 
 unrecorded
 
