@@ -374,7 +374,7 @@ identify
 
 intend
 
-infringed
+infringed(violated)
 
 inhibition(shyness or hesitation)
 
@@ -382,7 +382,7 @@ instead
 
 include
 
-indeed
+indeed(infact or really)
 
 interchange 
 
