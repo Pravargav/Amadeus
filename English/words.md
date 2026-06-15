@@ -795,6 +795,8 @@ vicinity
 
 versatile
 
+wish
+
 widespread 
 
 warned
@@ -814,7 +816,3 @@ wander
 witness
 
 withdraw
-
-worship 
-
-wish
