@@ -148,7 +148,7 @@ customs
 
 concede(admit, accept)
 
-consolation(comforting)
+consolation(comforting, giving comfort)
 
 convinced
 
