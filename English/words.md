@@ -164,7 +164,7 @@ depleted
 
 demographic
 
-disruption (interrupted or disturbed)
+disruption (interrupted or disturbed, e.g internet connection lost or phone ring in meeting)
 
 distribute 
 
