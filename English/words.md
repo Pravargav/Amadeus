@@ -392,7 +392,7 @@ indefinitely
 
 indicates
 
-intimidating 
+intimidating (causing fear or discouraging)
 
 indicates 
 
