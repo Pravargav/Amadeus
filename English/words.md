@@ -773,7 +773,7 @@ updated
  
 valid
 
-viewpoint 
+viewpoint (perspective)
 
 verbal
 
