@@ -468,7 +468,7 @@ neighbouring
 
 outperform
 
-obscure 
+obscure (unknown or hidden or ambiguous)
 
 overhaul (rebuild or renovate or repair)
 
