@@ -88,9 +88,7 @@ born
 
 bluff
 
-bragging
-
-boasting 
+bragging(boasting)
  
 blabber
 
