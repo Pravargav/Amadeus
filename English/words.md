@@ -74,6 +74,8 @@ brave
 
 betrayal 
 
+bound
+
 based
 
 behalf
