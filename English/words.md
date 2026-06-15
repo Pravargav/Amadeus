@@ -105,8 +105,6 @@ carry
 claim 
 
 clearly
- 
-certainly
 
 consumed
 
@@ -119,8 +117,6 @@ check
 convey
  
 crossroads
-
-convince
 
 convince
 
@@ -142,15 +138,9 @@ circulate
 
 capture 
 
-check
-
 companion
 
-checking
-
 checkout 
-
-claiming
  
 charred
 
