@@ -190,7 +190,7 @@ during
 
 dignity
 
-disputed
+disputed(debated , opposed)
 
 definitely
 
