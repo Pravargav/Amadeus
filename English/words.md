@@ -10,7 +10,7 @@ absence
 
 adjacent
 
-assigning 
+assign
 
 admit
 
