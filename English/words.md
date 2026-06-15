@@ -164,7 +164,7 @@ depleted
 
 demographic
 
-disruption 
+disruption (interrupted or disturbed)
 
 distribute 
 
