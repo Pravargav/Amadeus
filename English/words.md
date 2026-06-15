@@ -851,8 +851,6 @@ wore
 
 wear
 
-workaround
-
 worship
 
 wander
@@ -864,5 +862,3 @@ withdraw
 worship 
 
 wish
-
-yours
