@@ -546,7 +546,7 @@ presence
 
 put
 
-persuade
+persuade(convince or influence)
 
 peeled
 
