@@ -595,7 +595,7 @@ rites
 
 represent
 
-resonating
+resonating(echoing or connecting deeply)
  
 running
 
