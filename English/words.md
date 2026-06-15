@@ -376,7 +376,7 @@ intend
 
 infringed
 
-inhibition
+inhibition(shyness or hesitation)
 
 instead
 
