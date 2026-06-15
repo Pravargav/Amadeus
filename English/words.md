@@ -326,7 +326,7 @@ gained
 
 grand
 
-guardrail
+guardrail(safety rules or barrier)
 
 hence
 
