@@ -673,8 +673,6 @@ slippery
 
 stance
 
-standpoint 
-
 supervision
  
 strand
@@ -769,7 +767,7 @@ updated
  
 valid
 
-viewpoint (perspective)
+viewpoint (perspective, standpoint)
 
 verbal
 
