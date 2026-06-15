@@ -154,9 +154,7 @@ customs
 
 concede
 
-consolation 
-
-comforting
+consolation(comforting)
 
 convinced
 
