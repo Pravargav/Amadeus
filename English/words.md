@@ -363,6 +363,8 @@ impulsively
 impulse (the sudden urge)
 
 inconvenience 
+
+inching 
  
 intermittent
 
