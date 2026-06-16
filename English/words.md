@@ -785,6 +785,8 @@ updated
  
 valid
 
+vanish
+
 viewpoint (perspective, standpoint)
 
 verbal
