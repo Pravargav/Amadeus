@@ -671,6 +671,10 @@ strip(remove clothes)
 
 stripped
 
+simplify
+
+shift
+
 significant
 
 save
