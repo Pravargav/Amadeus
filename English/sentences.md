@@ -1,3 +1,5 @@
+-> The tyres sank into the ground under the truck's weight.
+
 -> Are you alright/feeling better now? Has the fever cleared up?
 
 -> He is my senior by one day.
