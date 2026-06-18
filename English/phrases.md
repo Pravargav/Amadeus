@@ -1,7 +1,11 @@
 business essential
 
-ruled out
+each other 
+
+manufacturing facility 
 
 phased out
 
-each other 
+ruled out
+
+
