@@ -9,3 +9,4 @@ phased out
 ruled out
 
 bare foot
+display error 
