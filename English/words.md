@@ -4,6 +4,8 @@ ailment
 
 attempted
 
+allegedly(type of allegation)
+
 appear
 
 acquire 
