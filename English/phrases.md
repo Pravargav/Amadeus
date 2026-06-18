@@ -10,4 +10,6 @@ ruled out
 
 bare foot
 
-display error 
+displaying error 
+
+throws error
