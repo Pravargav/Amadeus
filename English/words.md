@@ -740,6 +740,8 @@ shore
 
 sewer
 
+sank( truck into soil,land or ship into water)
+
 troublemaker
 
 trembling
