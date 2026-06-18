@@ -8,4 +8,4 @@ phased out
 
 ruled out
 
-
+bare foot
