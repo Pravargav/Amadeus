@@ -136,6 +136,8 @@ clashed
 
 check
 
+chronic
+
 circulate
 
 capture 
