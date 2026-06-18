@@ -1,4 +1,4 @@
--> The error is occurring daily.
+-> Are you alright now? Has the fever cleared up?
 
 -> He is my senior by one day.
 
