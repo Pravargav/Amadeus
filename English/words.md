@@ -690,6 +690,8 @@ simplify
 
 shift
 
+sank(truck into soil or sand)
+
 scenario 
 
 significant
