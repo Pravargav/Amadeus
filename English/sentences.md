@@ -1,4 +1,4 @@
--> Are you alright now? Has the fever cleared up?
+-> Are you alright/feeling better now? Has the fever cleared up?
 
 -> He is my senior by one day.
 
