@@ -628,6 +628,8 @@ region
 
 rites
 
+reveal 
+
 represent
 
 resonating(echoing or connecting deeply)
