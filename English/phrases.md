@@ -13,3 +13,5 @@ bare foot
 displaying error 
 
 throws error
+
+put out(fire)
