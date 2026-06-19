@@ -194,6 +194,8 @@ digging
 
 despite 
 
+divert
+
 discontinued 
 
 discomfort 
