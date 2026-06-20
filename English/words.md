@@ -200,6 +200,8 @@ discontinued
 
 discomfort 
 
+drive
+
 disengaged
 
 ditch 
@@ -311,6 +313,8 @@ four-way
 frighten
 
 freeways 
+
+favour
 
 fell
 
@@ -532,7 +536,7 @@ occur
 
 overwhelming
 
-out
+offer
  
 obsessed
 
