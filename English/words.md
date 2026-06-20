@@ -668,6 +668,8 @@ rapid
 
 riverbank
 
+reveal
+
 resist
 
 stocks
