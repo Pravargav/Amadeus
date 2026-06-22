@@ -268,6 +268,8 @@ evidence
 
 exposure
 
+expected 
+
 exploit
  
 exhausted
@@ -823,6 +825,8 @@ uphold(maintain)
 utility(electricity, gas.. related to bill)
 
 uncomfortable 
+
+unexpected 
 
 upset
 
