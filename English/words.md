@@ -98,6 +98,8 @@ bear
 
 bore
 
+bolt(gollem)
+
 born
 
 bluff
@@ -363,6 +365,12 @@ however
 halt
 
 honour
+
+hide
+
+hid
+
+hidden 
 
 hypocrisy 
 
