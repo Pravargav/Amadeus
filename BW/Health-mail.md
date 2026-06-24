@@ -27,3 +27,5 @@ ii) check whether anything in red color - if latency error ignore
 i) MDM 
 
 ii) Finance actuals
+
+-> Arya told for lp1 locks also check date rather than time like bp1. No need to check 3hr as mentioned in confluence.
