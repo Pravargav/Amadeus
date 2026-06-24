@@ -15,3 +15,5 @@ displaying error
 throws error
 
 put out(fire)
+
+run out(aypotam)
