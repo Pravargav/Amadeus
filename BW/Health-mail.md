@@ -16,6 +16,8 @@ i) check all categories and filter
 
 ii) check whether anything in red color - if latency error ignore
 
+iii) if problem important issue -red color ignore
+
 -> In the application logs 
 
 i) check health checks and filter 
