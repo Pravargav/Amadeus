@@ -550,6 +550,8 @@ outer
 
 obtain
 
+observing 
+
 occur
 
 overwhelming
