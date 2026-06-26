@@ -190,6 +190,8 @@ distribute
 
 display 
 
+display 
+
 demonstrate
 
 dealt
@@ -683,6 +685,8 @@ ruled
 rites
 
 rid
+
+reported
  
 ritual
 
@@ -841,6 +845,8 @@ utility(electricity, gas.. related to bill)
 uncomfortable 
 
 unexpected 
+
+unreported
 
 upset
 
