@@ -560,7 +560,7 @@ overwhelming
 
 observe 
 
-occupied 
+occupied(kabza)
 
 offer
  
