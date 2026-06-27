@@ -688,6 +688,8 @@ rites
 
 rid
 
+recognise
+
 reported
  
 ritual
