@@ -17,3 +17,5 @@ throws error
 put out(fire)
 
 run out(aypotam)
+
+carry weight(baaram moyyatam,badyatha teeskotam)
