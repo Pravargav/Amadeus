@@ -23,3 +23,9 @@ carry weight(baaram moyyatam,badyatha teeskotam)
 naming convention
 
 days/months passed
+
+vehicles passing 
+
+status bar
+
+progress bar
