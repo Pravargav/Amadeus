@@ -170,6 +170,8 @@ confront (face, deal with)
 
 customs
 
+calamity 
+
 concede(admit, accept)
 
 consolation(comforting, giving comfort)
@@ -497,6 +499,10 @@ lack
 landed
 
 last
+
+lead
+
+leading 
 
 leftover
 
