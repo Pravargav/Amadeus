@@ -29,3 +29,5 @@ vehicles passing
 status bar
 
 progress bar
+
+played role 
