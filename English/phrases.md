@@ -31,3 +31,5 @@ status bar
 progress bar
 
 played role 
+
+revoke access 
