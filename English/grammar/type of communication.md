@@ -1,0 +1,5 @@
+aassertive 
+
+agressive 
+
+passive
