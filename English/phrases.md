@@ -35,3 +35,5 @@ played role
 revoke access 
 
 representing country 
+
+water stagnates
