@@ -528,6 +528,8 @@ mistress(affair lady)
 
 mocking 
 
+mean(unkind/hurtful behaviour)
+
 meaningless
 
 nervous
