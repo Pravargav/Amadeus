@@ -820,6 +820,10 @@ shore
 
 sewer
 
+state
+
+stating
+
 sank( truck into soil,land or ship into water)
 
 troublemaker
