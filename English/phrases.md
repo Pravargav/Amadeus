@@ -37,3 +37,5 @@ revoke access
 representing country 
 
 water stagnates(nilchipotam)
+
+state/stated that
