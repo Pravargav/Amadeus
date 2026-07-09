@@ -1,5 +1,9 @@
 ago
 
+adapt
+
+adopt
+
 aspect 
 
 address
