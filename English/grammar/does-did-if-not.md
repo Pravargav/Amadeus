@@ -1,6 +1,17 @@
-# "If he doesn't agree" vs. "If he didn't agree"
+***If clauses***
 
-## 1. If he doesn't agree
+-> If + present simple, present simple
+
+-> If + present simple, will + base verb
+
+-> If + past simple, would + base verb
+
+-> If + had + V3, would have + V3
+
+
+## "If he doesn't agree" vs. "If he didn't agree"
+
+### 1. If he doesn't agree
 **Use this for a present or future possibility.**
 
 Examples:
@@ -10,7 +21,7 @@ Examples:
 
 ---
 
-## 2. If he didn't agree
+### 2. If he didn't agree
 **Use this for a hypothetical or unreal situation (Second Conditional).**
 
 Examples:
@@ -20,7 +31,7 @@ Examples:
 
 ---
 
-## 3. Past situation
+### 3. Past situation
 
 To talk about an unreal past situation, use **"If he hadn't agreed..."** (Third Conditional).
 
