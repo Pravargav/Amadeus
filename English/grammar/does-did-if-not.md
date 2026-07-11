@@ -1,7 +1,6 @@
 
 
 
-## "If he doesn't agree" vs. "If he didn't agree"
 
 ### 1. If he doesn't agree
 **Use this for a present or future possibility.**
