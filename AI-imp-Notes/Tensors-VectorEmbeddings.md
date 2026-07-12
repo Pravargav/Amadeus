@@ -38,7 +38,7 @@ PyTorch stores all of these as tensors.
 
 The tensor itself has **no inherent meaning**. It simply stores numbers.
 
----
+
 
 ### Embedding = Meaning encoded as numbers
 
@@ -78,7 +78,7 @@ These vectors capture semantic relationships.
 
 That's why they're called **embeddings**—they embed objects into a continuous vector space.
 
----
+
 
 ### Embeddings are stored as tensors
 
@@ -110,7 +110,7 @@ But
 
 > **Not every tensor is an embedding.**
 
----
+
 
 ###  Example in an LLM
 
@@ -150,7 +150,7 @@ Each row is an embedding.
 
 The whole thing is stored as one tensor.
 
----
+
 
 ###  Analogy
 
@@ -182,7 +182,7 @@ Tensor
 
 The tensor stores the embeddings.
 
----
+
 
 ###  Can a tensor be something other than embeddings?
 
