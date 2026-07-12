@@ -10,7 +10,7 @@ This is one of the most important distinctions in LLMs. Many beginners confuse *
 | Contains    | Semantic information                                                  | Any numerical values                |
 | Used for    | Similarity search, retrieval, LLMs                                    | All deep learning computations      |
 
-### 1. Tensor = A container
+### Tensor = A container
 
 Think of a tensor as a **box** that holds numbers.
 
@@ -40,7 +40,7 @@ The tensor itself has **no inherent meaning**. It simply stores numbers.
 
 ---
 
-### 2. Embedding = Meaning encoded as numbers
+### Embedding = Meaning encoded as numbers
 
 An embedding is a vector whose values have been learned by a model.
 
@@ -80,7 +80,7 @@ That's why they're called **embeddings**—they embed objects into a continuous 
 
 ---
 
-### 3. Embeddings are stored as tensors
+### Embeddings are stored as tensors
 
 Suppose BERT produces a 768-dimensional embedding.
 
@@ -112,7 +112,7 @@ But
 
 ---
 
-### 4. Example in an LLM
+###  Example in an LLM
 
 Suppose the sentence is
 
@@ -152,7 +152,7 @@ The whole thing is stored as one tensor.
 
 ---
 
-### 5. Analogy
+###  Analogy
 
 Imagine a spreadsheet.
 
@@ -184,7 +184,7 @@ The tensor stores the embeddings.
 
 ---
 
-### 6. Can a tensor be something other than embeddings?
+###  Can a tensor be something other than embeddings?
 
 Yes. Many tensors in deep learning are **not embeddings**.
 
