@@ -12,7 +12,8 @@ Examples:
 
 ---
 
-### 2. If he didn't agree
+### 2. If he didn't agree(would+v1 / would+vx1+to+vy1)
+
 **Use this for a hypothetical or unreal situation (Second Conditional).**
 
 Examples:
