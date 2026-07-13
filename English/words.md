@@ -344,6 +344,10 @@ favour
 
 fell
 
+functionality 
+
+functioning 
+
 fainted(unclear or becoming unconscious)
 
 frighten 
