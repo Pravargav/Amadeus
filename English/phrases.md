@@ -41,3 +41,5 @@ water stagnates(nilchipotam)
 state/stated that
 
 noticed the behaviour/functionlity
+
+which factor/criteria 
