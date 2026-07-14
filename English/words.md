@@ -566,6 +566,8 @@ overhaul (rebuild or renovate or repair)
 
 owe
 
+obstruc(block, restrict)
+
 obviously
 
 opposite
