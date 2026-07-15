@@ -38,8 +38,16 @@ representing country
 
 water stagnates(nilchipotam)
 
-state/stated that
+stated that
 
-noticed the behaviour/functionlity
+state that
 
-which factor/criteria 
+noticed the behaviour
+
+tested functionlity
+
+which factor
+
+which category 
+
+which criteria 
