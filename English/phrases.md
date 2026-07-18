@@ -61,3 +61,5 @@ big deal
 Lend money 
 
 intensity of rain 
+
+shake off(dulapadam)
