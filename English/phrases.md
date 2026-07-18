@@ -59,3 +59,5 @@ sevaral times
 big deal
 
 Lend money 
+
+intensity of rain 
