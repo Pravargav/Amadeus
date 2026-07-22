@@ -550,6 +550,8 @@ mention
 
 mistress(affair lady)
 
+migration 
+
 mocking 
 
 mean(unkind/hurtful behaviour)
