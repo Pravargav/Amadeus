@@ -63,3 +63,5 @@ Lend money
 intensity of rain 
 
 dust off(dulapadam)
+
+conduct survey 
