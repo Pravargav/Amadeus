@@ -69,3 +69,5 @@ conduct survey
 you answer(instead of 'you tell')
 
 sense of achievement 
+
+folding clothes 
