@@ -626,6 +626,10 @@ present
 
 proximity
 
+pole 
+
+pillar
+
 provoke
 
 phase
