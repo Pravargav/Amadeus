@@ -236,6 +236,10 @@ during
 
 dignity
 
+dusting
+
+duster
+
 disputed(debated , opposed)
 
 definitely
@@ -969,6 +973,10 @@ worship
 wander
 
 witness
+
+wiping 
+
+wiper
 
 withdraw
 
