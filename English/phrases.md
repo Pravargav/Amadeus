@@ -2,6 +2,8 @@ business essential
 
 each other 
 
+which aspect 
+
 manufacturing facility 
 
 phased out
