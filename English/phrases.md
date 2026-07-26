@@ -73,3 +73,5 @@ you answer(instead of 'you tell')
 sense of achievement 
 
 folding clothes 
+
+hold my phone 
