@@ -1,3 +1,5 @@
+addressing 
+
 ago
 
 adapt
@@ -175,6 +177,8 @@ charred(madipoyina curry)
 confluence(sangamam river)
  
 criteria
+
+conveyed 
 
 confront (face, deal with)
 
