@@ -30,7 +30,7 @@
 4. Review the transaction/program:
    - RFC calls, background processing, BW loads → RFC User
    - Business transactions (e.g., RSA1, SE38, VA01, FB03) → Employee User
-
+----------------------------------------------------------------------------------------------------------------
 #### RC (Return Code)
 Indicates the execution status of a background job, process chain step, or program.
 
