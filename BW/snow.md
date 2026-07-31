@@ -1,1 +1,0 @@
--> For creating month end activities we will use 'service now hub' not 'service now'.
