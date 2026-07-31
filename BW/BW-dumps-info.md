@@ -43,7 +43,7 @@ Indicates the execution status of a background job, process chain step, or progr
 ----------------------------------------------------------------------------------------------------------------
 ### RFC Error and Its Relation to Qlik
 
-The error **"CPIC-CALL ThCMSEND CM_DEALLOCATED_NORMAL"** in your Qlik connection is related to **RFC connectivity issues**, particularly in the context of SAP's Support Backbone infrastructure changes.
+The error *"CPIC-CALL ThCMSEND CM_DEALLOCATED_NORMAL"* in your Qlik connection is related to **RFC connectivity issues**, particularly in the context of SAP's Support Backbone infrastructure changes.
 
 #### Key Information About RFC Shutdown
 
