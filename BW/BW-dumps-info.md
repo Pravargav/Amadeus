@@ -1,6 +1,6 @@
-**Note**: Use st22 for dumps and sm21 for system logs
 
-### RFC User vs Normal Employee User in ST22
+
+### RFC User vs Normal Employee User in ST22 ( **Note**: Use st22 for dumps and sm21 for system logs) 
 
 #### RFC User
 - Used for **system-to-system communication**.
