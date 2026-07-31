@@ -94,8 +94,132 @@ CPIC-CALL ThCMSEND CM_DEALLOCATED_NORMAL
 ```
 
 This typically indicates that the communication channel has been terminated or is no longer supported. Migrating the connection to **HTTPS-based communication** is required to restore connectivity.
-
 #### Summary
 
 The error is most likely caused by an attempt to use an RFC-based connection that has been deactivated following SAP's RFC Support Backbone shutdown. To resolve the issue, migrate the connectivity to **HTTPS-based communication**, verify your RFC destinations, and implement the relevant SAP Notes based on your SAP_BASIS release.
+
+----------------------------------------------------------------------------------------
+### RFC Error and Its Relation to Qlik
+
+#### Error Description
+
+The error:
+
+```text
+CPIC-CALL: 'ThCMSEND', communication rc: CM_DEALLOCATED_NORMAL (cmRc=18)
+```
+
+generally indicates that the **RFC connection was deallocated normally**, meaning the communication session was terminated while the RFC call was still in progress.
+
+In many cases, this is not a system failure but rather a connection that was closed before all data could be transmitted or received.
+
+#### Common Causes
+
+##### 1. Session Terminated During RFC Processing
+- The user or calling application ended the session while the RFC was still running.
+- The RFC connection was closed before data transfer completed.
+
+##### 2. Network Connectivity Issues
+- Temporary network interruptions.
+- Connection timeouts.
+- Unstable communication between SAP and the external system.
+
+##### 3. SAP Gateway Issues
+- Gateway communication interruptions.
+- Gateway overload during high-volume RFC processing.
+- Missing gateway statistics may make troubleshooting difficult.
+
+##### 4. SAP Kernel Issues
+- Certain SAP kernel versions contain known RFC communication defects.
+- Applying the latest SAP kernel patches may resolve recurring connection errors.
+
+##### 5. RFC Destination Configuration Problems
+- Invalid hostnames.
+- Incorrect gateway settings.
+- Misconfigured RFC destinations.
+- DNS or network routing issues.
+
+#### Troubleshooting Steps
+
+##### Check SAP Gateway Logs
+- Use transaction **SMGW**.
+- Review gateway logs and trace files.
+- Activate gateway statistics if additional diagnostics are required.
+
+##### Verify RFC Destinations
+- Use transaction **SM59**.
+- Test:
+  - Connection
+  - Authorization
+  - Remote logon
+- Ensure all destination parameters are valid.
+
+##### Review Network Connectivity
+- Check for:
+  - Packet loss
+  - Firewall interruptions
+  - DNS resolution issues
+  - VPN/network instability
+
+##### Update SAP Kernel
+- Verify the current kernel patch level.
+- Apply recommended SAP kernel patches if known RFC issues exist.
+
+##### Monitor RFC Load
+- Check whether parallel RFC executions or heavy workloads are impacting connectivity.
+- Review work process utilization and gateway performance.
+
+#### Additional RFC Scenarios
+
+##### Heavy Load / Parallel RFC Processing
+
+Under high system load, RFC-related errors such as:
+
+```text
+CALL_FUNCTION_SEND_ERROR
+```
+
+may occur due to gateway or kernel limitations.
+
+Recommended actions:
+- Apply SAP-recommended kernel patches.
+- Reduce excessive parallel RFC execution.
+- Monitor gateway resources.
+
+##### Large Data Transfers (SAP APO and Similar Scenarios)
+
+Large deployment packages may cause RFC connection loss.
+
+Possible mitigations:
+- Reduce package size.
+- Adjust deployment runtime parameters.
+- Use parallel processing profiles where appropriate.
+
+#### Relation to Qlik
+
+If **Qlik** integrates with SAP using RFC connections, this error may indicate that the RFC session between **Qlik and SAP** was interrupted or closed before the data transfer completed.
+
+Potential causes include:
+
+- User cancellation of the extraction process.
+- Network interruptions between Qlik and SAP.
+- Timeout during large data loads.
+- SAP gateway communication issues.
+- Misconfigured RFC destination settings.
+- SAP kernel defects affecting RFC communication.
+
+#### Recommended Actions for Qlik Integrations
+
+1. Verify the RFC destination in **SM59**.
+2. Check SAP gateway logs in **SMGW**.
+3. Review Qlik connector logs for timeout or cancellation events.
+4. Validate network stability between Qlik and SAP.
+5. Apply the latest SAP kernel patches.
+6. Avoid manually terminating sessions during data extraction.
+7. Test with smaller data volumes if the issue occurs during large loads.
+
+#### Summary
+
+The error **CM_DEALLOCATED_NORMAL (cmRc=18)** usually indicates that an RFC session was closed normally before processing completed. In Qlik integrations, it often points to a prematurely terminated connection caused by user cancellation, network interruptions, timeout issues, gateway problems, or RFC configuration defects. Reviewing SM59, SMGW, network connectivity, and SAP kernel levels is recommended for root cause analysis.
+
 ``
