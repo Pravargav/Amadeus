@@ -222,4 +222,3 @@ Potential causes include:
 
 The error **CM_DEALLOCATED_NORMAL (cmRc=18)** usually indicates that an RFC session was closed normally before processing completed. In Qlik integrations, it often points to a prematurely terminated connection caused by user cancellation, network interruptions, timeout issues, gateway problems, or RFC configuration defects. Reviewing SM59, SMGW, network connectivity, and SAP kernel levels is recommended for root cause analysis.
 
-``
