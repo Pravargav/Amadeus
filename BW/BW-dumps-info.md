@@ -31,3 +31,12 @@
    - RFC calls, background processing, BW loads → RFC User
    - Business transactions (e.g., RSA1, SE38, VA01, FB03) → Employee User
 
+#### RC (Return Code)
+Indicates the execution status of a background job, process chain step, or program.
+
+| RC Value | Meaning |
+|----------|----------|
+| **0** | Success — no issues |
+| **4** | Warning — minor issues but completed |
+| **8** | Error — process failed |
+| **12/16** | Serious error — terminated |
