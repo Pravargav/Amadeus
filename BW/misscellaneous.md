@@ -67,5 +67,12 @@ Order → Billing → Invoicing → Payment → Revenue recognition)
 
 -> https://nttdata-solutions.com/uk/blog/anatomy-of-the-operational-delta-queues-in-sap-odp-extractors/
 
+***Note: IQ Systems (SAP IQ)***
+[SAP IQ is a columnar, high‑performance analytical database with use cases below:
+
+##### Primary Use Cases
+- Nearline Storage (NLS) 
+- Warm data archiving 
+- Long‑term data retention
 
 
