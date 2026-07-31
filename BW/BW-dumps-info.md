@@ -115,29 +115,15 @@ In many cases, this is not a system failure but rather a connection that was clo
 
 #### Common Causes
 
-##### 1. Session Terminated During RFC Processing
-- The user or calling application ended the session while the RFC was still running.
-- The RFC connection was closed before data transfer completed.
+1. Session Terminated During RFC Processing
 
-##### 2. Network Connectivity Issues
-- Temporary network interruptions.
-- Connection timeouts.
-- Unstable communication between SAP and the external system.
+2. Network Connectivity Issues
 
-##### 3. SAP Gateway Issues
-- Gateway communication interruptions.
-- Gateway overload during high-volume RFC processing.
-- Missing gateway statistics may make troubleshooting difficult.
+3. SAP Gateway Issues
 
-##### 4. SAP Kernel Issues
-- Certain SAP kernel versions contain known RFC communication defects.
-- Applying the latest SAP kernel patches may resolve recurring connection errors.
+4. SAP Kernel Issues
 
-##### 5. RFC Destination Configuration Problems
-- Invalid hostnames.
-- Incorrect gateway settings.
-- Misconfigured RFC destinations.
-- DNS or network routing issues.
+5. RFC Destination Configuration Problems
 
 #### Troubleshooting Steps
 
@@ -194,19 +180,6 @@ Possible mitigations:
 - Reduce package size.
 - Adjust deployment runtime parameters.
 - Use parallel processing profiles where appropriate.
-
-#### Relation to Qlik
-
-If **Qlik** integrates with SAP using RFC connections, this error may indicate that the RFC session between **Qlik and SAP** was interrupted or closed before the data transfer completed.
-
-Potential causes include:
-
-- User cancellation of the extraction process.
-- Network interruptions between Qlik and SAP.
-- Timeout during large data loads.
-- SAP gateway communication issues.
-- Misconfigured RFC destination settings.
-- SAP kernel defects affecting RFC communication.
 
 #### Recommended Actions for Qlik Integrations
 
