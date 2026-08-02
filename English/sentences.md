@@ -12,8 +12,6 @@
 
 -> I should live up to the trust placed in me.
 
--> The button has come off.
-
 -> Listening to the news is over for today.(passive voice)
 
 -> I’ve finished listening to the news for today.(active voice)
