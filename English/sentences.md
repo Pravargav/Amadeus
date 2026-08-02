@@ -8,10 +8,6 @@
 
 -> Are you alright/feeling better now? 
 
--> He is my senior by one day.
-
--> She stitched the dress by hand.
-
 -> Different times of the day affect our mood and energy levels.
 
 -> I should live up to the trust placed in me.
