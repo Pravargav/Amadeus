@@ -176,9 +176,5 @@ I work on weekends too.(less formal but short)
 
 -> The error is occurring daily.
 
--> Could you please, hold my phone?
 
--> Kindly stick to your word/decision.
-
--> Kindly state the reason.
 
