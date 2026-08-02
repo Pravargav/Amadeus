@@ -160,13 +160,9 @@ I work on weekends too.(less formal but short)
 
 -> In my next life, I want to be born as a bird.(be +v3)
 
--> The stitching has opened.
-
 -> We should bowl above waist or shoulder height.
 
 -> I have exceeded/reached my daily limit.
-
--> The error is occurring daily.
 
 -> Could you please hold my phone for a moment?
 
