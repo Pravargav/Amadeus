@@ -76,5 +76,5 @@ folding clothes
 
 find out(discover)
 
-by hand
+come off(oodi ochesayii buttonlu)
 
