@@ -6,7 +6,7 @@
 
 -> The tyres sank into the ground under the truck's weight.
 
--> Are you alright/feeling better now? Has the fever cleared up?
+-> Are you alright/feeling better now? 
 
 -> He is my senior by one day.
 
@@ -34,8 +34,6 @@
 
 -> Take off your shoes./He took off his jacket.(Removing something)
 
--> The thief ran off./She drove off quickly.(Movement away from a place)
-
 -> He jumped off the table./She fell off the bike.(Movement from a surface - top → down)
 
 -> The plane - flew over the building/ - is above the building.
@@ -43,8 +41,6 @@
 -> She walked past the hospital.(You do NOT enter. You do NOT stop. You just go beyond it.)
 
 -> She drove through the market. (inside the market area)- (Through -go inside and come out)
-
-
 
 -> I missed checking this week’s shift details earlier.
 
@@ -104,8 +100,6 @@
 
 -> I’m going upstairs to hang the washed clothes/laundry.
 
--> I caused her to fall from bike.p
-
 -> Are you the only person who came to the office?
 
 -> Were you the only person who came to the office?” (use this if you’re talking about earlier today)
@@ -119,8 +113,6 @@
 -> While walking, I came across/encountered Suresh.
 
 -> I am on the afternoon shift.
-
--> You are the one who gave the suggestion.
 
 -> It is the time when students prepare for their final exams.
 
@@ -138,15 +130,11 @@
 
 -> He keeps laying the blame on others.
 
--> How do I seem to you?
-
 -> Have you had/eaten breakfast?
 
 -> Did you have/eat breakfast?
 
 -> Generally, how many errors are we supposed to get in a day?
-
--> Everyone has the same kind/amount of greed.
 
 -> I skidded across the ground and scraped my skin. The outer layer peeled off, leaving a raw wound.
 
@@ -154,13 +142,7 @@
 
 -> She adjusted the blanket to set it right on the bed.
 
--> He took off his jacket.
-
--> I increased one unit of of speed./I ate one unit of noodles.
-
--> Put the bag right there on the chair.
-
--> The bus stop is right there across the street.
+-> I increased one unit of of speed.
 
 -> I left my keys right here on the table.
 
@@ -183,10 +165,6 @@ I work on weekends too.(less formal but short)
 -> Find: to locate or discover something physically
 
 ->Find out : to discover information or learn something.
-
--> simple present - are + v3 ex:are included.
-
--> simple past - was + v3 : was damaged.
 
 -> At least pretend that you are working.
 
@@ -214,7 +192,7 @@ I work on weekends too.(less formal but short)
 
 -> Could you please, hold my phone?
 
--> please!stick to your word/decision.
+-> Kindly stick to your word/decision.
 
--> please! State the reason 
+-> Kindly state the reason.
 
