@@ -1,7 +1,5 @@
 -> I found them passing by this street.
 
--> could you please state the steps/reason here.
-
 -> I find him selfish.
 
 -> bp1 works fine; however, bt1 continues to show the same error despite repeated attempts.
