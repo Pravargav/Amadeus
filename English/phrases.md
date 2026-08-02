@@ -74,8 +74,3 @@ sense of achievement
 
 folding clothes 
 
-hold my phone 
-
-stick to your word
-
-stick to your decision 
