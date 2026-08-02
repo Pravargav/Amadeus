@@ -76,7 +76,8 @@ folding clothes
 
 find out(discover)
 
-come off(oodi ochesayii buttonlu)
+come off(oodi ochesayii buttonlu/kutlu)
 
 brought up(peragatam or penchatam)
+
 
