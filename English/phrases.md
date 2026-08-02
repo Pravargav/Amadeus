@@ -78,3 +78,5 @@ find out(discover)
 
 come off(oodi ochesayii buttonlu)
 
+brought up(peragatam or penchatam)
+
