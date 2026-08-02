@@ -180,3 +180,5 @@ I work on weekends too.(less formal but short)
 
 -> Please open and display the application.
 
+-> The message is displayed after login.
+
