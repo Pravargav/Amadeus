@@ -74,5 +74,4 @@ sense of achievement
 
 folding clothes 
 
-state the reason 
 
