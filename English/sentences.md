@@ -20,10 +20,6 @@
 
 -> He ran fast to catch the train. 
 
--> The stitching of my trousers has come off.
-
--> Take off your shoes./He took off his jacket.(Removing something)
-
 -> He jumped off the table./She fell off the bike.(Movement from a surface - top → down)
 
 -> The plane - flew over the building/ - is above the building.
