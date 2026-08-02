@@ -148,10 +148,6 @@ I work on weekends too.(less formal but short)
 
 ->  I don’t know too.❌
 
--> Find: to locate or discover something physically
-
-->Find out : to discover information or learn something.
-
 -> At least pretend that you are working.
 
 -> I threw a stone at the glass, and it landed in the glass.
@@ -176,5 +172,11 @@ I work on weekends too.(less formal but short)
 
 -> The error is occurring daily.
 
+-> Could you please hold my phone for a moment?
 
+-> Kindly stick to your word/decision.
+
+-> Kindly state the reason.
+
+-> Please open and display the application.
 
