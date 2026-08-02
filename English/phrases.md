@@ -74,4 +74,6 @@ sense of achievement
 
 folding clothes 
 
+find out(discover)
+
 
