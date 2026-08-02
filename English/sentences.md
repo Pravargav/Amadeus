@@ -214,3 +214,9 @@ I work on weekends too.(less formal but short)
 
 -> The error is occurring daily.
 
+-> hold my phone 
+
+-> stick to your word
+
+-> stick to your decision 
+
