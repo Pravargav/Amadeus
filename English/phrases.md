@@ -80,4 +80,6 @@ come off(oodi ochesayii buttonlu/kutlu)
 
 brought up(peragatam or penchatam)
 
+took off(teeseytam battalu/shoes)
+
 
