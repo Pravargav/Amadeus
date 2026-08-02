@@ -1,4 +1,4 @@
--> I found them passing by this street.
+-> They are passing by this street.
 
 -> bp1 works fine; however, bt1 continues to show the same error despite repeated attempts.
 
@@ -176,6 +176,6 @@ I work on weekends too.(less formal but short)
 
 -> I will throw the stone into the bucket. (If you're tossing it into the bucket.)
 
--> The stitches have come open. ✅ (The stitches have loosened or opened.)
+-> The stitches have come open.  (The stitches have loosened or opened.)
 
 
