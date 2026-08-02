@@ -150,11 +150,7 @@ I work on weekends too.(less formal but short)
 
 -> At least pretend that you are working.
 
--> I threw a stone at the glass, and it landed in the glass.
-
 -> He is trading his job for a life of enjoyment.
-
--> I will join the meeting using just my mobile.
 
 -> He hasn’t been to the office for the last two months.
 
