@@ -166,6 +166,8 @@ circulate
 
 capture 
 
+commit(palpadatam)
+
 companion
 
 compensating 
