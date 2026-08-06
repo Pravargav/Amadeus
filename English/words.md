@@ -882,6 +882,10 @@ shore
 
 sewer
 
+specific 
+
+specify
+
 state
 
 stating
