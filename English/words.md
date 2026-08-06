@@ -966,6 +966,8 @@ vast
 
 various
 
+vague(unclear)
+
 verbal
 
 virtue
