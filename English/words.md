@@ -248,6 +248,8 @@ ditch
 
 devotion
 
+defend(samardinchukotam)
+
 display(choopimchu)
 
 during
