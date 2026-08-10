@@ -178,4 +178,9 @@ I work on weekends too.(less formal but short)
 
 -> The stitches have come open.  (The stitches have loosened or opened.)
 
+-> I have graduated from university. ✅
+
+-> I graduated from university.✅
+
+-> I was graduated from university.❌
 
