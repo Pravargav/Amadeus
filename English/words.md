@@ -820,6 +820,8 @@ schemes
 
 stats
 
+sections(pages Lopala headings)
+
 sewer(kalava)
 
 sludge(buradha)
