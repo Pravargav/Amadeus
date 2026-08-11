@@ -658,6 +658,8 @@ proximity
 
 pole 
 
+possess(kaligiundatam)
+
 pillar
 
 provoke
@@ -679,6 +681,10 @@ presents
 protest
 
 protest
+
+possess(I always confuse with persits/contains/pertain)
+
+pertain(relate or connect)
 
 primary
  
