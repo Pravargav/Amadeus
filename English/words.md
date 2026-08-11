@@ -334,6 +334,10 @@ enters
 
 enlighten
 
+extend
+
+extension 
+
 exaggerated 
 
 emerge
