@@ -452,6 +452,8 @@ insult
 
 insights 
 
+inhibit(slow down or stop)
+
 incomplete 
 
 inauguration(senkustapana)
