@@ -434,6 +434,8 @@ hid
 
 hidden 
 
+humiliate
+
 hypocrisy
 
 harrasment 
@@ -443,6 +445,8 @@ harass
 imposing
 
 items
+
+insult
 
 insights 
 
@@ -887,6 +891,8 @@ salutation
 sustain
 
 shore
+
+shame
 
 sewer
 
