@@ -28,4 +28,4 @@
 -> The eclipse tool we use is a BW ETL process where we map fields and transfer necessary data
 
 
-
+-> In BW Terminology the word period means month, year means year
