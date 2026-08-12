@@ -75,4 +75,4 @@ Order → Billing → Invoicing → Payment → Revenue recognition)
 - Warm data archiving 
 - Long‑term data retention
 
-
+-> In BW Terminology the word period means month, year means year
