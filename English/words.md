@@ -202,6 +202,8 @@ contain
 
 consisting 
 
+comprise(consists of)
+
 calamity 
 
 concede(admit, accept)
@@ -211,6 +213,10 @@ consolation(comforting, giving comfort)
 convinced
 
 convenient
+
+comprising(consists)
+
+comprised(consists)
 
 claim
 
