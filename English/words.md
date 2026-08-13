@@ -10,6 +10,8 @@ adopt
 
 aspect 
 
+accommodate(fit)
+
 address
 
 assured
@@ -395,6 +397,8 @@ fainted(unclear or becoming unconscious)
 frighten 
 
 flat
+
+fit(accommodate)
 
 fulfilling
 
