@@ -194,6 +194,12 @@ confront (face, deal with)
 
 customs
 
+consists
+
+contain
+
+consisting 
+
 calamity 
 
 concede(admit, accept)
