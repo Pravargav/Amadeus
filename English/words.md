@@ -108,6 +108,8 @@ based
 
 behalf
 
+barrier
+
 bound
 
 bear
@@ -607,6 +609,8 @@ latest
 later
 
 much
+
+miser(pisinari)
 
 meet
 
