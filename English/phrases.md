@@ -82,5 +82,6 @@ come off(oodi ochesayii buttonlu/kutlu)
 
 brought up(peragatam or penchatam)
 
+cover up(cover cheytam/cover drive/conceal)
 
 
