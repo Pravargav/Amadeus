@@ -126,6 +126,8 @@ bragging(boasting)
  
 blabber
 
+barrier(addankii)
+
 bankrupt
  
 bothering
