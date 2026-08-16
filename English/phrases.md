@@ -84,4 +84,6 @@ brought up(peragatam or penchatam)
 
 cover up(cover cheytam/cover drive/conceal)
 
+place feilder(cricket boundary deggara)
+
 
