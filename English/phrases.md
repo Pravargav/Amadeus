@@ -86,4 +86,6 @@ cover up(cover cheytam/cover drive/conceal)
 
 place feilder(cricket boundary deggara)
 
+called off(strike)
+
 
