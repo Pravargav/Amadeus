@@ -184,3 +184,5 @@ I work on weekends too.(less formal but short)
 
 -> I was graduated from university.❌
 
+-> We called off the strike/protest. → We decided to stop or cancel it.
+
