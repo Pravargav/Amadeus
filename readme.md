@@ -1,4 +1,3 @@
-<img width="953" height="458" alt="Neurosan" src="https://github.com/user-attachments/assets/94428d97-71b4-41f4-8c5e-9bfb36b1daab" />
-<img width="610" height="421" alt="Screenshot 2026-08-17 091914" src="https://github.com/user-attachments/assets/eddbdd31-a7d3-4b07-a5f3-e469e0948a90" />
+https://cc.sj-cdn.net/instructor/4hdejjwplbrm-anthropic/assets/1773092562/cli_project.zip?response-content-disposition=attachment&Expires=1786962628&Signature=K7gmyO1cv5qSCCzdDd3iC3i0XASbQgZ928taRsTYsCzkAGJmDQQ7NWmxSWa-OF97qpCCmGCoMrjlxECHvJGid6~KKbC8KM-PWq3yWXOanq-5zaz6R1HiTRdYYZx3lTLd7jKu~~LSsiGptwuX~vBYrDppfz8fmvRjgW0eVXoF6qYRvTx~r7b~UpmoSPTdKz6q0pk2zjpn72hRXL~BNFteLW95XgFnwN1GGZoXSnGDst0BZj4v1Ke632HD1n2Wt2yLkgvh0axveOP59h~sNKtBB9euSCtrx2qajp5frvA518VDG2ms8PJI3n05LsgkXEuJTYvU4T5VkazFyodTAWeHGw__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ
 
-Excited to be recognized as an AI Builder in the OpenAI Codex Flagship Hackathon 2026 and to have successfully completed the Neuro® AI Multi-Agent Accelerator (neuro-san) Hackathon Track 2. Grateful for the opportunity to learn, innovate, and collaborate on the future of AI. #OpenAI #Cognizant #AIBuilder #GenerativeAI 
+
