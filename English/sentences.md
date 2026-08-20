@@ -186,3 +186,10 @@ I work on weekends too.(less formal but short)
 
 -> We called off the strike/protest. → We decided to stop or cancel it.
 
+-> He might have denied access.
+
+-> The access might have been denied by him.
+
+-> The access might have denied.❌
+
+-> The access might be denied.
