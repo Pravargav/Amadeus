@@ -88,4 +88,6 @@ place feilder(cricket boundary deggara)
 
 called off(strike)
 
+speaks well(manchiga maatladatam)
+
 
