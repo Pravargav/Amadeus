@@ -8,6 +8,8 @@ adapt
 
 adopt
 
+away(duram)
+
 aspect 
 
 accommodate(fit)
@@ -171,6 +173,8 @@ clutter(kuppa)
 clashed
 
 check
+
+close(deggara)
 
 chronic
 
