@@ -90,4 +90,6 @@ called off(strike)
 
 speaks well(manchiga maatladatam)
 
+read out(phone number Cheppu)
+
 
