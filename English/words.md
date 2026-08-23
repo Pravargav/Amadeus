@@ -734,9 +734,13 @@ proactive
  
 prepared
 
+point 
+
 projected
 
 passing
+
+pointing
  
 pass
 
