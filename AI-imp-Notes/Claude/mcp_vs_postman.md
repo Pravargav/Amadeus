@@ -5,13 +5,13 @@
 │ Postman │
 └────┬────┘
      │
-     │ HTTP Request
+     │( HTTP Request )
      ▼
 ┌─────────────────┐
 │   Weather API   │
 └────┬────────────┘
      │
-     │ JSON Response
+     │( JSON Response )
      ▼
 ┌─────────┐
 │ Postman │
@@ -20,30 +20,30 @@
 ---------------------
 
 ┌────────────────┐
-│ AI Assistant   │
-│ (Copilot/LLM)  │
+│ AI Assistant   │ 
 └───────┬────────┘
+        │
         │
         ▼
 ┌────────────────┐
 │   MCP Client   │
 └───────┬────────┘
-        │ MCP Protocol
+        │
+        │ ( MCP Protocol )
         ▼
 ┌────────────────┐
 │   MCP Server   │
 └───────┬────────┘
         │
         ├────────► Weather Tool
-        │
         ├────────► Database Tool
-        │
         └────────► GitHub Tool
-                    │
-                    ▼
-             Tool Response
-                    │
-                    ▼
+   └────┬────────────┘
+        │( Tool Response )
+        │
+        ▼
 ┌────────────────┐
 │ AI Assistant   │
 └────────────────┘
+
+         
