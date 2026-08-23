@@ -1,4 +1,3 @@
--> su01 - tcode for user details
 
 -> In the context of Leavers Management in HP1 systems:
 
