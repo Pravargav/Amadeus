@@ -1,5 +1,5 @@
 
--> In the context of Leavers Management in HP1 systems:
+-> In the context of Leavers Management in Hana:
 
 These jobs likely relate to processes for handling employees who are leaving (e.g., data cleanup, access removal, notifications).
 A Finished status confirms that the leaver management tasks (such as sending emails, updating records, or triggering workflows) were completed successfully.
