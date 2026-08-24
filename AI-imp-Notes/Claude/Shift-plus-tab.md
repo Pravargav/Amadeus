@@ -1,4 +1,4 @@
-# Claude Code — Shift+Tab Permission Modes
+## Claude Code — Shift+Tab Permission Modes
 
 `Shift+Tab` cycles through **permission modes** while at the input prompt — the shortcut for controlling how much Claude can do without asking first.
 
