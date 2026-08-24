@@ -1,4 +1,4 @@
-# Claude Tag — Quick Reference
+## Claude Tag — Quick Reference
 
 **Availability:** Slack only (live). Microsoft Teams — "coming soon" (waitlist stage, not live yet).
 
