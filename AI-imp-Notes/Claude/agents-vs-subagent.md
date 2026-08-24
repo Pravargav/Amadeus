@@ -78,12 +78,5 @@ One clean string comes back — not the grep logs, not the file-by-file scan tra
 
 The main agent's context grew by **one summary line**, not by the entire scanning investigation. Doing it inline would've burned thousands of tokens the way excessive `console.log` debugging clutters a function before you extract it — same idea, applied to context budget instead of code readability.
 
-## Key Takeaways
-
-| Git Branches | Subagent Context |
-|---|---|
-| Share full history | Isolated — no shared history |
-| Designed to merge back with everything intact | Only a final summary returns, not the process |
-| Same repo, same commit graph | Separate workspace, separate context window entirely |
 
 **Exam-relevant point:** Anthropic's docs describe subagents as ideal for tasks that are **self-contained and context-heavy** — isolation is the feature, not a limitation. If a task needs constant back-and-forth with the main conversation's context, it's a poor fit for a subagent.
