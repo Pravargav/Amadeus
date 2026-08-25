@@ -6,6 +6,8 @@ ago
 
 adapt
 
+appealing 
+
 adopt
 
 away(duram)
@@ -464,6 +466,8 @@ honour
 
 hide
 
+heal
+
 hid
 
 hidden 
@@ -763,6 +767,8 @@ peeled
 priests
 
 purchase 
+
+pleasing 
 
 pretend
 
