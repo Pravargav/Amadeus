@@ -59,10 +59,4 @@ Using the `-w` flag (or `--worktree`), Claude Code creates isolated worktrees so
 
 ---
 
-## Exam-Relevant Distinction
 
-| | `/compact`, `/rewind`, `/goal`, `/loop` | Worktrees |
-|---|---|---|
-| **Type** | In-session slash commands (typed with `/`) | Repo/filesystem-level Git mechanism |
-| **Invoked via** | Chat input | CLI flag when launching Claude Code |
-| **Layer** | Conversation-level | Process/filesystem-level |**
