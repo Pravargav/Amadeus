@@ -46,28 +46,6 @@ Same headless primitive as scheduled/cron use cases — just invoked by a GitHub
 
 A typical setup gives every PR a **5-axis review** — design, readability, performance, security, and testability — automatically, before a human reviewer even opens the PR.
 
-### Dedicated Security Variant
 
-Anthropic maintains an AI-powered security review GitHub Action directly — uses Claude to analyze code changes for vulnerabilities. Run `/security-review` to perform a comprehensive security review of all pending changes; it's customizable for specific security needs.
 
-Under the hood it does:
-- PR analysis on the diff
-- Contextual review of the change's purpose and security implications
-- Finding generation with severity ratings and remediation guidance
-- False-positive filtering to cut noise
 
-## Practical Benefits People Report
-
-- Consistent review standards on every PR regardless of reviewer availability
-- Faster feedback loops (comments within minutes of opening a PR)
-- Scalability that works the same for a team of 2 or 200 without added headcount
-
-## How This Ties to What You've Already Studied
-
-| Concept | Role Here |
-|---|---|
-| **Headless mode** | The actual mechanism doing the work inside the Action (`-p`, non-interactive, structured output) |
-| **`/code-review`** | Same *kind* of review, but triggered manually in an interactive session; GitHub Actions triggers the equivalent automatically on PR events |
-| **Hooks** | Can still layer a `PostToolUse` hook on top of a CI-triggered Claude run for extra deterministic gates (e.g. blocking a merge if lint fails) — hooks and CI-triggered headless runs aren't mutually exclusive |
-
-rigger → headless execution → structured output → GitHub API action
