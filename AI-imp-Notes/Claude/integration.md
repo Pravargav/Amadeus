@@ -1,4 +1,4 @@
-# Integration: What It Is & MCP as an Integration Pattern
+## Integration: What It Is & MCP as an Integration Pattern
 
 ## What Is Integration?
 
