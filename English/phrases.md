@@ -96,4 +96,5 @@ show empathy(karuna)
 
 lose dignity(paruvu theeskotam)
 
+human tendency 
 
