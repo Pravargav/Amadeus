@@ -10,8 +10,6 @@ manufacturing facility
 
 phased out
 
-ruled out
-
 displaying error 
 
 throws error
@@ -98,3 +96,4 @@ human tendency
 
 bare foot
 
+ruled out
