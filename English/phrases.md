@@ -92,4 +92,8 @@ speaks well(manchiga maatladatam)
 
 read out(phone number Cheppu)
 
+show empathy(karuna)
+
+lose dignity(paruvu theeskotam)
+
 
