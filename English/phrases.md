@@ -98,4 +98,4 @@ bare foot
 
 ruled out
 
-step back
+step back(taggadam)
