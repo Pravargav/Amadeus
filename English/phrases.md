@@ -98,4 +98,6 @@ bare foot
 
 ruled out
 
+which factor
+
 step back(taggadam)
