@@ -336,6 +336,8 @@ endure(tolerate or withstand)
 
 engaged
 
+empathy 
+
 evidence
 
 exhibit(pradarshinchu) 
@@ -850,6 +852,8 @@ rid
 
 resulted
 
+rituals
+
 recognise
 
 reported
@@ -977,6 +981,8 @@ sank( truck into soil,land or ship into water)
 troublemaker
 
 trembling
+
+tendancy
 
 timeline
 
