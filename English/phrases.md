@@ -12,8 +12,6 @@ phased out
 
 ruled out
 
-bare foot
-
 displaying error 
 
 throws error
@@ -97,4 +95,6 @@ show empathy(karuna)
 lose dignity(paruvu theeskotam)
 
 human tendency 
+
+bare foot
 
