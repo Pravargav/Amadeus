@@ -638,6 +638,8 @@ missed
 
 misplaced 
 
+mindful
+
 mention 
 
 mistress(affair lady)
