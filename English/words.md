@@ -916,6 +916,8 @@ stripped
 
 simplify
 
+shallow 
+
 shift
 
 sank(truck into soil or sand)
