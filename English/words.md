@@ -174,6 +174,8 @@ clutter(kuppa)
 
 clashed
 
+conceal(cover up)
+
 check
 
 close(deggara)
@@ -181,6 +183,8 @@ close(deggara)
 chronic
 
 circulate
+
+conceal(tappulu kappipuchukotam)
 
 capture 
 
