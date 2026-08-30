@@ -230,6 +230,8 @@ convinced
 
 convenient
 
+clinging(pattukotam/veladatam)
+
 comprising(consists)
 
 comprised(consists)
