@@ -216,8 +216,6 @@ consists
 
 condition 
 
-cling(veladu)
-
 contain
 
 consisting 
@@ -231,8 +229,6 @@ consolation(comforting, giving comfort)
 convinced
 
 convenient
-
-clinging(veladatam)
 
 comprising(consists)
 
