@@ -216,6 +216,8 @@ consists
 
 condition 
 
+cling(veladu)
+
 contain
 
 consisting 
@@ -224,13 +226,13 @@ comprise(consists of)
 
 calamity 
 
-concede(admit, accept)
-
 consolation(comforting, giving comfort)
 
 convinced
 
 convenient
+
+clinging(veladatam)
 
 comprising(consists)
 
