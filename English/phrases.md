@@ -101,3 +101,6 @@ ruled out
 which factor
 
 step back(taggadam)
+
+cover up(tappulu kappipuchukotam/conceal)
+
