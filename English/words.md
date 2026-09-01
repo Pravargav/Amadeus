@@ -1108,11 +1108,15 @@ wander
 
 witness
 
+wise
+
 wiping 
 
 wiper
 
 withdraw
+
+wisely 
 
 wildfire 
 
