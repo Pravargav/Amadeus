@@ -1,0 +1,12 @@
+[
+  { "trip_id": "T-9001", "date": "2026-08-02", "pickup": "Home", "dropoff": "Airport T2", "tier": "premier", "distance_km": 34.2, "fare_inr": 1180, "surge": 1.0, "rating_given": 5 },
+  { "trip_id": "T-9002", "date": "2026-08-04", "pickup": "Home", "dropoff": "Office Park", "tier": "go", "distance_km": 11.4, "fare_inr": 268, "surge": 1.0, "rating_given": 5 },
+  { "trip_id": "T-9003", "date": "2026-08-05", "pickup": "Office Park", "dropoff": "Home", "tier": "go", "distance_km": 11.6, "fare_inr": 402, "surge": 1.5, "rating_given": 4 },
+  { "trip_id": "T-9004", "date": "2026-08-08", "pickup": "Home", "dropoff": "Indiranagar", "tier": "go", "distance_km": 6.8, "fare_inr": 174, "surge": 1.0, "rating_given": 5 },
+  { "trip_id": "T-9005", "date": "2026-08-11", "pickup": "Home", "dropoff": "Office Park", "tier": "go", "distance_km": 11.4, "fare_inr": 271, "surge": 1.0, "rating_given": 5 },
+  { "trip_id": "T-9006", "date": "2026-08-12", "pickup": "Office Park", "dropoff": "Home", "tier": "go", "distance_km": 11.6, "fare_inr": 445, "surge": 1.7, "rating_given": 3 },
+  { "trip_id": "T-9007", "date": "2026-08-16", "pickup": "Home", "dropoff": "Whitefield", "tier": "xl", "distance_km": 22.1, "fare_inr": 812, "surge": 1.0, "rating_given": 5 },
+  { "trip_id": "T-9008", "date": "2026-08-19", "pickup": "Office Park", "dropoff": "Home", "tier": "go", "distance_km": 11.6, "fare_inr": 438, "surge": 1.6, "rating_given": 4 },
+  { "trip_id": "T-9009", "date": "2026-08-23", "pickup": "Home", "dropoff": "Airport T2", "tier": "premier", "distance_km": 34.0, "fare_inr": 1240, "surge": 1.1, "rating_given": 5 },
+  { "trip_id": "T-9010", "date": "2026-08-27", "pickup": "Office Park", "dropoff": "Home", "tier": "go", "distance_km": 11.6, "fare_inr": 419, "surge": 1.5, "rating_given": 4 }
+]

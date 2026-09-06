@@ -1,0 +1,38 @@
+[
+  {
+    "driver_id": "D-101",
+    "name": "Asha R.",
+    "rating": 4.93,
+    "car": "Toyota Etios",
+    "plate": "KA-01-HH-2201",
+    "tier": "go",
+    "eta_minutes": 4
+  },
+  {
+    "driver_id": "D-102",
+    "name": "Vikram S.",
+    "rating": 4.81,
+    "car": "Maruti Swift",
+    "plate": "KA-05-JJ-8890",
+    "tier": "go",
+    "eta_minutes": 7
+  },
+  {
+    "driver_id": "D-103",
+    "name": "Meera P.",
+    "rating": 4.97,
+    "car": "Honda City",
+    "plate": "KA-03-AB-1145",
+    "tier": "premier",
+    "eta_minutes": 6
+  },
+  {
+    "driver_id": "D-104",
+    "name": "Joseph K.",
+    "rating": 4.88,
+    "car": "Toyota Innova",
+    "plate": "KA-51-MN-3312",
+    "tier": "xl",
+    "eta_minutes": 11
+  }
+]

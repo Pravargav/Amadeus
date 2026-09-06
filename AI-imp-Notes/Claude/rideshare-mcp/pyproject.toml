@@ -1,0 +1,23 @@
+[project]
+name = "rideshare-mcp"
+version = "0.1.0"
+description = "A mock ride-hailing MCP server demonstrating roots, notifications and sampling in one app"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.53.0",
+    # Pinned to 1.x on purpose: mcp 2.x is a rewrite with a different API
+    # (no mcp.shared.context.RequestContext, different Context surface).
+    # The tutorial projects alongside this one are all written against 1.x.
+    "mcp[cli]>=1.9.3,<2",
+    "prompt-toolkit>=3.0.51",
+    "pyboxen>=1.3.0",
+    "python-dotenv>=1.1.0",
+]
+
+[tool.setuptools]
+py-modules = ["main", "mcp_client", "mcp_server"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
