@@ -438,6 +438,8 @@ fall
 
 fell
 
+faded(sunlight)
+
 fur
 
 functioning 
