@@ -11,7 +11,6 @@ A new way for teams to work with Claude — Claude joins as a **team member** in
 | Feature | Description |
 |---|---|
 | **Multiplayer** | One Claude per channel, shared by everyone — not a 1:1 chat. Anyone can see what it's doing and pick up where the last person left off. |
-| **Accumulates context** | Builds context over time from following the channel — no need to re-explain from scratch. Can learn from other Slack channels if granted permission (never pulls from private channels it lacks access to). |
 | **Proactive (ambient mode)** | If enabled, Claude proactively updates the team — flagging stalled threads, posting when a deploy finishes — without being tagged first. |
 
 ## How It Handles Tasks
