@@ -275,4 +275,152 @@ Example:
 Write a fantasy story.
 ```
 
-Responses
+Responses can vary significantly.
+
+---
+
+#### Important Claude Note
+
+Some newer Claude models do not support:
+
+- temperature
+- top_p
+- top_k
+
+Sending these parameters may result in:
+
+```text
+400 Error
+```
+
+Behavior is guided primarily through:
+
+```text
+Prompt Engineering
+```
+
+rather than sampling controls.
+
+---
+
+#### Key Takeaway
+
+✅ Sampling means the model chooses from probabilities rather than following a fixed path.
+
+##### Certification Tip
+
+> Sampling explains why multiple valid responses can be generated from the same prompt.
+
+---
+
+### 4. Non-Determinism: Same Input ≠ Same Output
+
+#### What Is Non-Determinism?
+
+Non-determinism means identical inputs do not guarantee identical outputs.
+
+This happens because Claude uses sampling during generation.
+
+---
+
+#### Example
+
+Prompt:
+
+```text
+Explain photosynthesis in one sentence.
+```
+
+##### Run #1
+
+```text
+Photosynthesis is the process by which plants convert sunlight into energy.
+```
+
+##### Run #2
+
+```text
+Plants use photosynthesis to turn sunlight, water, and carbon dioxide into food.
+```
+
+Both responses are correct.
+
+The wording is different.
+
+---
+
+#### Why This Matters
+
+##### Bad Test
+
+```text
+Assert:
+Response ==
+"Photosynthesis is the process..."
+```
+
+Problem:
+
+- Answer may be correct
+- Wording may differ
+- Test fails unnecessarily
+
+---
+
+##### Better Test
+
+Validate properties instead of exact text.
+
+```text
+✓ Contains "photosynthesis"
+✓ Mentions sunlight
+✓ Mentions plants
+```
+
+Or:
+
+```text
+✓ Valid JSON
+✓ Required field exists
+✓ Value is within range
+```
+
+---
+
+#### Evals
+
+For:
+
+- Summarization
+- Classification
+- Explanations
+- Content generation
+
+Use evaluations (evals).
+
+Instead of:
+
+```text
+Did I get exactly this sentence?
+```
+
+Ask:
+
+```text
+Did the output satisfy the requirement?
+```
+
+A model judge can evaluate quality and meaning.
+
+---
+
+#### Key Takeaway
+
+✅ Non-determinism means different valid outputs are possible for the same input.
+
+##### Certification Tip
+
+> Test correctness, structure, and requirements rather than exact wording.
+
+---
+
