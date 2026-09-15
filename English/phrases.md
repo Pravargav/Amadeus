@@ -12,6 +12,8 @@ phased out
 
 displaying error 
 
+state the reason/issue(share the reason or issue)
+
 throws error
 
 put out(fire)
