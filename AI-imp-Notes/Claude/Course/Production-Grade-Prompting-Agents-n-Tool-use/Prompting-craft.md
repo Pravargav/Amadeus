@@ -563,24 +563,6 @@ stop_reason
 
 ---
 
-### Cannot Be Used With Assistant Prefill
-
-You must choose:
-
-```text
-Prefilling
-```
-
-or
-
-```text
-Structured Outputs
-```
-
-Not both.
-
----
-
 ## Assistant Prefill vs Structured Outputs
 
 ### Assistant Prefill
@@ -675,49 +657,5 @@ Therefore:
 ✅ Structured Outputs only
 ```
 
----
 
-### When to Use Which?
-
-#### Use Prefill
-
-For:
-
-- Stories
-- Emails
-- Templates
-- Custom text continuation
-
-Example:
-
-```text
-Assistant Prefill:
-Dear Customer,
-```
-
-Claude completes the letter.
-
----
-
-#### Use Structured Outputs
-
-For:
-
-- Classification
-- Data extraction
-- Tool calling
-- APIs
-- Production applications
-
-Example:
-
-```json
-{
-  "category": "BILLING"
-}
-```
-
----
-
-=
 
