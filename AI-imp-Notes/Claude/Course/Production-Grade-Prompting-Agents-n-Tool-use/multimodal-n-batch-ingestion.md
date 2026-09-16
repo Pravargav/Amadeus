@@ -11,6 +11,22 @@ A Claude-certified developer should understand both context consumption and high
 
 ---
 
+## What is Multimodal?
+
+A multimodal AI model can understand and work with multiple types (modes) of input, not just text.
+
+Instead of only reading text, a multimodal model can process:
+
+- Text
+- Images
+- PDFs
+- Charts
+- Screenshots
+- Diagrams
+- Documents
+
+and sometimes can generate outputs using one or more of these formats.
+
 ## Image Token Cost Explained Simply
 
 Claude does not view an image as a human does.
