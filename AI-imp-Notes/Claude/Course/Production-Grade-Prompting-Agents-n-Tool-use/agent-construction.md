@@ -176,19 +176,7 @@ You handle:
 
 Flow:
 
-User
-↓
-Claude API
-↓
-Tool Call
-↓
-Your Code Executes Tool
-↓
-Tool Result
-↓
-Claude API
-↓
-Repeat
+User -> Claude API -> Tool Call -> Your Code Executes Tool-> Tool Result -> Claude API -> Repeat
 
 Advantages:
 
