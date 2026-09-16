@@ -581,3 +581,143 @@ Not both.
 
 ---
 
+## Assistant Prefill vs Structured Outputs
+
+### Assistant Prefill
+
+You start the assistant's response and Claude completes it.
+
+Example:
+
+```json
+User: Classify this ticket
+
+Assistant:
+{"category": "
+```
+
+Claude continues:
+
+```json
+{"category": "BILLING"}
+```
+
+Think:
+
+```text
+Prefill = "I decide how the response starts."
+```
+
+---
+
+### Structured Outputs
+
+You provide a JSON Schema.
+
+Example:
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "string",
+      "enum": ["BILLING", "TECHNICAL", "ESCALATION"]
+    }
+  }
+}
+```
+
+Claude must generate valid JSON matching the schema:
+
+```json
+{
+  "category": "BILLING"
+}
+```
+
+Think:
+
+```text
+Structured Outputs = "The schema controls the response."
+```
+
+---
+
+### Why They Can't Be Used Together
+
+Both try to control output generation.
+
+Prefill:
+
+```text
+Start the response like this...
+```
+
+Structured Outputs:
+
+```text
+Only generate tokens that match the schema...
+```
+
+Conflict:
+
+```text
+Prefill controls the beginning.
+Schema controls everything.
+```
+
+Therefore:
+
+```text
+❌ Prefill + Structured Outputs
+✅ Prefill only
+✅ Structured Outputs only
+```
+
+---
+
+### When to Use Which?
+
+#### Use Prefill
+
+For:
+
+- Stories
+- Emails
+- Templates
+- Custom text continuation
+
+Example:
+
+```text
+Assistant Prefill:
+Dear Customer,
+```
+
+Claude completes the letter.
+
+---
+
+#### Use Structured Outputs
+
+For:
+
+- Classification
+- Data extraction
+- Tool calling
+- APIs
+- Production applications
+
+Example:
+
+```json
+{
+  "category": "BILLING"
+}
+```
+
+---
+
+=
+
