@@ -629,32 +629,4 @@ This allows you to match results back to the original input.
 
 ---
 
-## Certification Exam Takeaways
 
-Remember these points:
-
-1. Image tokens = ⌈width/28⌉ × ⌈height/28⌉.
-2. Large images consume context before prompts are processed.
-3. Files API is best for reusable images and PDFs.
-4. PDFs use the `document` block type.
-5. Structured prompting improves multimodal results.
-6. Batch API supports up to 100,000 requests or 256 MB.
-7. Batch API is for offline workloads.
-8. Synchronous API is for real-time interactions.
-9. Chunking synchronous calls is NOT batching.
-10. Use `custom_id` because batch results may arrive out of order.
-
-### Easy Memory Trick
-
-```text
-User Waiting?
-→ Synchronous API
-
-Job Waiting?
-→ Batch API
-
-Reusable File?
-→ Files API
-
-Large Image?
-→
