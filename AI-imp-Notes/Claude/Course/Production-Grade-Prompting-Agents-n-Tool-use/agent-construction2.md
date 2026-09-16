@@ -351,18 +351,6 @@ Use Approved Platform Only
 
 ---
 
-## Quick Compliance Summary
-
-| Constraint | Main Requirement |
-|------------|------------------|
-| Attorney-Client | Auditable legal environment |
-| HIPAA | BAA-covered environment |
-| GDPR | Region-controlled processing |
-| FedRAMP | Authorized government environment |
-| Internal Policy | Approved company platform |
-
----
-
 ## The Production File Incident
 
 This is a very important HITL (Human-in-the-Loop) exam scenario.
