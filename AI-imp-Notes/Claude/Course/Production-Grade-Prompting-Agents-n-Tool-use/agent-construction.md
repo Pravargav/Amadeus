@@ -623,5 +623,3 @@ Requires:
 Even if another solution is technically better, internal policy usually wins.
 
 ---
-
-=
