@@ -30,6 +30,8 @@ vehicles passing
 
 status bar
 
+such level of scarcity(such amount of)
+
 progress bar
 
 played role 
