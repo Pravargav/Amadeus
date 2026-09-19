@@ -177,3 +177,184 @@ Rotation → Replaces Secret When Needed
 ```
 
 A secure system never hardcodes credentials in code or configuration. Instead, it separates, securely stores, and regularly rotates them.
+
+# The passage is talking about the credentials used to access external systems through Claude/MCP integrations, not specifically Claude's own API key.
+
+## Short Answer
+
+It can refer to:
+
+✅ A GitHub Personal Access Token  
+✅ A Jira API key  
+✅ A Database credential  
+✅ An Internal API key  
+✅ A Claude API key (if your application is calling Claude)
+
+The concept is generic:
+
+> Any secret used for authentication should be stored securely, separated from configuration, and rotated regularly.
+
+---
+
+# In the MCP Context
+
+Suppose Claude accesses GitHub through an MCP server.
+
+## Bad
+
+```json
+{
+  "github_token": "ghp_xxxxxxxxx"
+}
+```
+
+If this file is committed to Git:
+
+- The token leaks
+- Everyone cloning the repo gets it
+- It remains in Git history
+
+## Good
+
+```json
+{
+  "github_token": "${GITHUB_TOKEN}"
+}
+```
+
+And:
+
+```bash
+export GITHUB_TOKEN=ghp_xxxxxxxxx
+```
+
+Now the configuration file contains only a reference, not the secret itself.
+
+---
+
+# What Key Leak Are They Referring To?
+
+The sentence:
+
+> "The MCP key leak mentioned earlier was not a bad choice of auth method, it was a credential that lived in the wrong place..."
+
+means:
+
+The problem was not OAuth vs API Key.
+
+The problem was:
+
+```text
+Secret stored directly inside a file
+```
+
+instead of
+
+```text
+Secret stored in environment variables or a secret vault
+```
+
+---
+
+# Is It Claude API Key or External Application API Key?
+
+## Scenario 1: Claude Accessing GitHub
+
+```text
+Claude
+  ↓
+MCP Server
+  ↓
+GitHub
+```
+
+Secret being discussed:
+
+```text
+GitHub PAT (Personal Access Token)
+```
+
+---
+
+## Scenario 2: Claude Accessing Jira
+
+```text
+Claude
+  ↓
+MCP Server
+  ↓
+Jira
+```
+
+Secret being discussed:
+
+```text
+Jira API Key / OAuth Token
+```
+
+---
+
+## Scenario 3: Your App Accessing Claude
+
+```text
+Your Application
+      ↓
+Claude API
+```
+
+Secret being discussed:
+
+```text
+Claude API Key
+```
+
+The same rules apply:
+
+- Don't hardcode it
+- Store it in environment variables or a secret store
+- Rotate it regularly
+
+---
+
+# What the Module Most Likely Means
+
+Because the section is about:
+
+> Connecting Claude to enterprise systems
+
+the primary focus is usually on the credentials used by Claude/MCP to access enterprise systems such as:
+
+- GitHub
+- Linear
+- Jira
+- Internal APIs
+- Databases
+
+rather than Claude's own API key.
+
+Think of it as:
+
+```text
+Claude → Enterprise System
+```
+
+and the secret belongs to the Enterprise System being accessed.
+
+---
+
+# Key Takeaway
+
+```text
+The lesson is not about a specific key.
+
+It applies to ANY authentication secret:
+- Claude API keys
+- GitHub tokens
+- Jira tokens
+- Database passwords
+- Internal service credentials
+```
+
+The module's main message is:
+
+> Never store secrets directly in configuration files or source code. Use environment variables or a secret manager, and rotate credentials when necessary.
