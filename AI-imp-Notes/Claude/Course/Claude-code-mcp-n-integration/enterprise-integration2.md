@@ -460,4 +460,5 @@ The production redirect URI was never registered.
 Developer:
 
 ```text
-So I must register the 
+So I must register the production redirect URI
+```
