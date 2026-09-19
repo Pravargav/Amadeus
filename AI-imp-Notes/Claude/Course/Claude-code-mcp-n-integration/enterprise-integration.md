@@ -510,3 +510,4 @@ Define:
 
 Plan Mode creates the boundary, but humans define the approval process.
 
+-> https://youtu.be/ZDuRmhLSLOY?si=jW7g-jxU-lyTOqfB
