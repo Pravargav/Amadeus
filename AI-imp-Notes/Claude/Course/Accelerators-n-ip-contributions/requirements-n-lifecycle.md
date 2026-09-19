@@ -1,4 +1,4 @@
-## Accelerator & IP Contribution: Requirements and Lifecycle
+## Accelerator & IP(Intellectual Property) Contribution: Requirements and Lifecycle
 
 ### What This Topic Means
 
