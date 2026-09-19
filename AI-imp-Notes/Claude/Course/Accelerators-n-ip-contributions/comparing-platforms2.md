@@ -420,21 +420,4 @@ Before selecting a platform:
 
 However, these costs are far smaller than rebuilding after deployment rejection.
 
----
 
-## Claude Developer Certification Key Takeaways
-
-### Core Lesson
-
-> Familiarity should never be the primary reason for selecting a deployment platform.
-
-### Platform Selection Rule
-
-Choose the platform that satisfies:
-
-- Compliance requirements
-- Residency requirements
-- Security requirements
-- Customer governance requirements
-
-before considering developer convenience.
