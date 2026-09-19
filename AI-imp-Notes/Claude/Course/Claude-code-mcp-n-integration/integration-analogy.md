@@ -30,6 +30,10 @@ Before the HR system shares any data, it must verify that the request is really 
 ### Analogy
 The delivery employee shows an official company ID card at the reception desk. The security guard verifies the identity before allowing entry.
 
+-> https://youtu.be/ZDuRmhLSLOY?si=jW7g-jxU-lyTOqfB
+
+-> https://youtu.be/iX8g4LqF8p8?si=148-VksdtS_CacPB
+
 ---
 
 ## 3. Authorization (What Access Is Allowed)
