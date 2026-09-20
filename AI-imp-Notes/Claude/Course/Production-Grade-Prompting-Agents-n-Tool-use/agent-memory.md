@@ -462,3 +462,5 @@ In-Context  Stateless
 ```
 
 ---
+
+-> Note: Overhead means extra work, cost, time, or resources required to perform something.
