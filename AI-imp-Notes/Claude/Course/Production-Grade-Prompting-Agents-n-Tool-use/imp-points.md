@@ -105,3 +105,24 @@ mcp-client-2025-11-20
 
 This header is required for MCP Connector requests.
 
+-----------------
+
+```
+blocks = {}
+stop_seen = False
+with client.messages.stream(model=model, max_tokens=4096, messages=messages, tools=tools) as stream:
+	for event in stream:
+    	if event.type == "content_block_start":
+        	blocks[event.index] = init_block(event)
+    	elif event.type == "content_block_delta":
+        	apply_delta(blocks[event.index], event.delta)
+    	elif event.type == "message_stop":
+        	stop_seen = True
+if stop_seen:
+	messages.append({"role": "assistant", "content": assemble(blocks)})
+else:
+	raise StreamInterruptedError(
+    	"Stream ended before message_stop; discarding partial turn. Retry from the last complete turn."
+	)
+
+```
