@@ -1,4 +1,4 @@
-```
+```json
 System: You are a support ticket processor.
 
 Return ONLY valid JSON.
