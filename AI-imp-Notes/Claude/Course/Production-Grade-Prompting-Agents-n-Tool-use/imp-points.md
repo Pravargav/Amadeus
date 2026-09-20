@@ -107,7 +107,7 @@ This header is required for MCP Connector requests.
 
 -----------------
 
-```
+```json
 blocks = {}
 stop_seen = False
 with client.messages.stream(model=model, max_tokens=4096, messages=messages, tools=tools) as stream:
