@@ -23,3 +23,85 @@ Output:
 }
 ```
 
+-------------------------
+
+# MCP Connector: Controlling Tool Loading Cost
+
+When using the **API MCP Connector**, tool loading behavior is controlled through the `mcp_toolset` object in the `tools` array.
+
+## Key Configuration
+
+### `default_config`
+Applies settings to **all tools** on the MCP server.
+
+### `configs`
+Allows **per-tool overrides** using the tool name as the key.
+
+---
+
+## Cost Optimization Settings
+
+### 1. `defer_loading`
+
+```json
+{
+  "defer_loading": true
+}
+```
+
+- Delays loading a tool's definition until the model actually needs it.
+- Reduces initial context size and token usage.
+- Useful when an MCP server exposes many tools.
+
+### 2. `enabled`
+
+```json
+{
+  "enabled": false
+}
+```
+
+- Enables or disables specific tools.
+- Lets you register an MCP server while exposing only selected tools to the model.
+- Helps reduce unnecessary context and improve efficiency.
+
+---
+
+## Example
+
+```json
+{
+  "mcp_toolset": {
+    "default_config": {
+      "defer_loading": true
+    },
+    "configs": {
+      "search_tool": {
+        "enabled": true
+      },
+      "admin_tool": {
+        "enabled": false
+      }
+    }
+  }
+}
+```
+
+### Result
+
+- All tools use lazy loading (`defer_loading: true`).
+- `search_tool` is available to the model.
+- `admin_tool` is hidden from the model.
+
+---
+
+## Required Header
+
+When using the MCP Connector, include the beta header:
+
+```http
+mcp-client-2025-11-20
+```
+
+This header is required for MCP Connector requests.
+
