@@ -195,3 +195,5 @@ I work on weekends too.(less formal but short)
 -> The access might be denied.
 
 -> I’m sensitive to deodorants because they trigger my asthma.
+
+-> Three PCs have failed. ✅
