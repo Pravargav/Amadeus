@@ -11,22 +11,22 @@ from helpers import add_user_message, print_flow
 from tools import TOOL_REGISTRY, ALL_TOOLS, run_tool
 from agent import run_turn
 
-# --- sanity check the registry before spending any tokens ---
+
 print("registered tools:", list(TOOL_REGISTRY))
 print("schemas sent to Claude:", [t["name"] for t in ALL_TOOLS])
 
-# --- the router is plain Python: test it with no API call at all ---
+
 print("\nrouter, direct calls (free - no API involved):")
 print(" ", run_tool("get_price", {"product": "laptop"}))
-print(" ", run_tool("get_price", {"product": "banana"}))   # error path -> is_error
-print(" ", run_tool("nope", {}))                           # unknown tool -> error
+print(" ", run_tool("get_price", {"product": "banana"}))  
+print(" ", run_tool("nope", {}))                           
 
 
 TURNS = [
-    "What keyboards do you sell?",          # 1 tool  -> search_products
-    "How much is it, and is it in stock?",  # 2 tools in ONE assistant message
-    "Order 10 more of it.",                 # needs turns 1-2 for "it"
-    "What's the price of a banana?",        # tool errors -> Claude recovers
+    "What keyboards do you sell?",        
+    "How much is it, and is it in stock?", 
+    "Order 10 more of it.",                
+    "What's the price of a banana?",        
 ]
 
 messages = []
