@@ -28,7 +28,6 @@ def check(condition: bool, message: str) -> None:
 for schema in tool_schemas.ALL:
     name = schema["name"]
 
-    # 1. Every published tool must be dispatchable by the name Claude will send.
     fn = tool_functions.REGISTRY.get(name)
     check(fn is not None, f"{name}: in tool_schemas.ALL but not in REGISTRY")
     if fn is None:
@@ -39,15 +38,11 @@ for schema in tool_schemas.ALL:
     declared = set(schema["input_schema"]["properties"])
     actual = set(params)
 
-    # 2. No schema property that the function won't accept -- Claude sending it
-    #    would be a TypeError, and Claude would have done nothing wrong.
     check(
         declared <= actual,
         f"{name}: schema declares {sorted(declared - actual)}, not in the signature",
     )
 
-    # 3. No required function parameter hidden from Claude, or the call arrives
-    #    missing an argument it had no way to know about.
     required_by_fn = {
         p for p, v in params.items() if v.default is inspect.Parameter.empty
     }
@@ -56,8 +51,6 @@ for schema in tool_schemas.ALL:
         f"{name}: function requires {sorted(required_by_fn - declared)}, absent from schema",
     )
 
-    # 4. schema `required` and the function's defaults must agree, or an
-    #    "optional" parameter blows up when Claude omits it.
     required_by_schema = set(schema["input_schema"].get("required", []))
     check(
         required_by_schema == required_by_fn,
@@ -65,7 +58,6 @@ for schema in tool_schemas.ALL:
         f"function requires {sorted(required_by_fn)}",
     )
 
-    # 5. strict:true is rejected by the API without these two.
     if schema.get("strict"):
         check(
             schema["input_schema"].get("additionalProperties") is False,
@@ -76,8 +68,6 @@ for schema in tool_schemas.ALL:
             f"{name}: strict:true requires a `required` list",
         )
 
-# 6. And nothing implemented but never published (dead code, or a tool you
-#    meant to expose).
 orphans = set(tool_functions.REGISTRY) - {s["name"] for s in tool_schemas.ALL}
 check(not orphans, f"in REGISTRY but never published to Claude: {sorted(orphans)}")
 
