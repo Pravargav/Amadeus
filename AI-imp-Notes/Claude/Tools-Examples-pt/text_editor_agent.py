@@ -17,12 +17,11 @@ import anthropic
 
 from text_editor_tool import EditorError, TextEditorTool
 
-# type + name only. NO input_schema -- Anthropic defines the input shape.
-# The name "str_replace_based_edit_tool" is fixed; don't rename it.
+
 TEXT_EDITOR = {
     "type": "text_editor_20250728",
     "name": "str_replace_based_edit_tool",
-    "max_characters": 10_000,          # optional: caps `view` output
+    "max_characters": 10_000,       
 }
 
 SYSTEM = (
@@ -38,12 +37,12 @@ editor = TextEditorTool("workspace")
 editor.create({
     "command": "create",
     "path": "/demo.py",
-    "file_text": "def add(a, b):\n    retrun a - b\n",   # 2 bugs on purpose
+    "file_text": "def add(a, b):\n    retrun a - b\n",  
 })
 
 messages = [{"role": "user", "content": "Fix the bugs in /demo.py"}]
 
-for turn in range(1, 11):                      # cap it -- never loop forever
+for turn in range(1, 11):                     
     response = client.messages.create(
         model="claude-opus-5",
         max_tokens=2048,
@@ -57,12 +56,10 @@ for turn in range(1, 11):                      # cap it -- never loop forever
         if block.type == "text":
             print("Claude:", block.text)
 
-    # No tool requested -> Claude is finished.
+   
     if response.stop_reason != "tool_use":
         break
 
-    # RULE 1: append the WHOLE reply. The tool_use blocks must survive the
-    # round trip -- appending only block.text silently breaks the loop.
     messages.append({"role": "assistant", "content": response.content})
 
     results = []
@@ -72,11 +69,11 @@ for turn in range(1, 11):                      # cap it -- never loop forever
 
         print("  wants:", block.input)
         try:
-            output = editor.run(block.input)         # <-- YOUR code does the work
+            output = editor.run(block.input)        
             print("  ok:", output)
             results.append({
                 "type": "tool_result",
-                "tool_use_id": block.id,             # RULE 2: same id
+                "tool_use_id": block.id,           
                 "content": output,
             })
         except EditorError as e:
@@ -85,10 +82,10 @@ for turn in range(1, 11):                      # cap it -- never loop forever
                 "type": "tool_result",
                 "tool_use_id": block.id,
                 "content": f"Error: {e}",
-                "is_error": True,                    # RULE 3: errors go back too
+                "is_error": True,                   
             })
 
-    # RULE 4: every result from this turn in ONE user message.
+ 
     messages.append({"role": "user", "content": results})
 
 print("\n--- final file ---")
