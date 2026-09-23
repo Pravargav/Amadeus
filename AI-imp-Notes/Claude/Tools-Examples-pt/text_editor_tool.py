@@ -197,13 +197,3 @@ if __name__ == "__main__":
                          "insert_line": 0, "insert_text": "# fixed by Claude"}))
     print(editor.view({"command": "view", "path": "/demo.py"}))
 
-    # And the error paths Claude is expected to recover from:
-    for bad in [
-        {"command": "str_replace", "path": "/demo.py", "old_str": "e", "new_str": "x"},
-        {"command": "view", "path": "../../secrets.txt"},
-        {"command": "delete", "path": "/demo.py"},
-    ]:
-        try:
-            editor.run(bad)
-        except EditorError as e:
-            print(f"EditorError -> {e}")
