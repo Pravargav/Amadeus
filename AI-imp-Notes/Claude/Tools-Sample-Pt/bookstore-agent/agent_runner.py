@@ -31,12 +31,6 @@ SYSTEM = (
 )
 
 
-# The docstring is not a comment here -- it BECOMES the tool description and the
-# per-property descriptions that Claude reads. Write it for the model: say when
-# to call the tool, not only what it does. Type hints become the JSON types, and
-# a default value makes the parameter optional in `required`.
-
-
 @beta_tool
 def search_books(query: str, max_results: int = 5) -> str:
     """Search the catalog by title or author for ISBNs, prices and stock counts.
@@ -76,12 +70,6 @@ def place_order(isbn: str, quantity: Literal[1, 2, 3, 4, 5]) -> str:
         isbn: A 13-digit ISBN with no dashes.
         quantity: Number of copies to buy, 1 to 5.
     """
-    # Literal[...] in the signature is what becomes "enum" in the JSON Schema --
-    # a plain `int` hint cannot express a value range, so Claude would be free to
-    # ask for 9999 copies and the check would fall to runtime.
-    # Same gated implementation as the manual version -- the approval prompt is
-    # inside tool_functions.place_order, which is exactly why the runner
-    # executing tools automatically is safe here.
     return tool_functions.place_order(isbn, quantity)
 
 
@@ -101,9 +89,6 @@ def run(user_input: str) -> str:
         max_iterations=10,
     )
 
-    # `for message in runner` yields each assistant turn as it happens, which is
-    # where you'd intervene. `runner.until_done()` is the shortcut when you only
-    # want the final message.
     final = None
     for message in runner:
         for block in message.content:
@@ -120,6 +105,6 @@ def run(user_input: str) -> str:
 
 if __name__ == "__main__":
     inventory.init_db()
-    prompt = " ".join(sys.argv[1:]) or "Do you have anything by Orwell, and how much is it?"
+    prompt = " ".join(sys.argv[1:]) 
     print(f"> {prompt}\n")
     print(run(prompt))
