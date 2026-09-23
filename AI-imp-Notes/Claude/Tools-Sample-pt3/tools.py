@@ -122,12 +122,10 @@ def run_tool(name, tool_input):
     """
     entry = TOOL_REGISTRY.get(name)
     if entry is None:
-        # Claude hallucinated a tool name, or you forgot the decorator.
         return f"Error: no such tool '{name}'"
     try:
         return str(entry["fn"](**tool_input))
     except Exception as e:
-        # Give Claude the reason - it can then retry or ask the user.
         return f"Error running {name}: {type(e).__name__}: {e}"
 
 
@@ -136,7 +134,7 @@ def run_tool_block(block):
     output = run_tool(block.name, block.input)
     return {
         "type": "tool_result",
-        "tool_use_id": block.id,               # must match the tool_use id
+        "tool_use_id": block.id,            
         "content": output,
-        "is_error": output.startswith("Error"),  # flag failures for Claude
+        "is_error": output.startswith("Error"),  
     }
