@@ -538,15 +538,4 @@ if not is_retriable(e.status_code):
 
 The exception is re-raised immediately instead of wasting retry attempts.
 
----
 
-# Summary
-
-The original implementation retries immediately and indiscriminately, which can worsen rate limits and waste resources. The corrected version:
-
-- ✅ Respects the `Retry-After` header when provided.
-- ✅ Uses exponential backoff with a maximum cap.
-- ✅ Adds jitter to avoid synchronized retries.
-- ✅ Retries only recoverable errors.
-- ✅ Fails fast on terminal errors.
-- ✅ Raises `RetryBudgetExhausted()` after all retry attempts are exhausted.
