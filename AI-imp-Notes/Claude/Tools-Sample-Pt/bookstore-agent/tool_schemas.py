@@ -13,7 +13,7 @@ conditions measurably raise the should-call rate.
 """
 
 SEARCH_BOOKS = {
-    "name": "search_books",  # must match a key in tool_functions.REGISTRY
+    "name": "search_books",  
     "description": (
         "Search the bookstore catalog by title or author, returning ISBNs, prices "
         "and stock counts. Call this whenever the user names a book or author but "
@@ -31,12 +31,9 @@ SEARCH_BOOKS = {
                 "description": "How many matches to return. Defaults to 5.",
             },
         },
-        "required": ["query"],  # max_results is optional -> the function defaults it
+        "required": ["query"],  
         "additionalProperties": False,
     },
-    # strict:true guarantees tool_use.input validates against the schema exactly.
-    # It is a TOP-LEVEL field on the tool, not part of input_schema and not on
-    # tool_choice. Requires additionalProperties:false + required, as above.
     "strict": True,
 }
 
@@ -77,8 +74,6 @@ PLACE_ORDER = {
             },
             "quantity": {
                 "type": "integer",
-                # enum constrains the model at the schema level, so it cannot
-                # invent quantity=9999. Cheaper than validating after the fact.
                 "enum": [1, 2, 3, 4, 5],
                 "description": "Number of copies to buy, 1 to 5.",
             },
