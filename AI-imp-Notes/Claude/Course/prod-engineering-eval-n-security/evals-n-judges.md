@@ -1,7 +1,5 @@
 ## Defining Done Before You Ship: Evals and a Calibrated Judge
 
-For the Claude Developer Certification, this topic is about moving from "it seems to work" to "we can prove it works." Production systems need measurable success criteria, not intuition. The key idea is that before building an AI feature, you must define what success looks like, how failures are handled, what costs are acceptable, and what security boundaries exist.
-
 ### Why This Matters
 
 When testing manually, you might ask a few questions and get correct answers. However, that does not guarantee the system will continue working correctly after:
@@ -18,11 +16,6 @@ Think of an eval like a thermometer:
 - It does not improve the system.
 - It measures the system.
 - It provides a number you can track over time.
-
-Without evals, "done" is a feeling.
-
-With evals, "done" is a score.
-
 ---
 
 ## Design Document: Define Success Before Building
@@ -50,12 +43,6 @@ Bad example:
 Summarize the email thread.
 ```
 
-Why bad?
-
-- Too vague
-- Difficult to grade
-- No measurable outcome
-
 Good example:
 
 ```text
@@ -64,20 +51,7 @@ Generate a two-sentence summary that includes:
 - The owner of each action item
 ```
 
-Why good?
-
-- Specific
-- Measurable
-- Easy to evaluate
-
 These criteria become the foundation of your eval dataset.
-
-Key certification point:
-
-```text
-If success cannot be measured,
-it cannot be evaluated.
-```
 
 ---
 
@@ -162,16 +136,6 @@ Example:
 ```text
 At least 95% successful completion rate.
 ```
-
-Important principle:
-
-```text
-Do not optimize speed or cost
-by sacrificing required reliability.
-```
-
-The architecture must stay within these limits.
-
 ---
 
 ### 4. Trust Boundary
@@ -202,14 +166,6 @@ Examples of disallowed actions:
 - Unapproved data access
 - System administration actions
 
-Principle:
-
-```text
-Grant the smallest amount of access
-required for the task.
-```
-
-This follows the idea of least privilege.
 
 ---
 
@@ -223,18 +179,6 @@ An eval contains:
 2. Expected outcomes
 3. Grading logic
 4. Final score
-
-Basic process:
-
-```text
-Input Cases
-      ↓
-Run Feature
-      ↓
-Grade Output
-      ↓
-Calculate Score
-```
 
 Instead of saying:
 
@@ -311,12 +255,6 @@ The grading function checks:
 Did the output satisfy the expected criteria?
 ```
 
-Possible grading methods:
-
-- Pass/Fail
-- Numeric score (0-10)
-- Percentage score
-
 Example:
 
 ```python
@@ -366,7 +304,7 @@ The goal is measurable improvement.
 
 ---
 
-## Best Practice for Claude Developer Certification
+## Best Practice 
 
 When improving a system:
 
@@ -393,111 +331,3 @@ at the same time
 
 Otherwise, you will not know which change improved the score.
 
----
-
-## Agentic Coding Tool Requirement
-
-For coding agents, the process should be:
-
-```text
-1. Write design document
-2. Define success criteria
-3. Define constraints
-4. Create eval dataset
-5. Implement solution
-6. Run evals
-7. Measure score
-8. Deploy only after passing
-```
-
-The design document becomes the contract that the generated code must satisfy.
-
----
-
-## Certification Exam Cheat Sheet
-
-### Design Document Contains
-
-✅ Success Criteria  
-✅ Failure Handling  
-✅ Cost & Latency Budget  
-✅ Trust Boundary
-
----
-
-### Success Criteria
-
-- Specific
-- Measurable
-- Testable
-
-Example:
-
-```text
-Two-sentence summary containing
-all action items and owners.
-```
-
----
-
-### Failure Handling
-
-Classify failures as:
-
-- Retriable
-- Terminal
-
-Define user-facing error behavior.
-
----
-
-### Cost & Latency Budget
-
-Specify:
-
-- Per-request cost
-- Monthly budget
-- Response time target
-- Reliability floor
-
----
-
-### Trust Boundary
-
-Define:
-
-- Untrusted inputs
-- Allowed actions
-- Least privilege access
-
----
-
-### Eval Definition
-
-An eval contains:
-
-```text
-Test Cases
-+
-Expected Results
-+
-Grading Logic
-+
-Score
-```
-
----
-
-### Eval Pipeline
-
-```text
-Dataset
-   ↓
-Run Feature
-   ↓
-Grade Outputs
-   ↓
-Calculate Average Score
-```
-
----
