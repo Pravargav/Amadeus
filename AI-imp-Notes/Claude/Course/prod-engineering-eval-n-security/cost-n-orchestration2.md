@@ -1,37 +1,5 @@
 ## Prompt Caching: Reusing Previously Processed Prompt Work
 
-Prompt caching is a cost and latency optimization technique that allows Claude to reuse processing work from earlier requests instead of recomputing the same prompt repeatedly.
-
-Normally, when a request is sent:
-
-```text
-Prompt
-   ↓
-Tokenization
-   ↓
-Context Processing
-   ↓
-Generation
-```
-
-After the response, all processing work is discarded.
-
-When the next request contains the same large prompt:
-
-```text
-Same Prompt
-   ↓
-Tokenization Again
-   ↓
-Processing Again
-   ↓
-Generation
-```
-
-The same expensive work is repeated.
-
-Prompt caching avoids this repeated computation.
-
 ---
 
 ## How Prompt Caching Works
@@ -64,12 +32,6 @@ Generate Response
 
 This is called a **cache read**.
 
-Result:
-
-- Lower latency
-- Lower cost
-- Faster repeated requests
-
 ---
 
 ## Cache Economics
@@ -79,14 +41,6 @@ Prompt caching only saves money when reads significantly outnumber writes.
 ### Cache Write Cost
 
 Processing is stored in cache.
-
-Pricing:
-
-```text
-5-Minute TTL  = 1.25× Input Cost
-
-1-Hour TTL    = 2× Input Cost
-```
 
 ### Cache Read Cost
 
@@ -119,12 +73,6 @@ Cache Enabled
       ↓
 Claude Manages Breakpoints Automatically
 ```
-
-Advantages:
-
-- Simple setup
-- Minimal maintenance
-- Best starting option
 
 ---
 
@@ -396,109 +344,6 @@ Use carefully.
 
 ---
 
-## Certification Takeaway: Prompt Caching
-
-Remember:
-
-```text
-Cache Stable Prefixes
-Not Dynamic Information
-```
-
-Success Formula:
-
-```text
-Long
-+
-Stable
-+
-Frequently Reused
-=
-Excellent Cache Candidate
-```
-
----
-
-## Message Batches API: Trading Latency for Lower Cost
-
-Some workloads do not require immediate responses.
-
-Examples:
-
-- Overnight classification jobs
-- Scheduled reports
-- Dataset backfills
-- Large-scale analysis
-
-For these workloads, use:
-
-```text
-Message Batches API
-```
-
----
-
-## Normal API
-
-```text
-Send Request
-      ↓
-Immediate Response
-```
-
-Optimized for:
-
-```text
-User-Facing Applications
-```
-
----
-
-## Batches API
-
-```text
-Submit Requests
-       ↓
-Process Asynchronously
-       ↓
-Receive Results Later
-```
-
-Optimized for:
-
-```text
-Cost Reduction
-```
-
----
-
-## Tradeoff
-
-### Normal API
-
-```text
-Fast Response
-Higher Cost
-```
-
-### Batch API
-
-```text
-Slower Response
-Lower Cost
-```
-
-Think:
-
-```text
-Latency ↓ ?
-Use Normal API
-
-Cost ↓ ?
-Use Batch API
-```
-
----
 
 ## When To Use Batches
 
@@ -528,49 +373,6 @@ Copilot Interface
 
 Users should never wait for batch completion.
 
----
-
-## Streaming vs Batching
-
-These solve opposite problems.
-
-### Streaming
-
-Goal:
-
-```text
-Improve User Experience
-```
-
-```text
-Request
-      ↓
-Immediate Token Delivery
-```
-
-User sees results quickly.
-
----
-
-### Batching
-
-Goal:
-
-```text
-Reduce Cost
-```
-
-```text
-Request
-      ↓
-Asynchronous Processing
-      ↓
-Delayed Results
-```
-
-No immediate response.
-
----
 
 ## Prompt Caching + Batching
 
@@ -586,31 +388,7 @@ Large Fixed System Prompt
 Thousands of Requests
 ```
 
-Benefits:
 
-### Batch Discount
-
-```text
-Lower Cost Per Request
-```
-
-### Cache Savings
-
-```text
-Lower Cost Per Prompt Prefix
-```
-
-Combined:
-
-```text
-Batching + Caching
-=
-Maximum Cost Efficiency
-```
-
-This is a common certification scenario.
-
----
 
 ## Multi-Agent Orchestration
 
