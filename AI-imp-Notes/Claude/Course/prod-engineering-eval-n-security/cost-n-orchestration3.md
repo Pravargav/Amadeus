@@ -1,27 +1,5 @@
 ## Reliability First, Cost Second
 
-A core principle in Claude system design is:
-
-```text
-Never optimize cost by sacrificing required reliability.
-```
-
-Reliability creates a **floor** (minimum acceptable standard).
-
-Cost optimization happens **above that floor**, not below it.
-
-Think of it as:
-
-```text
-Reliability = Non-Negotiable Constraint
-
-Cost = Optimization Variable
-```
-
-If a cost-saving change makes the system unreliable, it should be rejected.
-
----
-
 ## Why Reliability Comes First
 
 The cheapest system is rarely the most reliable.
@@ -92,70 +70,11 @@ Any cost optimization must preserve them.
 
 ---
 
-## Acceptable Cost Optimization
+### Acceptable Cost Optimization
 
-Example:
+### Unacceptable Cost Optimization
 
-```text
-Use a Smaller Model
-```
-
-This is acceptable if:
-
-```text
-Latency ≤ 4 Seconds
-
-Error Rate Remains Acceptable
-
-Retry Budget Not Exhausted
-```
-
-Result:
-
-```text
-Lower Cost
-Same Reliability
-```
-
-Good optimization.
-
----
-
-## Unacceptable Cost Optimization
-
-Example:
-
-```text
-Reduce Retries
-3 → 2
-```
-
-Goal:
-
-```text
-Reduce API Costs
-```
-
-Problem:
-
-```text
-More Failed Requests
-Higher Error Rate
-Lower Reliability
-```
-
-Result:
-
-```text
-Cost ↓
-Reliability ↓
-```
-
-Not acceptable.
-
----
-
-## Reliability Floor Prevents Bad Tradeoffs
+### Reliability Floor Prevents Bad Tradeoffs
 
 Without a reliability floor:
 
@@ -317,24 +236,6 @@ Every Claude system should monitor three primary metrics.
 
 ### Token Cost
 
-Measure:
-
-```text
-Per API Call
-
-Per Request
-
-Per Workflow
-```
-
-Track:
-
-```text
-Input Tokens
-
-Output Tokens
-```
-
 Purpose:
 
 ```text
@@ -345,20 +246,6 @@ Identify Expensive Components
 
 ### Latency
 
-Measure:
-
-```text
-Per Call
-
-Per Workflow Stage
-```
-
-Use tracing to locate:
-
-```text
-Slowest Step
-```
-
 Purpose:
 
 ```text
@@ -368,24 +255,6 @@ Identify Performance Bottlenecks
 ---
 
 ### Error Rate
-
-Measure:
-
-```text
-Per Call
-
-Per Dependency
-
-Per Workflow
-```
-
-Track:
-
-```text
-Failures
-Retries
-Fallback Usage
-```
 
 Purpose:
 
@@ -409,12 +278,7 @@ Agent
 Answer
 ```
 
-Characteristics:
 
-- Lower token usage
-- Simpler architecture
-- Easier reliability management
-- Lower cost
 
 ---
 
@@ -432,25 +296,13 @@ A     B     C
 Lead Synthesis
 ```
 
-Characteristics:
 
-- More parallel computation
-- Higher complexity
-- Higher token usage
-- More failure points
 
 ---
 
 ## Token Cost Impact
 
 Single Agent:
-
-```text
-One Context
-
-One Generation Pass
-```
-
 Cost:
 
 ```text
@@ -460,23 +312,6 @@ Normal Token Usage
 ---
 
 Multi-Agent:
-
-```text
-Lead Context
-
-Worker A Context
-
-Worker B Context
-
-Worker C Context
-```
-
-Every worker:
-
-- Reads context
-- Generates output
-- Consumes tokens
-
 Result:
 
 ```text
@@ -496,16 +331,6 @@ compared with a standard chat workflow.
 ## Latency Impact
 
 ### Benefit
-
-Independent tasks can run simultaneously.
-
-Example:
-
-```text
-Research Source A
-Research Source B
-Research Source C
-```
 
 All explored in parallel.
 
@@ -711,111 +536,4 @@ Single Agent
 Good Context
 ```
 
-Outcome:
-
-```text
-Lower Cost
-
-Similar Quality
-
-Simpler Architecture
-```
-
 This confirmed that orchestration was unnecessary.
-
----
-
-## Core Lesson
-
-Multi-agent architecture is not automatically better.
-
-It is valuable only when:
-
-```text
-Task Can Be Independently Explored
-```
-
-Examples:
-
-```text
-Research
-
-Source Analysis
-
-Large Information Gathering
-```
-
-Not:
-
-```text
-Sequential Coding
-
-Step-by-Step Dependencies
-
-Highly Coupled Tasks
-```
-
----
-
-## Common Certification Questions
-
-### When should cost optimization happen?
-
-```text
-After Reliability Requirements Are Defined
-```
-
----
-
-### What establishes the reliability floor?
-
-```text
-Latency Limits
-
-Retry Budgets
-
-Reliability Baselines
-
-Evaluation Scores
-```
-
----
-
-### Why is a reliability floor important?
-
-```text
-Prevents Cost Savings
-From Quietly Increasing Failures
-```
-
----
-
-### Why are multi-agent systems expensive?
-
-```text
-Every Agent Consumes
-Its Own Tokens
-Its Own Context
-Its Own Outputs
-```
-
----
-
-### When should orchestrator-worker be used?
-
-```text
-Independent Tasks
-Suitable For Parallel Exploration
-```
-
----
-
-### When is a single agent better?
-
-```text
-Tightly Coupled Tasks
-
-Coding
-
-Sequential Work
-```
