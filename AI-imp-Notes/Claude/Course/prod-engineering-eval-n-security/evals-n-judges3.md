@@ -1,12 +1,5 @@
 ## Coverage Matters More Than Perfection
 
-For the Claude Developer Certification, a key lesson is:
-
-```text
-A large eval with good coverage is usually more valuable
-than a tiny eval with perfect grading.
-```
-
 Many developers spend too much time trying to create the perfect rubric while testing only a few examples.
 
 The real goal of an eval is:
@@ -14,7 +7,6 @@ The real goal of an eval is:
 ```text
 Catch regressions and edge cases before users do.
 ```
-
 Coverage is what makes that possible.
 
 ---
@@ -114,15 +106,7 @@ With broad coverage:
 Regression becomes obvious.
 ```
 
-This is why Claude documentation emphasizes:
 
-```text
-Coverage comes from volume.
-```
-
-Not perfection.
-
----
 
 ## Generating Additional Eval Cases
 
@@ -210,27 +194,7 @@ Run the eval again.
 
 ---
 
-Process:
 
-```text
-Goal
- ↓
-Prompt
- ↓
-Eval
- ↓
-Find Failures
- ↓
-Improve
- ↓
-Re-Evaluate
- ↓
-Repeat
-```
-
-The eval tells you whether the change genuinely improved the system.
-
----
 
 ## Change Only One Thing at a Time
 
@@ -325,24 +289,6 @@ But behavior changed completely.
 
 ---
 
-### Lesson
-
-Always inspect:
-
-```text
-Per-case results
-```
-
-not just:
-
-```text
-Overall average
-```
-
-Per-case analysis reveals exactly what improved and what broke.
-
----
-
 ## Treat Low Scores as Information
 
 A failing case is valuable.
@@ -431,32 +377,6 @@ Improve chunking or context strategy.
 
 ---
 
-## What Evals Handle Well
-
-Evals:
-
-✅ Turn intuition into measurable scores
-
-✅ Reveal regressions
-
-✅ Track improvement over time
-
-✅ Support objective decision-making
-
-✅ Help identify root causes of failures
-
-✅ Create confidence before deployment
-
-Key idea:
-
-```text
-"Looks right"
-becomes
-"Scored 92% on evaluation."
-```
-
----
-
 ## Cost of Evals
 
 Evals are extremely valuable, but they are not free.
@@ -489,48 +409,6 @@ Comparing judge results with human ratings.
 
 Adding new cases as failures are discovered.
 
----
-
-## When You Don't Need an LLM Judge
-
-Some tasks are simple.
-
-Example:
-
-```text
-Return valid JSON.
-```
-
-A code check can solve this.
-
-Example:
-
-```python
-json.loads(output)
-```
-
-Pass:
-
-```text
-Valid JSON
-```
-
-Fail:
-
-```text
-Invalid JSON
-```
-
-No LLM judge is needed.
-
-Certification takeaway:
-
-```text
-Use the simplest grader that can reliably
-measure correctness.
-```
-
----
 
 ## Case Study: The Demo That Passed but Production Failed
 
