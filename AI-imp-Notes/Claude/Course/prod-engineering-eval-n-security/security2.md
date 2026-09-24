@@ -13,13 +13,6 @@ Prompt Rule = Guidance
 Hook Rule = Enforcement
 ```
 
-If a rule exists only inside a prompt, Claude may still be influenced by:
-
-- Prompt injections
-- Retrieval attacks
-- Model mistakes
-- Misinterpretation
-
 A hook runs outside the model and can block actions before they happen.
 
 Therefore:
@@ -41,32 +34,6 @@ They allow developers to:
 - Enforce security policies
 
 Hooks provide deterministic controls independent of model reasoning.
-
----
-
-### PreToolUse Hook
-
-One of the most important hooks is:
-
-```text
-PreToolUse
-```
-
-It executes before a tool call is performed.
-
-Flow:
-
-```text
-Agent Request
-      ↓
-PreToolUse Hook
-      ↓
-Allow or Deny Decision
-      ↓
-Tool Execution (if allowed)
-```
-
-Because the check occurs before execution, dangerous operations can be stopped completely.
 
 ---
 
@@ -180,16 +147,6 @@ This is a key Claude security principle:
 
 Hooks also create audit records.
 
-Example:
-
-```text
-Timestamp
-Identity
-Tool Used
-Resource Accessed
-Result
-```
-
 Example log:
 
 ```text
@@ -200,14 +157,6 @@ write_file
 BLOCKED
 ```
 
-Benefits:
-
-- Traceability
-- Incident investigation
-- Compliance evidence
-- Security monitoring
-
-Regulated industries often require this level of visibility.
 
 ---
 
@@ -721,25 +670,3 @@ Therefore it remains effective even when:
 - Hooks are misconfigured.
 - Hooks are bypassed.
 
----
-
-### Enterprise Security Perspective
-
-Security reviewers often ask first:
-
-```text
-What sandboxing exists?
-```
-
-because sandboxing provides:
-
-- Strong isolation
-- Deterministic enforcement
-- Defense against configuration mistakes
-
-It creates a defensible boundary around the agent.
-
-
-### Certification One-Liner
-
-> "Hooks enforce security before actions occur, audit logs provide evidence, least privilege limits impact, and OS-level sandboxing serves as the final containment layer when all other defenses fail."
