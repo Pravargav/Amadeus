@@ -1,9 +1,5 @@
 ## Matching the Grading Method to the Output
 
-For the Claude Developer Certification, one of the most important concepts is choosing the correct grading method for an eval. A grader converts model output into a measurable score, usually from 1 to 10.
-
-Using the wrong grader creates misleading results, increases cost, and wastes evaluation effort.
-
 There are three primary grading methods:
 
 1. Exact/String Match
