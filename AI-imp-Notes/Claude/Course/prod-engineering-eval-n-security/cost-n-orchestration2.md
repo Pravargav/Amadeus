@@ -429,16 +429,6 @@ async def orchestrate(task):
     return await lead.synthesize(results)
 ```
 
-Workflow:
-
-```text
-Planning
-   ↓
-Parallel Work
-   ↓
-Synthesis
-```
-
 ---
 
 ## Why Multi-Agent Helps
@@ -469,42 +459,6 @@ Use:
 Four Agents
 Reading Simultaneously
 ```
-
-Benefits:
-
-- Parallel exploration
-- Better coverage
-- Faster completion
-
----
-
-## Hiring Analogy
-
-Think of agents as employees.
-
-Single Agent:
-
-```text
-One Researcher
-```
-
-Multi-Agent:
-
-```text
-Five Researchers
-```
-
-Five researchers finish faster.
-
-But:
-
-```text
-Five Salaries
-```
-
-Cost increases substantially.
-
----
 
 ## Anthropic Findings
 
@@ -589,8 +543,6 @@ Step 3
 ```
 
 Each step depends on previous work.
-
-Parallelization provides limited benefit.
 
 A single well-contextualized agent is often cheaper and equally effective.
 
