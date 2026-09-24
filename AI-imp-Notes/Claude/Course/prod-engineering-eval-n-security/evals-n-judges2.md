@@ -55,20 +55,6 @@ Fail
 
 because the strings do not exactly match.
 
-### Advantages
-
-- Extremely cheap
-- Fast
-- Deterministic
-- Easy to implement
-
-### Disadvantages
-
-- Very brittle
-- Rejects valid paraphrases
-- Rejects harmless formatting differences
-- Not suitable for natural language generation
-
 ### Certification Rule
 
 Use Exact Match when:
@@ -151,21 +137,6 @@ Otherwise:
 Fail
 ```
 
----
-
-### Advantages
-
-- Cheap
-- Fast
-- Reliable
-- Catches structural errors
-- Easy to automate
-
-### Disadvantages
-
-- Cannot measure quality
-- Cannot evaluate reasoning
-- Cannot determine usefulness
 
 It can tell you:
 
@@ -228,8 +199,6 @@ Because:
 - JSON is valid
 - All cities are present
 - Structure is correct
-
-This demonstrates why Code-Graded Checks are often superior for structured outputs.
 
 ---
 
@@ -379,82 +348,6 @@ Better:
 
 The reasoning anchors the score to specific observations.
 
-### Certification Tip
-
-Always request:
-
-- Strengths
-- Weaknesses
-- Reasoning
-- Score
-
-not just the score.
-
----
-
-## Strengths of LLM-as-Judge
-
-Can evaluate:
-
-### Faithfulness
-
-```text
-Did the summary accurately reflect the source?
-```
-
-### Instruction Following
-
-```text
-Did the model obey the prompt?
-```
-
-### Completeness
-
-```text
-Did it include all required information?
-```
-
-### Tone
-
-```text
-Was the response professional and appropriate?
-```
-
-### Overall Quality
-
-```text
-Is the answer genuinely useful?
-```
-
----
-
-## Weaknesses of LLM-as-Judge
-
-### Expensive
-
-Each evaluation requires another model call.
-
-Example:
-
-```text
-1000 test cases
-=
-1000 additional API calls
-```
-
----
-
-### Noisy
-
-The same answer may receive slightly different scores across runs.
-
----
-
-### Subjective
-
-Quality judgments are harder to standardize than format checks.
-
----
 
 ## Judge Calibration
 
@@ -559,20 +452,6 @@ Too vague.
 
 ---
 
-Better rubric:
-
-```text
-10 = Complete, accurate, concise
-
-7-9 = Mostly complete, minor issues
-
-4-6 = Significant omissions
-
-1-3 = Incorrect or unusable
-```
-
----
-
 ### Add Examples
 
 Include:
@@ -622,129 +501,4 @@ Before Release
 
 This balances quality and cost.
 
----
-
-## Grader Selection Cheat Sheet
-
-### Exact Match
-
-Use For:
-
-```text
-Single correct value
-```
-
-Examples:
-
-- Labels
-- IDs
-- Fixed answers
-
-Pros:
-
-- Cheap
-- Fast
-- Reliable
-
-Cons:
-
-- Extremely brittle
-
----
-
-### Code-Graded Checks
-
-Use For:
-
-```text
-Structured outputs
-```
-
-Examples:
-
-- JSON
-- SQL
-- Python
-- Numeric ranges
-
-Pros:
-
-- Cheap
-- Automated
-- Flexible
-
-Cons:
-
-- Cannot evaluate quality
-
----
-
-### LLM-as-Judge
-
-Use For:
-
-```text
-Open-ended outputs
-```
-
-Examples:
-
-- Summaries
-- Essays
-- Recommendations
-- Explanations
-
-Pros:
-
-- Evaluates quality
-- Evaluates faithfulness
-- Evaluates completeness
-
-Cons:
-
-- Expensive
-- Noisy
-- Requires calibration
-
----
-
-## Certification Exam Cheat Sheet
-
-### Choose Exact Match When
-
-```text
-There is only one correct answer.
-```
-
----
-
-### Choose Code-Graded Check When
-
-```text
-Correctness can be verified using rules or parsing.
-```
-
----
-
-### Choose LLM-as-Judge When
-
-```text
-Quality matters more than format.
-```
-
----
-
-### Judge Best Practices
-
-✅ Ask for strengths
-
-✅ Ask for weaknesses
-
-✅ Ask for reasoning
-
-✅ Ask for a score
-
-✅ Calibrate against human labels
-
-✅ Improve rubric when agreement is low
 
