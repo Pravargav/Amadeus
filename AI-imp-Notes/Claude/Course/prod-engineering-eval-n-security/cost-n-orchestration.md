@@ -1,7 +1,5 @@
 ## Cost & Orchestration: Keeping Cost, Latency, and Reliability in Budget
 
-This section focuses on how to keep an AI system reliable, affordable, and fast in production. Even if a system can recover from failures, it will not be practical if costs become too high or response times become too slow.
-
 A production-ready Claude application must continuously monitor:
 
 - Token usage (input and output tokens)
@@ -17,23 +15,15 @@ These three metrics provide visibility into system performance and spending.
 During development:
 
 - Only a few API calls are made.
-- Costs are usually negligible.
-- Performance issues are difficult to notice.
 
 During production:
 
 - Thousands or millions of requests may occur.
-- Small inefficiencies become expensive.
-- User experience is heavily affected by delays.
+
 
 Without observability, teams only see a large monthly bill and cannot easily identify the cause.
 
-With observability, teams can determine:
-
-- Which workflow is expensive
-- Which step is slow
-- Which requests fail most often
-- Where optimization efforts should focus
+With observability, teams can determine.
 
 ---
 
@@ -91,12 +81,6 @@ Questions become:
 - Which operation is slowest?
 - Which request types generate the highest costs?
 
-Often a workflow appears expensive overall, but analysis reveals:
-
-- One stage produces most token usage.
-- One stage causes most latency.
-- One stage creates most failures.
-
 Optimization should target those high-impact components first.
 
 ---
@@ -106,31 +90,6 @@ Optimization should target those high-impact components first.
 Most cost and performance issues come from a few controllable factors.
 
 ### Model Selection
-
-Different models have different:
-
-- Costs
-- Speeds
-- Capabilities
-
-Best Practice:
-
-- Use smaller models for simple tasks.
-- Reserve powerful models for difficult reasoning tasks.
-
-Example:
-
-```text
-Simple classification → Small model
-
-Complex multi-step reasoning → Advanced model
-```
-
-Benefits:
-
-- Lower cost
-- Faster responses
-- Improved scalability
 
 ---
 
@@ -143,19 +102,7 @@ Large context windows often include:
 - Unnecessary conversation history
 - Excessive tool output
 - Redundant instructions
-
-Best Practice:
-
-- Keep only relevant context.
-- Remove unused information.
-- Summarize long histories when possible.
-
-Benefits:
-
-- Reduced token cost
-- Lower latency
-- Better model focus
-
+- 
 ---
 
 ### Number of Tool Calls
@@ -192,19 +139,11 @@ Best Practice:
 - Eliminate unnecessary tool usage.
 - Combine related actions when practical.
 
-Result:
-
-- Lower cost
-- Reduced latency
-- Simpler orchestration
-
 ---
 
 ### Streamed vs Batched Responses
 
 #### Batched Response
-
-User waits until the complete response is generated.
 
 ```text
 Request
@@ -216,8 +155,6 @@ User Receives Response
 
 #### Streaming Response
 
-Tokens are sent as they are generated.
-
 ```text
 Request
    ↓
@@ -225,24 +162,6 @@ Model Starts Generating
    ↓
 User Immediately Sees Tokens
 ```
-
-Even if total generation takes the same amount of time:
-
-```text
-Streaming:
-First token in 300 ms
-
-Batched:
-Entire response after 2 seconds
-```
-
-Users perceive streaming as significantly faster.
-
-Benefits:
-
-- Better user experience
-- Faster perceived performance
-
 ---
 
 ### Prompt Caching
@@ -254,13 +173,6 @@ When identical context is reused:
 - Previously processed tokens can be reused.
 - Cost decreases.
 - Response speed improves.
-
-Useful for:
-
-- Large system prompts
-- Repeated instructions
-- Shared context across conversations
-
 ---
 
 ## Streaming with Tool Use
@@ -305,25 +217,7 @@ Therefore:
 Never execute a tool from partial streamed data.
 ```
 
-Doing so can create:
-
-- Invalid JSON
-- Missing parameters
-- Downstream failures
-
----
-
 ## Correct Streaming Tool Pattern
-
-During streaming:
-
-1. Collect content blocks.
-2. Store tool-use information.
-3. Accumulate JSON fragments.
-4. Wait for stream completion.
-5. Reconstruct full tool calls.
-6. Execute tools.
-
 Example pattern:
 
 ```python
@@ -354,8 +248,6 @@ tool_calls.append({
     "input": json.loads(block["input_json"])
 })
 ```
-
-Only now is the tool input complete and safe to execute.
 
 ---
 
