@@ -2,15 +2,6 @@
 
 ### What is Model Selection?
 
-Model selection is the process of choosing the most appropriate Claude model for a specific workload.
-
-This decision affects:
-
-- Cost
-- Latency
-- Response quality
-- Scalability
-
 A common misunderstanding is:
 
 ```text
@@ -23,8 +14,6 @@ Reality:
 Model selection determines the baseline cost.
 Cost optimization happens afterward.
 ```
-
-Therefore, choosing the right model is one of the most important production decisions.
 
 ---
 
@@ -222,9 +211,6 @@ Risks:
 
 ❌ Reduced capability
 
----
-
-### Important Certification Insight
 
 Many developers assume:
 
@@ -330,19 +316,6 @@ Yes
 Try Haiku
 ```
 
----
-
-### Certification Rule
-
-Always remember:
-
-```text
-Start with Sonnet.
-Move up only when evaluation proves it is needed.
-Move down only when evaluation proves quality remains acceptable.
-```
-
----
 
 ## Routing Models in Production
 
@@ -590,9 +563,6 @@ Evaluation provides:
 - Failure rates
 - Quality comparisons
 
----
-
-### Certification Principle
 
 ```text
 Model changes must be justified by eval results.
@@ -626,14 +596,4 @@ Complex Task
         ↓
        Opus
 ```
-
-This architecture provides:
-
-✅ Controlled cost
-
-✅ Controlled latency
-
-✅ High quality
-
-✅ Scalable production performance
 
