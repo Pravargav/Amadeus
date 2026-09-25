@@ -497,3 +497,27 @@ The seam that nobody marks as a boundary is often where:
 - Security reviews fail
 - Compliance violations appear
 
+## Seam Between Two Platforms
+
+A **seam between two platforms** refers to the **integration boundary or connection point** where two different systems, applications, services, or platforms interact and exchange data.
+
+Think of a seam as the "joining line" between two pieces of fabric. The seam is where they are stitched together. In software, it's where two platforms connect.
+
+## Example
+
+Suppose you have:
+
+- Salesforce (CRM platform)
+- SAP (ERP platform)
+
+When a new customer is created in Salesforce and automatically sent to SAP, the interface/API connecting them is the **seam between the two platforms**.
+
+```text
+Salesforce
+    │
+    │ API / Integration Layer
+    ▼
+SAP
+```
+
+The integration layer is the seam.
