@@ -1,9 +1,5 @@
 ## Accelerator & IP(Intellectual Property) Contribution: Requirements and Lifecycle
 
-### What This Topic Means
-
-In the Claude Developer Certification context, understanding requirements and lifecycle is important because every AI solution, accelerator, or IP contribution should start from a clearly defined business problem. Before selecting models, cloud services, deployment platforms, or architecture patterns, developers must first identify and document what the solution needs to accomplish and the constraints under which it must operate.
-
 The lifecycle begins with:
 
 Business Problem → Functional Requirements → Infrastructure Requirements → Platform & Deployment Decisions → Implementation → Validation
@@ -251,61 +247,4 @@ Track:
 - Compliance
 - User adoption
 
-### Accelerator & IP Contribution Perspective
-
-When creating an accelerator or reusable IP asset:
-
-#### Functional Requirements Define Reusability
-
-A reusable accelerator should clearly state:
-
-- Supported use cases
-- Expected behaviors
-- Input and output patterns
-
-#### Infrastructure Requirements Define Portability
-
-The accelerator must specify:
-
-- Scaling assumptions
-- Supported deployment regions
-- Authentication requirements
-- Compliance limitations
-
-#### Documentation Defines Adoption
-
-Without documented requirements:
-
-- Teams cannot trust the solution.
-- Architects cannot approve deployments.
-- Compliance teams cannot review risk.
-- Future contributors cannot extend the IP.
-
-### Handles Well
-
-- Converts vague business goals into concrete implementation requirements.
-- Creates measurable success criteria.
-- Enables objective deployment decisions.
-- Supports governance, security, and compliance reviews.
-- Improves accelerator and IP reusability.
-
-### Adds Cost or Complexity
-
-- Requires stakeholder interviews.
-- Requires discovery and scoping workshops.
-- May delay early development work.
-- Needs documentation and review effort.
-
-However, this upfront investment typically prevents costly redesigns later.
-
-### Use a Different Approach
-
-A lightweight requirements process may be sufficient when:
-
-- Building a throwaway prototype.
-- Testing an idea internally.
-- No regulated or sensitive data is involved.
-- No formal architecture review is required.
-
-Even then, documenting basic assumptions is still recommended.
 
