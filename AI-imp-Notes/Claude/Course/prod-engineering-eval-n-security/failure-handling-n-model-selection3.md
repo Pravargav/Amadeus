@@ -569,31 +569,3 @@ Model changes must be justified by eval results.
 ```
 
 Not by intuition.
-
----
-
-## Example Production Architecture
-
-```text
-Incoming Request
-        ↓
-Task Classifier
-        ↓
-
-Simple Task?
-        ↓ Yes
-      Haiku
-
-No
-        ↓
-Normal Task?
-        ↓ Yes
-      Sonnet
-
-No
-        ↓
-Complex Task
-        ↓
-       Opus
-```
-
