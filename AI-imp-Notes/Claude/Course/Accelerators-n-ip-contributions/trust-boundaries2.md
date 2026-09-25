@@ -445,30 +445,7 @@ Security reviews focus heavily on:
 
 because vulnerabilities often hide between validated components.
 
----
 
-## Handles Well
-
-- Prevents prompt injection.
-- Improves system security.
-- Protects downstream systems.
-- Creates reviewable architectures.
-- Supports compliance requirements.
-- Strengthens multi-component deployments.
-
----
-
-## Adds Cost or Complexity
-
-- Additional architecture documentation.
-- More validation logic.
-- Security testing of data flows.
-- Boundary-level controls.
-- Audit logging requirements.
-
-However, these controls are significantly less costly than a production security incident.
-
----
 
 ## What to Watch Out For
 
