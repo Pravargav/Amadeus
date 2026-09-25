@@ -210,88 +210,6 @@ The team began building before validating:
 
 As a result, the risk appeared later when fixing it became expensive.
 
----
-
-## When Should Compliance Be Reviewed?
-
-### Incorrect Approach
-
-```text
-Build
-↓
-Test
-↓
-Security Review
-↓
-Residency Problem Found
-↓
-Rebuild
-```
-
-This creates unnecessary cost and delays.
-
----
-
-### Correct Approach
-
-```text
-Scoping
-↓
-Requirements Gathering
-↓
-Compliance Review
-↓
-Platform Selection
-↓
-Design
-↓
-Build
-```
-
-This prevents costly redesign work.
-
----
-
-## Familiarity vs Suitability
-
-### Familiarity
-
-Questions that familiarity answers:
-
-- Do we know this platform?
-- Have we used it before?
-- Can we build quickly?
-
-Advantages:
-
-- Faster development
-- Reduced learning curve
-- Lower initial effort
-
-However, familiarity alone does not determine deployability.
-
----
-
-### Suitability
-
-Questions that suitability answers:
-
-- Does it meet residency requirements?
-- Does it satisfy compliance obligations?
-- Is it approved by the customer?
-- Can it pass review?
-
-Suitability determines whether the solution can reach production.
-
----
-
-### Certification Principle
-
-Always remember:
-
-> The easiest platform to build on is not always the correct platform to deploy on.
-
----
 
 ## Scoping Is Critical
 
@@ -375,49 +293,6 @@ When creating reusable accelerators and IP assets:
 
 Build accelerators that can support multiple deployment environments when possible.
 
----
 
-### Document Compliance Assumptions
-
-Clearly state:
-
-- Residency assumptions
-- Identity assumptions
-- Security assumptions
-- Platform limitations
-
----
-
-### Validate Customer Requirements First
-
-Before selecting a platform:
-
-1. Review compliance requirements.
-2. Review residency constraints.
-3. Review customer-approved environments.
-4. Then choose the platform.
-
----
-
-## Handles Well
-
-- Prevents costly redesigns.
-- Improves deployment success.
-- Supports compliance approvals.
-- Creates defensible platform decisions.
-- Aligns architecture with customer needs.
-- Reduces project risk.
-
----
-
-## Adds Cost or Complexity
-
-- Additional scoping discussions.
-- Compliance reviews.
-- Security assessments.
-- Platform evaluation effort.
-- Early stakeholder involvement.
-
-However, these costs are far smaller than rebuilding after deployment rejection.
 
 
