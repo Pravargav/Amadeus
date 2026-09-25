@@ -437,30 +437,3 @@ For this conversation,
 respond in bullet points only.
 ```
 
----
-
-## Important Certification Takeaway
-
-Remember this simple decision flow:
-
-```text
-Need memory across sessions?
-        |
-       Yes
-        |
-External Storage
-or
-Summarized Memory
-        |
-       No
-        |
-Short Session?
-   /         \
- Yes         No
-  |           |
-In-Context  Stateless
-```
-
----
-
--> Note: Overhead means extra work, cost, time, or resources required to perform something.
