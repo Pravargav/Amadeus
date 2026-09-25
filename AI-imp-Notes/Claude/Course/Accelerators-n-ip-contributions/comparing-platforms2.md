@@ -281,17 +281,6 @@ Late Discovery Cost:
 Entire Rebuild
 ```
 
-The certification emphasizes that identifying constraints early is significantly cheaper than redesigning later.
-
----
-
-## Lessons for Accelerator and IP Contributions
-
-When creating reusable accelerators and IP assets:
-
-### Do Not Assume a Platform
-
-Build accelerators that can support multiple deployment environments when possible.
 
 
 
