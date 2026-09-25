@@ -226,31 +226,6 @@ If these questions are answered clearly, review becomes much faster.
 
 ---
 
-## Benefits of Contributing Back
-
-### Handles Well
-
-- Makes reusable assets available to everyone.
-- Creates shared infrastructure.
-- Reduces duplicate work.
-- Helps future teams build faster.
-
-### Adds Cost and Complexity
-
-Additional work is required beyond writing code:
-
-- Documentation
-- Tests
-- Examples
-- Rights verification
-- Attribution checks
-
-This effort is what makes reuse possible.
-
----
-
-## When NOT to Contribute
-
 Do not contribute when:
 
 - Licensing restrictions exist.
@@ -332,43 +307,4 @@ Documents:
 
 These three items dramatically increase review speed.
 
----
-
-## Certification Exam Takeaways
-
-Remember these key points:
-
-### Contributing Back
-
-- Moves an asset from private reuse to shared infrastructure.
-
-### Maintainers Accept What They Can Verify
-
-Verification requires:
-
-1. Focused code
-2. Runnable example
-3. Automated test
-4. Documented assumptions
-
-### Channel Matching Matters
-
-- Cookbook → Focused examples.
-- MCP repositories → Tools, servers, fixes.
-
-### Licensing Before Technical Review
-
-Always verify:
-
-- Contribution rights
-- Customer permissions
-- Attribution requirements
-
-### Common Reason Contributions Stall
-
-Maintainers cannot verify:
-
-- What it does
-- How it runs
-- Whether it works
 
