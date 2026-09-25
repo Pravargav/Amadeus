@@ -508,3 +508,97 @@ Terminal Failure
 | Tool Failure | Depends | Retry only if transient | Return `is_error=True` |
 | Model Refusal | No | Fail fast | Surface refusal |
 
+## Note: Exponential Backoff
+# Exponential Backoff
+
+**Exponential backoff** is a retry strategy used when an application call fails temporarily, such as due to:
+
+- Network issues
+- API rate limits
+- Service overload
+- Timeouts
+
+Instead of retrying immediately and repeatedly, the application waits for progressively longer intervals between retries.
+
+## Example
+
+If the initial delay is **1 second**, the retries happen as follows:
+
+| Retry Attempt | Wait Time |
+|--------------|------------|
+| 1st retry | 1 second |
+| 2nd retry | 2 seconds |
+| 3rd retry | 4 seconds |
+| 4th retry | 8 seconds |
+| 5th retry | 16 seconds |
+
+The delay grows exponentially, typically doubling after each failed attempt.
+
+## Why Use Exponential Backoff?
+
+Without exponential backoff:
+
+```text
+Request fails
+↓
+Retry immediately
+↓
+Fails again
+↓
+Retry immediately
+↓
+Thousands of clients do the same
+↓
+Service becomes even more overloaded
+```
+
+With exponential backoff:
+
+```text
+Request fails
+↓
+Wait 1s
+↓
+Retry
+↓
+Wait 2s
+↓
+Retry
+↓
+Wait 4s
+↓
+Retry
+```
+
+This gives the failing service time to recover and reduces traffic spikes.
+
+## Example Code
+
+```python
+import time
+
+delay = 1
+
+for attempt in range(5):
+    try:
+        response = call_api()
+        break
+    except TemporaryError:
+        time.sleep(delay)
+        delay *= 2
+```
+
+If the API is temporarily unavailable, the client waits 1 second, then 2 seconds, then 4 seconds, and so on before retrying.
+
+## Exponential Backoff with Jitter
+
+Many systems add a random delay (**jitter**) to prevent large numbers of clients from retrying at exactly the same moment.
+
+Example:
+
+```text
+Retry 1: 1.3s
+Retry 2: 2.7s
+Retry 3: 4.4s
+Retry 4: 8.9s
+```
