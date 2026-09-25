@@ -161,16 +161,6 @@ Correct Assumption:
 Every receiving component validates data independently.
 ```
 
-Every boundary is a potential location for:
-
-- Prompt injection
-- Data poisoning
-- Unauthorized access
-- Information leakage
-- Privilege escalation
-
----
-
 ## Treat Fetched Content as Data
 
 One of the most important certification concepts:
@@ -451,32 +441,7 @@ Every connection is treated as a trust boundary.
 
 Every boundary has an associated control.
 
----
 
-## Handles Well
-
-- Creates reviewable architectures.
-- Improves security posture.
-- Supports compliance approvals.
-- Limits privilege escalation.
-- Protects against prompt injection.
-- Enables auditability.
-- Supports regulated deployments.
-
----
-
-## Adds Cost or Complexity
-
-- Additional architecture planning.
-- Permission management.
-- Identity configuration.
-- Boundary validation.
-- Security design reviews.
-- Audit logging implementation.
-
-However, these controls significantly reduce operational and compliance risk.
-
----
 
 ## When to Escalate
 
