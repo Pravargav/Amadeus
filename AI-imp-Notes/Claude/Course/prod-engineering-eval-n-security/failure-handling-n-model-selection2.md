@@ -4,23 +4,6 @@
 
 One of the biggest mistakes developers make is assuming that because an API call never failed during development, it will never fail in production.
 
-Development environments usually have:
-
-- Low traffic
-- Stable internet connections
-- Small test datasets
-- Limited concurrency
-
-Production environments introduce conditions that are difficult to reproduce manually:
-
-- Rate limits
-- API overload
-- Network interruptions
-- Timeouts
-- Service outages
-- Invalid responses under load
-
-As a result, code that appears perfectly stable during testing may fail immediately when real users start using it.
 
 ---
 
@@ -339,23 +322,6 @@ This implementation:
 
 ---
 
-## Certification Takeaway
-
-### What Broke?
-
-A retriable error occurred:
-
-```text
-429 Rate Limit
-```
-
-But the application:
-
-```text
-Had no error-handling path.
-```
-
----
 
 ### Why Did the Immediate Retry Fail?
 
@@ -383,10 +349,6 @@ The application increased the load instead of reducing it.
        - Fail fast
        - Surface the error
 ```
-
----
-
-### Claude Developer Certification Exam Tip
 
 If a scenario describes:
 
