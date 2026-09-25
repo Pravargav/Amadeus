@@ -184,14 +184,6 @@ For certification purposes:
 
 In many enterprise projects, compliance eliminates several platform choices immediately.
 
-A platform may provide:
-
-- Excellent performance
-- Low cost
-- Rich features
-
-Yet still be unusable if compliance requirements are not met.
-
 For regulated industries, compliance is often:
 
 ```text
@@ -524,30 +516,7 @@ Amazon Bedrock
 
 would likely be selected because compliance requirements outweigh feature timing.
 
----
 
-## Handles Well
-
-- Creates defensible deployment decisions.
-- Provides evidence for architecture reviews.
-- Supports procurement approval.
-- Supports security reviews.
-- Supports compliance validation.
-- Reduces deployment risk.
-
----
-
-## Adds Cost or Complexity
-
-- Requires benchmarking.
-- Requires compliance reviews.
-- Requires latency testing.
-- Requires cost modeling.
-- Requires stakeholder alignment.
-
-The effort increases before deployment but reduces risk after deployment.
-
----
 
 ## When a Full Comparison Is Not Needed
 
@@ -566,6 +535,7 @@ If only one platform satisfies that requirement:
 
 The compliance constraint alone determines placement.
 
+-----
 
 ## Note: Payload
 
