@@ -295,30 +295,3 @@ Include:
 
 This allows future teams to prove the template still works.
 
----
-
-### Certification Takeaway
-
-For Claude Developer Certification, remember:
-
-> A working template is not automatically a reusable template.
-
-A reusable asset requires three things:
-
-#### 1. Parameterization
-
-Customer-specific values become configuration.
-
-#### 2. Documentation
-
-Assumptions and requirements are clearly explained.
-
-#### 3. Evaluation
-
-A bundled eval proves the asset still works after changes.
-
-Key lesson:
-
-> The best time to package an asset for reuse is immediately after the build is completed, while the knowledge of what is customer-specific is still fresh in the team's mind.
-
-If parameterization, documentation, and evals are missing, the next team will spend more time rebuilding the solution than reusing it, defeating the purpose of an accelerator.
