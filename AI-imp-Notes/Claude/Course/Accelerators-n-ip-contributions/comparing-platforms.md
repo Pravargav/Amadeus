@@ -567,6 +567,64 @@ If only one platform satisfies that requirement:
 The compliance constraint alone determines placement.
 
 
-### Most Important Exam Statement
+## Note: Payload
 
-A platform decision should be based on **measured latency, validated compliance requirements, and total workload cost**, ensuring the deployment choice can be successfully defended during security, compliance, and procurement reviews.
+A **payload** is the actual data being sent from one system to another in a request, response, message, or event.
+
+Think of it as the **useful content** of a message, excluding metadata such as headers, routing information, or protocol details.
+
+## Example: HTTP API Request
+
+### Request
+
+```http
+POST /users HTTP/1.1
+Host: api.example.com
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "email": "john@example.com"
+}
+```
+
+### Here:
+
+- **Headers**
+  - `Host`
+  - `Content-Type`
+
+- **Payload**
+
+```json
+{
+  "name": "John Doe",
+  "email": "john@example.com"
+}
+```
+
+The payload contains the data the server needs to create the user.
+
+## Example: HTTP API Response
+
+### Response
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "id": 123,
+  "name": "John Doe"
+}
+```
+
+### Payload
+
+```json
+{
+  "id": 123,
+  "name": "John Doe"
+}
+```
+
