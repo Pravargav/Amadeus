@@ -1,3 +1,12 @@
+# In this MCP example, sampling means:
+
+# The MCP server is asking the client to have an LLM generate a response on its behalf.
+
+# Think of it as:
+
+# Tool calling: Model → Server
+# Sampling: Server → Model
+
 import asyncio
 from anthropic import AsyncAnthropic
 from mcp import ClientSession, StdioServerParameters
