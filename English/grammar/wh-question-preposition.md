@@ -7,25 +7,13 @@ verb + preposition
 
  Examples:
 
-Who are you talking to?
-
-(talk to someone)
-
 What are you looking for?
-
- (look for something)
 
 Whom are you reporting to?
 
- (report to someone)
-
 Which company are you working for?
 
- (work for a company)
-
 Where did you come from?
-
- (come from somewhere)
 
 ---
 
