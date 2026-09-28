@@ -1,4 +1,4 @@
-
+---
  
 Because after **“used for”**, we normally use a **noun** or **verb + ing** form.
  
@@ -31,7 +31,6 @@ Usually followed by:
 - This soap is used **to wash** clothes.
 - Give it **to me**.
 
----
 
 ## 🔹 For
 Shows **purpose, benefit, reason, or duration**.
