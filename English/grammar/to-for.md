@@ -1,7 +1,4 @@
-The correct form is:
- 
-✅ **used to wash**  
-❌ **used for wash**
+
  
 Because after **“used for”**, we normally use a **noun** or **verb + ing** form.
  
@@ -50,26 +47,5 @@ Usually followed by:
 ### Examples
 - This soap is **for clothes**.
 - This soap is used **for washing** clothes.
-- I bought this **for you**.
+- I bought this **for you**
 
----
-
-# Easy Way to Remember
-
-## ✅ to + verb
-- to eat
-- to play
-- to wash
-
-## ✅ for + noun / verb+ing
-- for food
-- for playing
-- for washing
-
----
-
-# Correct Usage
-
-✅ used to wash  
-✅ used for washing  
-❌ used for wash
