@@ -158,7 +158,7 @@ I work on weekends too.(less formal but short)
 
 -> Which company does this building belong to? 
 
--> In my next life, I want to be born as a bird.(be +v3)
+-> In my next life, I want to/will be born as a bird.(be +v3)
 
 -> We should bowl above waist or shoulder height.
 
@@ -168,7 +168,7 @@ I work on weekends too.(less formal but short)
 
 -> Kindly stick to your word/decision.
 
--> Kindly state the reason.
+-> Kindly state/share the reason.
 
 -> Please open and display the application.
 
@@ -184,15 +184,11 @@ I work on weekends too.(less formal but short)
 
 -> I was graduated from university.❌
 
--> We called off the strike/protest. → We decided to stop or cancel it.
+-> We called off the strike/protest. - We decided to stop or cancel it.
 
 -> He might have denied access.
 
 -> The access might have been denied by him.
-
--> The access might have denied.❌
-
--> The access might be denied.
 
 -> I’m sensitive to deodorants because they trigger my asthma.
 
