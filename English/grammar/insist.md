@@ -44,20 +44,4 @@ They insisted that we stay longer.
 
 👉 Focus = a full idea or statement
 
----
 
-Used when the object or idea is already 
-
-understood from context.
-
-Examples:
-
-“Are you sure?” — “Yes,” he insisted.
-
-She refused to listen, but he insisted.
-
-I said no, but they insisted.
-
-👉 Meaning is complete from previous 
-
-sentence.
