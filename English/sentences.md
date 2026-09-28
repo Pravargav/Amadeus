@@ -1,5 +1,3 @@
--> They are passing by this street.
-
 -> bp1 works fine; however, bt1 continues to show the same error despite repeated attempts.
 
 -> The tyres sank into the ground under the truck's weight.
@@ -193,3 +191,5 @@ I work on weekends too.(less formal but short)
 -> I’m sensitive to deodorants because they trigger my asthma.
 
 -> Three PCs have failed. ✅
+
+-> They are passing by this street.
