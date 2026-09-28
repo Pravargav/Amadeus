@@ -14,8 +14,6 @@
 
 ***Emphasise person***
 
--> You are the person responsible.
-
 -> The manager himself approved it.
 
 -> They themselves admitted the mistake.
@@ -48,10 +46,6 @@
 
 -> I did the same thing you suggested
 
--> This is the very same issue we discussed yesterday
-
--> That is the very same place I visited last year
-
 ---
 
 ***Emphasis using alone***
@@ -60,25 +54,11 @@
 
 -> The mistake alone caused the problem
 
--> Your explanation alone was enough for me to understand
-
 -> The book alone can teach you the basics
-
--> His experience alone got him the job
-
--> Her smile alone made everyone happy
-
--> Money alone cannot buy happiness
-
--> This evidence alone proves he is innocent
 
 ---
 
 ***Emphasis using very(exact or precise):***
-
--> This is the very reason I called you
-
--> This is the very problem we discussed
 
 -> The job triggered in the very next run
 
@@ -100,12 +80,6 @@
 
 -> He even tried restarting the system
 
--> She even called the manager
-
--> Even a child can solve this problem 
-
--> Even the teacher did'nt know the answer
-
 ---
 
 ***Emphasis using right(exactly/precisely/immediately):***
@@ -118,17 +92,11 @@
 
 -> The shop is right there
 
--> The problem is right here in the place
-
 -> The job failed right now
 
 -> He arrived right at 10 am.
 
--> The error happend right when the process started.
-
--> The system crashed right after the update
-
--> The job failed right before completion
+-> The system crashed right after the update.
 
 -> The office is right next to the station
 
@@ -140,15 +108,7 @@
 
 ***Emphasis using just(small/exact/immediate):***
 
--> The office is just around the corner
-
 -> He is just outside the building
-
--> The job failed just before the completion
-
--> He arrived just after the meeting
-
--> I just want to help(only)
 
 -> She just needs a little time(only)
 
@@ -157,14 +117,6 @@
 -> It is just a small mistake.(simply)
 
 -> I just asked a question.(simply)
-
--> It just happened suddenly.(simply)
-
--> This is just what I needed.
-
--> This is just what I was thinking.
-
--> This is just the problem we discussed.
 
 ---
 
@@ -176,12 +128,6 @@
 
 -> He knows Java as well as Python.
 
--> Some employees worked as late as midnight.
-
--> She woke up as early as 4 AM.
-
--> The deal is as good as confirmed.
-
 ---
 
 ***Emphasis using certainly***
@@ -192,8 +138,6 @@
 
 -> The file size will certainly be larger than 1 GB.
 
--> The cost will certainly exceed ₹10,000.
-
 ---
 
 -> The door closed by itself/ The machine stopped by itself.
@@ -202,51 +146,19 @@
 
 ---
 
--> There are 200 students in my class alone/ only in my class.
+-> There are 200 students in my class alone(only in my class).
 
 -> I only helped him.(I did nothing more than help him.)
 
 -> I helped only him.(I didn’t help anyone else.)
 
--> You only tell me. (Indian meaning: You yourself tell me.) ❌
-
--> You are the one who should tell me.
-
--> I only solved the problem.
-
-a-(I didn’t do anything more than solve the problem.)
-
-b-(I was the person who solved it.❌)
-
 -> She is my sister only.❌
 
 -> She is my own sister.
 
----
-
 -> The journey alone feels good.
 
 -> The home is quite peaceful.
-
--> This phone is as good as new after the repair.
-
-
-
--> I cut myself.
-
--> He completed the project himself without anyone's help.
-
--> They even burst crackers on the road. Emphasis on the action (bursting crackers was surprising).
-
--> They burst crackers even on the road. Emphasis on the place (the road was an unexpected place).
-
--> Who buys that much expensive saree?❌
-
--> Who buys such an expensive saree?
-
--> Who drinks this much amount of milk?❌
-
--> Who drinks such a large amount of milk?
 
 -> What I need is rest.
 
@@ -256,13 +168,8 @@ b-(I was the person who solved it.❌)
 
 -> quite impossible.(completely impossible (strong)).
 
+-> I only solved the problem.
 
--> She called me right after/before the meeting.
+a-(I didn’t do anything more than solve the problem.)
 
--> He arrived right at 5 pm/right at the moment/right then.
-
--> I met him right yesterday.❌
-
--> I met him just yesterday.
-
--> I met him yesterday itself (Indian English).❌
+b-(I was the person who solved it.❌)
