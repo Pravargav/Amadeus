@@ -1,7 +1,5 @@
 Emphasise the day (today / yesterday / tomorrow) in British English ✅
 
-
-
 ---
 
 🇬🇧 1️⃣ Emphasising TODAY
@@ -28,8 +26,6 @@ I’ll definitely finish it tomorrow.
 
 I am completing it tomorrow. ⭐ (confident British tone)
 
-Tomorrow is when I’ll complete it. (focus on the day)
-
 ---
 
 🧠 Main Emphasis Techniques (British English)
@@ -45,27 +41,6 @@ only yesterday
 did + verb- 
 did complete
 
-word order change- 
-Tomorrow is when…
-
 adverbs- 
 definitely, actually
-
-
-
----
-
-⭐ Best simple emphasis pattern
-
-👉 Day + is when + action
-
-Today is when I completed it.
-
-Yesterday is when I finished it.
-
-Tomorrow is when I’ll complete it.
-
-
-
----
 
