@@ -100,6 +100,8 @@ human tendency
 
 bare foot
 
+run out of(charge, money, data)
+
 ruled out
 
 which factor
