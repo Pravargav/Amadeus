@@ -193,3 +193,5 @@ I work on weekends too.(less formal but short)
 -> Three PCs have failed. ✅
 
 -> They are passing by this street.
+
+-> My laptop has run out of charge.
