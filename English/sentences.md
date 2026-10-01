@@ -195,3 +195,5 @@ I work on weekends too.(less formal but short)
 -> They are passing by this street.
 
 -> My laptop has run out of charge.
+
+-> It has faded away. ✅
