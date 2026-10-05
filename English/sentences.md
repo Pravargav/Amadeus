@@ -197,3 +197,7 @@ I work on weekends too.(less formal but short)
 -> My laptop has run out of charge.
 
 -> It has faded away. ✅
+
+-> I failed my parents.
+
+-> I have failed in my career.
