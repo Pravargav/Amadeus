@@ -216,6 +216,8 @@ consists
 
 condition 
 
+cleverly 
+
 contain
 
 consisting 
@@ -1111,6 +1113,8 @@ worship
 wander
 
 witness
+
+wisely
 
 wise
 
