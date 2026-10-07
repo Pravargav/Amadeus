@@ -1,3 +1,5 @@
+although 
+
 addressing 
 
 apart(adeeekakaundaa)
@@ -41,6 +43,8 @@ aching
 absence
 
 assign
+
+although(alternative form of even though)
 
 admit
 
@@ -197,6 +201,8 @@ compensating
 complementary 
 
 checkout 
+
+conflict 
 
 clutter 
  
