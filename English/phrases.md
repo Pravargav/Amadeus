@@ -34,6 +34,10 @@ vehicles passing
 
 status bar
 
+can lead
+
+may lead
+
 such level of scarcity(such amount of)
 
 progress bar
