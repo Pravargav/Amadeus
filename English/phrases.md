@@ -16,6 +16,10 @@ state the reason/issue(share the reason or issue)
 
 throws error
 
+can result 
+
+may result 
+
 put out(fire)
 
 run out(aypotam)
