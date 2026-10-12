@@ -16,8 +16,6 @@ state the reason/issue(share the reason or issue)
 
 throws error
 
-can result 
-
 may result 
 
 put out(fire)
@@ -33,8 +31,6 @@ days/months passed
 vehicles passing 
 
 status bar
-
-can lead
 
 may lead
 
