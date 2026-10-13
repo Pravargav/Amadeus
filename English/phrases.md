@@ -16,8 +16,6 @@ state the reason/issue(share the reason or issue)
 
 throws error
 
-may result 
-
 put out(fire)
 
 run out(aypotam)
@@ -31,8 +29,6 @@ days/months passed
 vehicles passing 
 
 status bar
-
-may lead
 
 such level of scarcity(such amount of)
 
