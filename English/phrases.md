@@ -106,6 +106,8 @@ ruled out
 
 which factor
 
+poem and essense (padyam and bhavam)
+
 step back(taggadam)
 
 cover up(tappulu kappipuchukotam/conceal)
