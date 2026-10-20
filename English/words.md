@@ -754,6 +754,8 @@ pit
 
 pit
 
+proverb(sametha)
+
 practice
 
 provide
@@ -797,6 +799,8 @@ priests
 purchase 
 
 pleasing 
+
+proverb(sametha)
 
 pretend
 
