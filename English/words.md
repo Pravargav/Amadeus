@@ -58,6 +58,8 @@ asleep
 
 arch
 
+advancing(technology)
+
 accused 
 
 apetite
