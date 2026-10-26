@@ -201,3 +201,5 @@ I work on weekends too.(less formal but short)
 -> I failed my parents.
 
 -> I have failed in my career.
+
+-> How long will it take to finish the homework?
