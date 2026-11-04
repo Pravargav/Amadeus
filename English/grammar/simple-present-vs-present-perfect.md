@@ -1,4 +1,3 @@
-Here is the cleaned-up, GitHub-ready Markdown version. I've also clarified a few grammar nuances, particularly the difference between "I have worked here" and "I have worked here for one year."
 
 # Simple Present vs Present Perfect
 
