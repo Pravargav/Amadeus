@@ -1,4 +1,4 @@
-# 1. Question: What does "It might have happened" mean?
+## 1. Question: What does "It might have happened" mean?
 
 **Options:**
 
@@ -29,7 +29,7 @@ Examples:
 
 ---
 
-# 2. Question: Give sentences for meanings (a) and (c).
+## 2. Question: Give sentences for meanings (a) and (c).
 
 ## Answer (a): Possibility is approximately 50%
 
