@@ -1,8 +1,8 @@
 
 
-# Why Do We Say "I Don't Understand" Instead of "I Am Not Understanding"?
+## Why Do We Say "I Don't Understand" Instead of "I Am Not Understanding"?
 
-## 1. Main Question
+### 1. Main Question
 
 Why do we say:
 
@@ -21,7 +21,7 @@ Therefore, we generally use Simple Present instead of Present Continuous with th
 
 ---
 
-## 2. Compare These Sentences
+### 2. Compare These Sentences
 
 | Sentence | Correct? | Explanation |
 |---|---|---|
@@ -30,25 +30,10 @@ Therefore, we generally use Simple Present instead of Present Continuous with th
 | I know the answer. | ✅ | Describes a state of knowledge. |
 | I am knowing the answer. | ❌ | Know is a stative verb. |
 
----
-
-## 3. More Examples of Stative Verbs
-
-We generally don't use these verbs in continuous forms when they describe states.
-
-| Simple Present | Incorrect in Ordinary Usage |
-|---|---|
-| I don't know. | I am not knowing. |
-| I don't believe you. | I am not believing you. |
-| I don't remember. | I am not remembering. |
-| I don't like it. | I am not liking it. |
-| I need help. | I am needing help. |
-| I want some water. | I am wanting some water. |
-| I understand the concept. | I am understanding the concept. |
 
 ---
 
-## 4. Difference Between Don't, Didn't and Haven't
+### 4. Difference Between Don't, Didn't and Haven't
 
 Consider these three sentences:
 
@@ -68,7 +53,7 @@ Consider these three sentences:
 
 ---
 
-## 5. Important Qualification
+### 5. Important Qualification
 
 Some stative verbs can be used in continuous forms when their meaning changes or when they describe an activity.
 
@@ -81,7 +66,7 @@ However, **understand** is generally not used in the continuous form in ordinary
 
 ---
 
-## 6. Final Takeaway
+### 6. Final Takeaway
 
 Don't automatically use Present Continuous just because something is happening at the moment.
 
