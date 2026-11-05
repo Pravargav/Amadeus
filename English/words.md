@@ -308,6 +308,8 @@ definitely
 
 directs
 
+devoid
+
 disappoint
 
 deity
