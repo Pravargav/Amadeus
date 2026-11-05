@@ -203,3 +203,7 @@ I work on weekends too.(less formal but short)
 -> I have failed in my career.
 
 -> How long will it take to finish the homework?
+
+-> We ordered pizza, but we should have chosen pasta instead.
+
+-> They settled the case out of court, but I would rather have seen it go to trial.
