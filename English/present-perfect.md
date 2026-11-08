@@ -1,16 +1,6 @@
 
-# Simple Present vs Present Perfect
-
-## 1. Main Difference
-
-The main difference is:
-
-- **Simple Present:** Describes habits, facts, states and situations that are generally true or currently exist.
 - **Present Perfect:** Describes past actions, experiences or situations that have a connection to the present.
 
-Let's understand this with everyday and office examples.
-
----
 
 ## 2. Sentence Structure
 
@@ -27,29 +17,7 @@ Let's understand this with everyday and office examples.
 - I, You, We, They → **Have**
 - He, She, It → **Has**
 
-Examples:
-
-- I have completed the assignment.
-- She has completed the assignment.
-- They have learned Java.
-- He has learned Java.
-
----
-
 ## 3. Habits vs Completed Actions and Experiences
-
-### A. Simple Present
-
-Used to describe habits, repeated actions and current situations.
-
-Examples:
-
-- I learn Java every day.
-- I work in an IT company.
-- She goes to the gym regularly.
-- He drinks coffee every morning.
-
-These sentences describe habits or situations that are currently true.
 
 ### B. Present Perfect
 
@@ -213,12 +181,12 @@ Simple Past focuses on an action completed at a particular time in the past.
 | Simple Present | Present Perfect |
 |---|---|
 | Every day | Already |
+| Every week | Recently |
 | Usually | Just |
 | Often | Yet |
+| Regularly | So far |
 | Sometimes | Ever |
 | Always | Never |
-| Every week | Recently |
-| Regularly | So far |
 | Generally | Since / For |
 
 Note: These are common associations, not strict rules. Some expressions can be used with other tenses depending on context.
@@ -252,9 +220,4 @@ Examples:
 5. **Since:** Describes the starting point.
 6. Avoid Present Perfect with finished, specific past-time expressions such as yesterday, last year and two days ago.
 
-**The most important distinction:**
 
-- `I work here.` → Current situation.
-- `I have worked here.` → Past work experience.
-- `I have worked here for one year.` → Started in the past and normally continues now.
-- `I worked here last year.` → Completed past situation.
