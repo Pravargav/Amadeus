@@ -1,3 +1,5 @@
+cover up(tappulu kappipuchukotam/conceal)
+
 business essential
 
 took off(teeseytam battalu/shoes)
@@ -110,5 +112,5 @@ poem and essense (padyam and bhavam)
 
 step back(taggadam)
 
-cover up(tappulu kappipuchukotam/conceal)
+
 
