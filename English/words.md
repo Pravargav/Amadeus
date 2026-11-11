@@ -278,6 +278,8 @@ despite
 
 divert
 
+differentiates
+
 discontinued 
 
 discomfort 
@@ -943,6 +945,8 @@ sewer(kalava)
 sludge(buradha)
 
 solitude 
+
+separates
 
 strip(remove clothes)
 
