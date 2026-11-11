@@ -28,6 +28,8 @@ assured
 
 ambiguity 
 
+acknowledge
+
 alright
  
 ailment 
