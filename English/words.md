@@ -744,6 +744,8 @@ proximity
 
 pole 
 
+preceed 
+
 possess(kaligiundatam)
 
 pillar
@@ -757,6 +759,8 @@ phasing
 pit
 
 pit
+
+preceeding 
 
 proverb(sametha)
 
