@@ -6,6 +6,10 @@ apart(adeeekakaundaa)
 
 ago
 
+acknowledgment
+
+admit
+
 adapt
 
 appealing 
