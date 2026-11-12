@@ -1,4 +1,6 @@
-cover up(tappulu kappipuchukotam/conceal)
+cover up(tappulu kappipuchukotam)
+
+cover up(conceal)
 
 business essential
 
@@ -6,7 +8,7 @@ took off(teeseytam battalu/shoes)
 
 each other 
 
-which aspect 
+one another
 
 manufacturing facility 
 
@@ -53,6 +55,8 @@ noticed the behaviour
 tested functionlity
 
 which factor
+
+which aspect 
 
 which category 
 
