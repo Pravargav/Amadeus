@@ -181,11 +181,6 @@ I work on weekends too.(less formal but short)
 
 -> The stitches have loosened or opened up.(You do not need to use "were opened" or simply "opened"; "have opened" is also grammatically correct.)
 
-------
-
 -> In my next life, I want to/will be born as a bird.(be +v3)
-
-
-
 
 
