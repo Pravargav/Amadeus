@@ -189,7 +189,5 @@ I work on weekends too.(less formal but short)
 
 -> Which company does this building belong to? 
 
--> I failed my parents.
 
--> I have failed in my career.
 
