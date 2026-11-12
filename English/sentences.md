@@ -185,9 +185,7 @@ I work on weekends too.(less formal but short)
 
 -> In my next life, I want to/will be born as a bird.(be +v3)
 
--> Which company's building is this?
 
--> Which company does this building belong to? 
 
 
 
