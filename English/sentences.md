@@ -2,11 +2,15 @@
 
 -> The tyres sank into the ground under the truck's weight.
 
--> Are you alright/feeling better now? 
+-> Are you alright? 
+
+-> Are you feeling better now? 
 
 -> Different times of the day affect our mood and energy levels.
 
 -> I should live up to the trust placed in me.
+
+-> I owe it to them to deliver on the trust they have put in me.
 
 -> Listening to the news is over for today.(passive voice)
 
@@ -18,13 +22,17 @@
 
 -> He ran fast to catch the train. 
 
--> He jumped off the table./She fell off the bike.(Movement from a surface - top → down)
+-> He jumped off the table.(Movement from a surface - top → down)
 
--> The plane - flew over the building/ - is above the building.
+-> She fell off the bike.(Movement from a surface - top → down)
+
+-> The plane flew over the building
+
+-> The balloon is above the building
 
 -> She walked past the hospital.(You do NOT enter. You do NOT stop. You just go beyond it.)
 
--> She drove through the market. (inside the market area)- (Through -go inside and come out)
+-> She drove through the market. (inside the market area i.e. through means go inside and come out.)
 
 -> I missed checking this week’s shift details earlier.
 
@@ -110,8 +118,6 @@
 
 -> Keep looking straight ahead while walking.
 
--> One should always believe in oneself.
-
 -> He keeps laying the blame on others.
 
 -> Have you had/eaten breakfast?
@@ -132,7 +138,6 @@
 
 -> Submit the assignment by 5 PM. (You can submit at 3 PM, 4 PM, or 5 PM — but not after 5.)
 
-
 -> Also - usually comes before the main verb or after “be.”
 
 -> Too - usually comes at the end of the sentence.
@@ -145,6 +150,10 @@ I work on weekends too.(less formal but short)
 -> I don’t know either.
 
 ->  I don’t know too.❌
+
+-> How long(much time) will it take to finish the homework?
+
+------
 
 -> At least pretend that you are working.
 
@@ -170,23 +179,9 @@ I work on weekends too.(less formal but short)
 
 -> Please open and display the application.
 
--> The message is displayed after login.
-
 -> I will throw the stone into the bucket. (If you're tossing it into the bucket.)
 
 -> The stitches have come open.  (The stitches have loosened or opened.)
-
--> I have graduated from university. ✅
-
--> I graduated from university.✅
-
--> I was graduated from university.❌
-
--> We called off the strike/protest. - We decided to stop or cancel it.
-
--> He might have denied access.
-
--> The access might have been denied by him.
 
 -> I’m sensitive to deodorants because they trigger my asthma.
 
@@ -194,15 +189,11 @@ I work on weekends too.(less formal but short)
 
 -> They are passing by this street.
 
--> My laptop has run out of charge.
-
 -> It has faded away. ✅
 
 -> I failed my parents.
 
 -> I have failed in my career.
-
--> How long(much time) will it take to finish the homework?
 
 -> We ordered pizza, but we should have chosen pasta instead.
 
