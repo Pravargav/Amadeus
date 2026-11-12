@@ -18,15 +18,13 @@ one another
 
 manufacturing facility 
 
-phased out
-
 displaying error 
-
-state the reason/issue(share the reason/issue)
 
 throws error
 
 put out(fire)
+
+phased out
 
 run out(aypotam)
 
@@ -61,6 +59,8 @@ stagnating water
 stated that
 
 state that
+
+state the reason/issue(share the reason/issue)
 
 noticed the behaviour
 
@@ -126,6 +126,6 @@ desired location
 
 desired item
 
-versions of Ramayana 
+various versions
 
 version of story
