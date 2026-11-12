@@ -58,8 +58,6 @@ stagnating water
 
 stated that
 
-state that
-
 state the reason/issue(share the reason/issue)
 
 noticed the behaviour
