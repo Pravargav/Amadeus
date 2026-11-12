@@ -8,6 +8,10 @@ took off(teeseytam battalu)
 
 took off(teeseytam shoes)
 
+come off(oodi ochesayii buttonlu)
+
+come off(oodi ochesayii kutlu)
+
 each other 
 
 one another
@@ -86,19 +90,15 @@ conduct survey
 
 you answer(instead of 'you tell')
 
+please answer
+
 sense of achievement 
 
 folding clothes 
 
-find out(discover)
-
-come off(oodi ochesayii buttonlu/kutlu)
-
 brought up(peragatam or penchatam)
 
-cover up(cover cheytam/cover drive/conceal)
-
-place feilder(cricket boundary deggara)
+place a fielder(cricket boundary)
 
 called off(strike)
 
