@@ -183,10 +183,6 @@ I work on weekends too.(less formal but short)
 
 ------
 
--> At least pretend that you are working.
-
--> He is trading his job for a life of enjoyment.
-
 -> In my next life, I want to/will be born as a bird.(be +v3)
 
 -> Which company's building is this?
