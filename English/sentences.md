@@ -153,13 +153,31 @@ I work on weekends too.(less formal but short)
 
 -> How long(much time) will it take to finish the homework?
 
+-> I have crossed/reached my daily limit.
+
+-> Kindly stick to your word/decision.
+
+-> Kindly state/share the reason.
+
+-> He hasn’t been to the office for the last two months.
+
+-> We should bowl above waist or shoulder height.
+
+-> Could you please hold my phone for a moment?
+
+-> I’m sensitive to deodorants because they trigger my asthma.
+
+-> I will throw the stone into the bucket. (If you're tossing it into the bucket.)
+
+-> We ordered pizza, but we should have chosen pasta instead.
+
+-> They settled the case out of court, but I would rather have seen it go to trial.
+
 ------
 
 -> At least pretend that you are working.
 
 -> He is trading his job for a life of enjoyment.
-
--> He hasn’t been to the office for the last two months.
 
 -> Which company's building is this?
 
@@ -167,23 +185,7 @@ I work on weekends too.(less formal but short)
 
 -> In my next life, I want to/will be born as a bird.(be +v3)
 
--> We should bowl above waist or shoulder height.
-
--> I have exceeded/reached my daily limit.
-
--> Could you please hold my phone for a moment?
-
--> Kindly stick to your word/decision.
-
--> Kindly state/share the reason.
-
--> Please open and display the application.
-
--> I will throw the stone into the bucket. (If you're tossing it into the bucket.)
-
 -> The stitches have come open.  (The stitches have loosened or opened.)
-
--> I’m sensitive to deodorants because they trigger my asthma.
 
 -> Three PCs have failed. ✅
 
@@ -195,6 +197,3 @@ I work on weekends too.(less formal but short)
 
 -> I have failed in my career.
 
--> We ordered pizza, but we should have chosen pasta instead.
-
--> They settled the case out of court, but I would rather have seen it go to trial.
