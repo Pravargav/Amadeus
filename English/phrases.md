@@ -118,8 +118,6 @@ run out of(charge, money, data)
 
 ruled out
 
-which factor
-
 poem and essense (padyam and bhavam)
 
 step back(taggadam)
