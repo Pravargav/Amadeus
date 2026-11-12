@@ -173,6 +173,14 @@ I work on weekends too.(less formal but short)
 
 -> They settled the case out of court, but I would rather have seen it go to trial.
 
+-> Three PCs have failed. ✅
+
+-> They are passing by this street.
+
+-> The stitches have come open.  
+
+-> The stitches have loosened or opened up.(You do not need to use "were opened" or simply "opened"; "have opened" is also grammatically correct.)
+
 ------
 
 -> At least pretend that you are working.
@@ -180,12 +188,6 @@ I work on weekends too.(less formal but short)
 -> He is trading his job for a life of enjoyment.
 
 -> In my next life, I want to/will be born as a bird.(be +v3)
-
--> The stitches have come open.  (The stitches have loosened or opened.)
-
--> Three PCs have failed. ✅
-
--> They are passing by this street.
 
 -> Which company's building is this?
 
