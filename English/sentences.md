@@ -1,4 +1,4 @@
--> bp1 works fine; however, bt1 continues to show the same error despite repeated attempts.
+-> Bp1 works fine. However, bt1 continues to show the same error despite repeated attempts.
 
 -> The tyres sank into the ground under the truck's weight.
 
@@ -202,7 +202,7 @@ I work on weekends too.(less formal but short)
 
 -> I have failed in my career.
 
--> How long will it take to finish the homework?
+-> How long(much time) will it take to finish the homework?
 
 -> We ordered pizza, but we should have chosen pasta instead.
 
