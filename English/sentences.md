@@ -179,10 +179,6 @@ I work on weekends too.(less formal but short)
 
 -> He is trading his job for a life of enjoyment.
 
--> Which company's building is this?
-
--> Which company does this building belong to? 
-
 -> In my next life, I want to/will be born as a bird.(be +v3)
 
 -> The stitches have come open.  (The stitches have loosened or opened.)
@@ -191,7 +187,9 @@ I work on weekends too.(less formal but short)
 
 -> They are passing by this street.
 
--> It has faded away. ✅
+-> Which company's building is this?
+
+-> Which company does this building belong to? 
 
 -> I failed my parents.
 
