@@ -4,7 +4,9 @@ cover up(conceal)
 
 business essential
 
-took off(teeseytam battalu/shoes)
+took off(teeseytam battalu)
+
+took off(teeseytam shoes)
 
 each other 
 
@@ -16,7 +18,7 @@ phased out
 
 displaying error 
 
-state the reason/issue(share the reason or issue)
+state the reason/issue(share the reason/issue)
 
 throws error
 
@@ -24,7 +26,11 @@ put out(fire)
 
 run out(aypotam)
 
-carry weight(baaram moyyatam,badyatha teeskotam)
+carry the weight(baruvu moyyatam)
+
+handle weight
+
+hold the weight
 
 naming convention
 
@@ -34,9 +40,9 @@ vehicles passing
 
 status bar
 
-such level of scarcity(such amount of)
-
 progress bar
+
+such level of scarcity(such amount of scarcity)
 
 played role 
 
@@ -44,7 +50,9 @@ revoke access
 
 representing country 
 
-water stagnates(nilchipotam)
+water stagnate(nilchipotam)
+
+stagnating water
 
 stated that
 
@@ -122,5 +130,4 @@ desired item
 
 versions of Ramayana 
 
-
-
+version of story
