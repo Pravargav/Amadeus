@@ -2,6 +2,8 @@ cover up(tappulu kappipuchukotam)
 
 cover up(conceal)
 
+faded away
+
 business essential
 
 took off(teeseytam battalu)
