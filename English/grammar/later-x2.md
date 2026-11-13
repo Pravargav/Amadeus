@@ -1,4 +1,4 @@
-The difference between “later” and “later than” is about comparison vs no comparison.
+The difference between “later” and “later than” is about comparison vs no-comparison.
 
 1. Later
 
