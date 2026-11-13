@@ -1,4 +1,4 @@
-Emphasise the day (today / yesterday / tomorrow) in British English ✅
+
 
 ---
 
@@ -16,8 +16,6 @@ I completed it just yesterday.
 
 I did complete it yesterday. ⭐ (strong emphasis)
 
-I completed it as early as yesterday.
-
 ---
 
 🇬🇧 3️⃣ Emphasising TOMORROW
@@ -34,9 +32,6 @@ Method	Example-
 
 Method
 Example:
-
-only / just- 
-only yesterday
 
 did + verb- 
 did complete
