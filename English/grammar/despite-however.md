@@ -2,7 +2,7 @@
 
 Both show **contrast**, but they work differently in a sentence.
 
-## 1. Despite = “even though / in spite of”
+## 1. Despite = “although /even though / in spite of”
 
 ### Despite + noun
 
