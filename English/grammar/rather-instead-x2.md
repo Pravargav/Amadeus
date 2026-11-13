@@ -16,14 +16,8 @@ Both structures express a different reaction to a past event. Let's understand t
 - Now we think we made the wrong choice.
 
 **More examples:**
-
-- I should have studied harder for the exam.
 - You should have told me about the problem earlier.
 - We should have booked the tickets in advance.
-- He should have apologised to her.
-- I shouldn't have spent so much money.
-- They should have hired a more experienced developer.
-- You should have listened to my advice.
 
 **Remember:** It often expresses what was the right or better thing to do, but wasn't done.
 
@@ -55,13 +49,10 @@ Both structures express a different reaction to a past event. Let's understand t
 | Structure | Main meaning | Example |
 |---|---|---|
 | I wish I had... | Regret about the past | I wish I had studied harder. |
-| I should have... | A better or correct action wasn't taken | I should have studied harder. |
 | I would rather have... | Preference for a different past outcome | I would rather have studied abroad. |
 
 ### A Simple Way to Remember
 
 - **I wish I had:** I regret what happened.
-- **I should have:** I did something wrong or failed to do something better.
 - **I would rather have:** I prefer a different past choice or outcome.
 
-**Remember:** All three structures can refer to the past, but they express different attitudes towards it.
