@@ -394,6 +394,8 @@ extend
 
 extension 
 
+encroach(kabzaa)
+
 exaggerated 
 
 emerge
