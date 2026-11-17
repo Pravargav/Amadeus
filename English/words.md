@@ -26,6 +26,8 @@ accommodate(fit)
 
 address
 
+attribute(Athanivalle/Athanike jarigindhii)
+
 assured
 
 ambiguity 
