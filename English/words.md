@@ -8,6 +8,8 @@ ago
 
 acknowledgment
 
+attribute(quality or feature)
+
 admit
 
 adapt
