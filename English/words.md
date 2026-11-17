@@ -432,6 +432,8 @@ fell
 
 foul
 
+firm
+
 four-way
 
 frighten
@@ -441,6 +443,8 @@ freeways
 favour
 
 fell
+
+firmly
 
 functionality 
 
