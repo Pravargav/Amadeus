@@ -912,6 +912,8 @@ ruled
 
 rites
 
+relative(opposite of absolute)
+
 ruined
 
 rid
