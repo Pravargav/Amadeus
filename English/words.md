@@ -212,6 +212,8 @@ compensating
 
 complementary 
 
+capacity 
+
 checkout 
 
 conflict 
@@ -905,6 +907,8 @@ reserves
 recommended
 
 rhyming 
+
+retain
 
 representing
 
