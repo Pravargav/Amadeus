@@ -808,6 +808,8 @@ practice
 
 provide
 
+prone(to restructuring/ layoffs)
+
 presents
 
 protest
