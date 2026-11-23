@@ -102,6 +102,8 @@ place a fielder(cricket boundary)
 
 called off(strike)
 
+stand out(separates)
+
 speaks well(manchiga maatladatam)
 
 read out(phone number Cheppu)
