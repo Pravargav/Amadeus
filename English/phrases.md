@@ -138,8 +138,8 @@ even though(don't use this, just use Although)
 
 go to bed
 
-get stressed(instead of getting tension or tensed )
+get stressed(instead of getting tension or tensed)
 
-stress out(instead of getting tension or tensed )
+stress out(instead of getting tension or tensed)
 
 get anxious(instead of getting tension or tensed as 'tensed' is not even present in english vocabulary)
