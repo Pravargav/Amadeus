@@ -700,6 +700,8 @@ meet
 
 missed
 
+mean(unkind, rude)
+
 misplaced 
 
 mindful
