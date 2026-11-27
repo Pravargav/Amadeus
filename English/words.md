@@ -748,6 +748,8 @@ opposite
 
 overcome
 
+overall(on a whole)
+
 overpass
 
 overwhelming 
