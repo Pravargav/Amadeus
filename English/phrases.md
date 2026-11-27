@@ -141,3 +141,6 @@ go to bed
 get stressed/stress out(instead of getting tension or tensed)
 
 get anxious(instead of getting tension or tensed as 'tensed' is not even present in english vocabulary)
+
+
+on a whole(overall)
