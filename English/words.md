@@ -750,6 +750,8 @@ opposite
 
 overcome
 
+opted
+
 overall(on a whole)
 
 overpass
